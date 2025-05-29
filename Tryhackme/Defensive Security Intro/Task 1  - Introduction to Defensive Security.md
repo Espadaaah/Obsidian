@@ -26,3 +26,6 @@ Answer the questions below
 
 Which team focuses on defensive security?
 	Blue Team
+
+
+
