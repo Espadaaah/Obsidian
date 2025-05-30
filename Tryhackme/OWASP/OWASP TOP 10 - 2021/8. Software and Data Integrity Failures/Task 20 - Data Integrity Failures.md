@@ -52,3 +52,7 @@ Depending on your browser, you will be able to edit cookies from the following t
 
 
 What is the name of the website's cookie containing a JWT token?
+	jwt-session
+
+What is the flag presented to the admin user?
+	THM{Dont_take_cookies_from_strangers}

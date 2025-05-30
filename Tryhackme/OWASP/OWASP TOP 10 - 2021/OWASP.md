@@ -28,6 +28,9 @@
 
 
 8. Software and Data Integrity Failures
+[[Task 18 - 8. Software and Data Integrity Failures]]
+[[Task 19 - Software Integrity Failures]]
+[[Task 20 - Data Integrity Failures]]
 
 
 9. Security Logging & Monitoring Failures
