@@ -3,6 +3,7 @@
 [[Task 4 - Broken Access Control (IDOR Challenge)]]
 
 2. Cryptographic Failures
+[[Task 5 - 2. Cryptographic Failures]]
 
 3. Injection
 
