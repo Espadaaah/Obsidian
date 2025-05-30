@@ -9,15 +9,18 @@ Let's take WinSCP as an example to understand better how we can use hashes to ch
 ![WinSCP hashes](https://tryhackme-images.s3.amazonaws.com/user-uploads/5ed5961c6276df568891c3ea/room-content/b93dd140259193ee75ae1d12562bbd29.png)  
 
 These hashes were precalculated by the creators of WinSCP so that you can check the file's integrity after downloading. If we download the `WinSCP-5.21.5-Setup.exe` file, we can recalculate the hashes and compare them against the ones published in Sourceforge. To calculate the different hashes in Linux, we can use the following commands:
-```python
-user@attackbox$ md5sum WinSCP-5.21.5-Setup.exe
-20c5329d7fde522338f037a7fe8a84eb WinSCP-5.21.5-Setup.exe 
 
+AttackBox
+
+```shell-session
+user@attackbox$ md5sum WinSCP-5.21.5-Setup.exe          
+20c5329d7fde522338f037a7fe8a84eb  WinSCP-5.21.5-Setup.exe
+                                                                                                                
 user@attackbox$ sha1sum WinSCP-5.21.5-Setup.exe 
-c55a60799cfa24c1aeffcd2ca609776722e84f1b WinSCP-5.21.5-Setup.exe 
-
+c55a60799cfa24c1aeffcd2ca609776722e84f1b  WinSCP-5.21.5-Setup.exe
+                                                                                                                
 user@attackbox$ sha256sum WinSCP-5.21.5-Setup.exe 
-e141e9a1a0094095d5e26077311418a01dac429e68d3ff07a734385eb0172bea WinSCP-5.21.5-Setup.exe
+e141e9a1a0094095d5e26077311418a01dac429e68d3ff07a734385eb0172bea  WinSCP-5.21.5-Setup.exe
 ```
 
 Since we got the same hashes, we can safely conclude that the file we downloaded is an exact copy of the one on the website.
