@@ -23,6 +23,8 @@
 [[Task 15 - Vulnerable and Outdated Components - Lab]]
 
 7. Identification and Authentication Failures
+[[Task 16 - 7.  Identification and Authentication Failures]]
+[[Task 17 - Identification and Authentication Failures Practical]]
 
 
 8. Software and Data Integrity Failures
