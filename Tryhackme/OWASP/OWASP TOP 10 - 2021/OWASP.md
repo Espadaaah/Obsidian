@@ -12,6 +12,7 @@
 [[Task 10 - 3.1. Command Injection]]
 
 4. Insecure Design
+[[Task 11 - 4. Insecure Design]]
 
 5. Security Misconfiguration
 
