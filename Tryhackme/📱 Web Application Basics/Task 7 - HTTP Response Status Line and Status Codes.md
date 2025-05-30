@@ -51,5 +51,17 @@ The server couldn’t find the resource at the given URL. Double-check that you�
 Something went wrong on the server’s end, and it couldn’t process your request.
 
 
+
 ___Answer the questions below___
 
+What part of an HTTP response provides the HTTP version, status code, and a brief explanation of the response's outcome?
+	
+	Status Line
+
+Which category of HTTP response codes indicates that the web server encountered an internal issue or is unable to fulfil the client's request?
+	
+	Server Error Responses
+
+Which HTTP status code indicates that the requested resource could not be found on the web server?
+	
+	404
