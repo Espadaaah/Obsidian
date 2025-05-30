@@ -22,9 +22,16 @@ One example of such a vulnerability was allegedly used when [Patreon got hacked
 
 ![Werkzeug console](https://tryhackme-images.s3.amazonaws.com/user-uploads/5ed5961c6276df568891c3ea/room-content/e95fec72ec6881026a67b94c20d6067d.png)  
 
-Practical example
 
-This VM showcases a `Security Misconfiguration` as part of the OWASP Top 10 Vulnerabilities list.
+___Answer the questions below___
 
-Navigate to [http://MACHINE_IP:86](http://machine_ip:86/) and try to exploit the security misconfiguration to read the application's source code.
+Use the Werkzeug console to run the following Python code to execute the `ls -l` command on the server:
+```python
+import os; print(os.popen("ls -l").read())
+```
 
+What is the database file name (the one with the .db extension) in the current directory?
+	todo.db
+
+Modify the code to read the contents of the `app.py` file, which contains the application's source code. What is the value of the `secret_flag` variable in the source code?
+	THM{Just_a_tiny_misconfiguration}
