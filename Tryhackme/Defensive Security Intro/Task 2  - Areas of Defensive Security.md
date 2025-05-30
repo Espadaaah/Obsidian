@@ -72,3 +72,17 @@ Malware analysis aims to learn about such malicious programs using various means
 
 1. Static analysis works by inspecting the malicious program without running it. This usually requires solid knowledge of assembly language (the processor’s instruction set, i.e., the computer’s fundamental instructions).
 2. Dynamic analysis works by running the malware in a controlled environment and monitoring its activities. It lets you observe how the malware behaves when running.
+
+___Answer the questions below___
+
+What would you call a team of cyber security professionals that monitors a network and its systems for malicious events?
+
+	Security Operations Center
+
+What does DFIR stand for?
+	
+	Digital Forensics and Incident Response
+
+Which kind of malware requires the user to pay money to regain access to their files?
+	
+	ransomware
