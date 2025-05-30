@@ -43,3 +43,8 @@ Broken access control vulnerabilities refer to situations where access control m
     
 
 These exploits can be prevented by implementing strong access control mechanisms and regularly reviewing and testing them to ensure they are functioning as intended.
+
+Answer the questions below
+
+Which team focuses on defensive security?
+	Blue Team
