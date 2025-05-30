@@ -96,6 +96,18 @@ Here’s a breakdown of the Referrer-Policy header by directives:
 
 ___Answer the questions below___
 
+In a Content Security Policy (CSP) configuration, which property can be set to define where scripts can be loaded from?
+	
+	script-src
+
+When configuring the Strict-Transport-Security (HSTS) header to ensure that all subdomains of a site also use HTTPS, which directive should be included to apply the security policy to both the main domain and its subdomains?
+	
+	includeSubDomains
+
+Which HTTP header directive is used to prevent browsers from interpreting files as a different MIME type than what is specified by the server, thereby mitigating content type sniffing attacks?
+	
+	nosniff
+
 
 
 [[Task 10 - Practical Task Making HTTP Requests]]
