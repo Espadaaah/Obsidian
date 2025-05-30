@@ -19,3 +19,12 @@ c55a60799cfa24c1aeffcd2ca609776722e84f1b WinSCP-5.21.5-Setup.exe
 user@attackbox$ sha256sum WinSCP-5.21.5-Setup.exe 
 e141e9a1a0094095d5e26077311418a01dac429e68d3ff07a734385eb0172bea WinSCP-5.21.5-Setup.exe
 ```
+
+Since we got the same hashes, we can safely conclude that the file we downloaded is an exact copy of the one on the website.
+
+Software and Data Integrity Failures  
+
+This vulnerability arises from code or infrastructure that uses software or data without using any kind of integrity checks. Since no integrity verification is being done, an attacker might modify the software or data passed to the application, resulting in unexpected consequences. There are mainly two types of vulnerabilities in this category:
+
+- Software Integrity Failures
+- Data Integrity Failures
