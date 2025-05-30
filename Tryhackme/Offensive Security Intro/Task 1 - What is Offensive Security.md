@@ -16,3 +16,5 @@ Which of the following options better represents the process where you simulate 
 
 - Offensive Security
 - Defensive Security
+
+		Offensive Security
