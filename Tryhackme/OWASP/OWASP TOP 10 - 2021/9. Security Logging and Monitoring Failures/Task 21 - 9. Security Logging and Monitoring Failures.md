@@ -27,7 +27,9 @@ Put this knowledge to practice by analysing the provided sample log file. You ca
 ___Answer the questions below___
 
 What IP address is the attacker using?
+	
 	49.99.13.16
 
 What kind of attack is being carried out?
+	
 	Brute Force
