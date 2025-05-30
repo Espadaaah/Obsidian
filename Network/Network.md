@@ -1,3 +1,3 @@
 [[Modelo TCPIP]]
-[[Subneting]]
+[[Subnetting]]
 
