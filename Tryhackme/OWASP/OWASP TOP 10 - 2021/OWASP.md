@@ -4,7 +4,9 @@
 
 2. Cryptographic Failures
 [[Task 5 - 2. Cryptographic Failures]]
-
+[[Task 6 - Cryptographic Failures (Supporting Material 1)]]
+[[Task 7 - Cryptographic Failures (Supporting Material 2)]]
+[[[Task 8 - Cryptographic Failures (Challenge)]]
 3. Injection
 
 4. Insecure Design
