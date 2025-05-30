@@ -15,13 +15,20 @@
 [[Task 11 - 4. Insecure Design]]
 
 5. Security Misconfiguration
-[[T]]
+[[Task 12 - 5. Security Misconfiguration]]
+
 6. Vulnerable and Outdated Components
+[[Task 13 - 6. Vulnerable and Outdated Components]]
+[[Task 14 - Vulnerable and Outdated Components - Exploit]]
+[[Task 15 - Vulnerable and Outdated Components - Lab]]
 
 7. Identification and Authentication Failures
 
+
 8. Software and Data Integrity Failures
 
+
 9. Security Logging & Monitoring Failures
+
 
 10. Server-Side Request Forgery (SSRF)
