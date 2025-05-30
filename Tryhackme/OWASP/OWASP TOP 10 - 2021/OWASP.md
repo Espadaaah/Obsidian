@@ -7,6 +7,7 @@
 [[Task 6 - Cryptographic Failures (Supporting Material 1)]]
 [[Task 7 - Cryptographic Failures (Supporting Material 2)]]
 [[Task 8 - Cryptographic Failures (Challenge)]]
+
 3. Injection
 [[Task 9 - 3. Injection]]
 [[Task 10 - 3.1. Command Injection]]
@@ -26,14 +27,13 @@
 [[Task 16 - 7.  Identification and Authentication Failures]]
 [[Task 17 - Identification and Authentication Failures Practical]]
 
-
 8. Software and Data Integrity Failures
 [[Task 18 - 8. Software and Data Integrity Failures]]
 [[Task 19 - Software Integrity Failures]]
 [[Task 20 - Data Integrity Failures]]
 
-
 9. Security Logging & Monitoring Failures
-
+[[Task 21 - 9. Security Logging and Monitoring Failures]]
 
 10. Server-Side Request Forgery (SSRF)
+[[Task 22 - 10. Server-Side Request Forgery (SSRF)]]
