@@ -36,6 +36,7 @@ It sounds pretty simple! Let's walk through the process an attacker would have t
 ___Answer the questions below___
 
 Try logging into the application as guest. What is guest's account password?
+	
 	guest
 
 If your login was successful, you should now have a JWT stored as a cookie in your browser. Press F12 to bring out the Developer Tools.
@@ -52,7 +53,9 @@ Depending on your browser, you will be able to edit cookies from the following t
 
 
 What is the name of the website's cookie containing a JWT token?
+	
 	jwt-session
 
 What is the flag presented to the admin user?
+	
 	THM{Dont_take_cookies_from_strangers}

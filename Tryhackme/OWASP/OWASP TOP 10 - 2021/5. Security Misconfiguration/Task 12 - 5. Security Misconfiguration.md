@@ -31,7 +31,9 @@ import os; print(os.popen("ls -l").read())
 ```
 
 What is the database file name (the one with the .db extension) in the current directory?
+	
 	todo.db
 
 Modify the code to read the contents of the `app.py` file, which contains the application's source code. What is the value of the `secret_flag` variable in the source code?
+	
 	THM{Just_a_tiny_misconfiguration}

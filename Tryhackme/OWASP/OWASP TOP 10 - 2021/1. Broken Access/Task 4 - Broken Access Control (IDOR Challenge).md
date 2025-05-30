@@ -15,5 +15,5 @@ The application exposes a direct object reference through the `id` parameter i
 ___Answer the questions below___
 
 Look at other users' notes. What is the flag?
-	flag{fivefourthree}
 	
+	flag{fivefourthree}
