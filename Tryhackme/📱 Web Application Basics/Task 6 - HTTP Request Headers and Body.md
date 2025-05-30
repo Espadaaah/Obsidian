@@ -89,8 +89,17 @@ Content-Length: 124
 </user>
 ```
 
+
 ___Answer the questions below___
 
 Which HTTP request header specifies the domain name of the web server to which the request is being sent?
 	
 	Host
+
+What is the default content type for form submissions in an HTTP request where the data is encoded as key=value pairs in a query string format?
+	
+	application/x-www-form-urlencoded
+
+Which part of an HTTP request contains additional information like host, user agent, and content type, guiding how the web server should process the request?
+	
+	Request Headers

@@ -52,3 +52,6 @@ What term describes the practice of registering domain names that are misspelt v
 What part of a URL is used to pass additional information, such as search terms or form inputs, to the web server?
 	
 	Query String
+
+
+[[Task 4 - HTTP Messages]]

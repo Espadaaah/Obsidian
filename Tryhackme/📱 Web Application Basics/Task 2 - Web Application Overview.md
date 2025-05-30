@@ -63,3 +63,6 @@ Which tool is used to access and interact with web applications?
 Which component acts as a protective layer, filtering incoming traffic to block malicious attacks, and ensuring the security of the the web application?
 	
 	web application firewall
+
+
+[[Task 3 - Uniform Resource Locator]]
