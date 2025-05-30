@@ -16,9 +16,7 @@ Notice how the vulnerability is related to the idea that no user would be capabl
 
 Since insecure design vulnerabilities are introduced at such an early stage in the development process, resolving them often requires rebuilding the vulnerable part of the application from the ground up and is usually harder to do than any other simple code-related vulnerability. The best approach to avoid such vulnerabilities is to perform threat modelling at the early stages of the development lifecycle. To get more information on how to implement secure development lifecycles, be sure to check out the [SSDLC room](https://tryhackme.com/room/securesdlc).
 
-Practical Example
 
-Navigate to [http://MACHINE_IP:85](http://machine_ip:85/) and get into joseph's account. This application also has a design flaw in its password reset mechanism. Can you figure out the weakness in the proposed design and how to abuse it?
 
 ___Answer the questions below___
 
