@@ -61,7 +61,6 @@ What is ABAC?
 What is RBAC?
 	Role-Based Access Control
 
-[[OWASP]]
 [[Task 4 - Assessing the Web Application]]
 [[Task 5 - Exploiting the Web Application]]
 [[Task 6 - Mitigation]]
