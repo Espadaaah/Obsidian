@@ -12,7 +12,7 @@ These hashes were precalculated by the creators of WinSCP so that you can check 
 
 AttackBox
 
-```shell-session
+```shell
 user@attackbox$ md5sum WinSCP-5.21.5-Setup.exe          
 20c5329d7fde522338f037a7fe8a84eb  WinSCP-5.21.5-Setup.exe
                                                                                                                 
