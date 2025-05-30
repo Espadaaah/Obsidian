@@ -9,7 +9,7 @@ That is a big hint for the challenge, so let's briefly cover some of the syntax 
 The most common (and simplest) format of a flat-file database is an SQLite database. These can be interacted with in most programming languages and have a dedicated client for querying them on the command line. This client is called `sqlite3` and is installed on many Linux distributions by default.  
 
 Let's suppose we have successfully managed to download a database:
-```
+```php
 user@linux$ ls -l 
 -rw-r--r-- 1 user user 8192 Feb 2 20:33 example.db 
 user@linux$ file example.db 
