@@ -65,3 +65,6 @@ Which category of HTTP response codes indicates that the web server encountered 
 Which HTTP status code indicates that the requested resource could not be found on the web server?
 	
 	404
+
+[[Task 8 - HTTP Response Headers and Body]]
+
