@@ -8,6 +8,8 @@
 [[Task 7 - Cryptographic Failures (Supporting Material 2)]]
 [[Task 8 - Cryptographic Failures (Challenge)]]
 3. Injection
+[[Task 9 - 3. Injection]]
+[[Task 10 - 3.1. Command Injection]]
 
 4. Insecure Design
 

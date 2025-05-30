@@ -19,7 +19,7 @@ example.db: SQLite 3.x database, last written using SQLite version 3039002, file
 We can see that there is an SQLite database in the current folder.
 
 To access it, we use `sqlite3 <database-name>`:
-```
+```php
 user@linux$ sqlite3 example.db 
 SQLite version 3.39.2 2022-07-21 15:24:47 
 Enter ".help" for usage hints. 
@@ -27,7 +27,7 @@ sqlite>
 ```
 
 From here, we can see the tables in the database by using the `.tables` command:
-```
+```php
 user@linux$ sqlite3 example.db 
 SQLite version 3.39.2 2022-07-21 15:24:47 
 Enter ".help" for usage hints. 
@@ -36,7 +36,7 @@ customers
 ```
 
 At this point, we can dump all the data from the table, but we won't necessarily know what each column means unless we look at the table information. First, let's use `PRAGMA table_info(customers);` to see the table information. Then we'll use `SELECT * FROM customers;` to dump the information from the table:
-```
+```php
 sqlite> PRAGMA table_info(customers); 
 0|cudtID|INT|1||1 
 1|custName|TEXT|1||0 
