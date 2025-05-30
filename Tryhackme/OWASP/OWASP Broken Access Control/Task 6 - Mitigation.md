@@ -16,6 +16,19 @@ There are several steps that can be taken to mitigate the risk of broken access 
 	}
 	
 // Example usage
-
+	if (hasPermission('admin', 'delete')) { 
+		// Allow delete operation 
+	} else { 
+		// Deny delete operation 
+	}
 ```
+
+2. **Use Parameterized Queries**: Parameterized queries are a way to protect PHP applications from SQL Injection attacks, where malicious users could potentially gain unauthorized access to your database. By using placeholders instead of directly including user input into the SQL query, you can significantly reduce the risk of SQL Injection attacks. The provided example demonstrates how a query can be made secure using prepared statements, which separates SQL syntax from data and handles user input safely.
+```
+// Example of vulnerable query
+	$username = $_POST['username']; $password = $_POST['password']; $query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
+```
+
+
+
 [[OWASP TOP 10 - 2021]]
