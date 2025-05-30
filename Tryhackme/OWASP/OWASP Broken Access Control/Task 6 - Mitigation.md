@@ -26,9 +26,24 @@ There are several steps that can be taken to mitigate the risk of broken access 
 2. **Use Parameterized Queries**: Parameterized queries are a way to protect PHP applications from SQL Injection attacks, where malicious users could potentially gain unauthorized access to your database. By using placeholders instead of directly including user input into the SQL query, you can significantly reduce the risk of SQL Injection attacks. The provided example demonstrates how a query can be made secure using prepared statements, which separates SQL syntax from data and handles user input safely.
 ```
 // Example of vulnerable query
-	$username = $_POST['username']; $password = $_POST['password']; $query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
+	$username = $_POST['username']; 
+	$password = $_POST['password']; 
+	$query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
+
+// Example of secure query using prepared statements
+	$username = $_POST['username']; 
+	$password = $_POST['password']; 
+	$stmt = $pdo->prepare("SELECT * FROM users WHERE username=? AND password=?"); 
+	$stmt->execute([$username, $password]); 
+	$user = $stmt->fetch();
 ```
 
+3. **Proper Session Management**: Proper session management ensures that authenticated users have timely and appropriate access to resources, thereby reducing the risk of unauthorized access to sensitive information. Session management includes using secure cookies, setting session timeouts, and limiting the number of active sessions a user can have. The code snippet shows how to initialize a session, set session variables and check for session validity by looking at the last activity time.
+```
+// Start session
+	session_start();
+	
+```
 
 
 [[OWASP TOP 10 - 2021]]
