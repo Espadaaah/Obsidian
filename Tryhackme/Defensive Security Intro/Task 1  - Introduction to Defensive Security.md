@@ -22,9 +22,11 @@ There is much more to defensive security. Aside from the above, we will also cov
 - Digital Forensics and Incident Response (DFIR)
 - Malware Analysis
 
+
 ___Answer the questions below___
 
 Which team focuses on defensive security?
+	
 	Blue Team
 
 
