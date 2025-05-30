@@ -44,12 +44,15 @@ Based on the screenshot displayed above, we can observe that upon completing the
 ___Answer the questions below___
 
 What is the type of server that is hosting the web application? This can be found in the response of the request in Burp Suite.
+	
 	Apache
 
 What is the name of the parameter in the JSON response from the login request that contains a redirect link?
+	
 	redirect_link
 
 What Burp Suite module allows us to capture requests and responses between ourselves and our target?
+	
 	Proxy
 
 What is the admin's email that can be found in the online users' table?

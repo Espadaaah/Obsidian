@@ -47,18 +47,23 @@ These exploits can be prevented by implementing strong access control mechanisms
 ___Answer the questions below___
 
 What is IDOR?
+	
 	Insecure direct object reference
 
 What occurs when an attacker can access resources or data belonging to other users with the same level of access?  
+	
 	Horizontal privilege escalation
 
 What occurs when an attacker can access resources or data from users with higher access levels?  
+	
 	Vertical privilege escalation
 
 What is ABAC?
+	
 	Attribute-Based Access Control
 
 What is RBAC?
+	
 	Role-Based Access Control
 
 [[Task 4 - Assessing the Web Application]]

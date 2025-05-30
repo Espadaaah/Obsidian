@@ -87,3 +87,6 @@ What does DFIR stand for?
 Which kind of malware requires the user to pay money to regain access to their files?
 	
 	ransomware
+
+
+[[Task 3 - Practical Example of Defensive Security]]

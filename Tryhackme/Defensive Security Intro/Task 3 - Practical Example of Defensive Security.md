@@ -24,6 +24,11 @@ What's next?
 
 In this room, we've discussed the different subfields (SOC, Threat Intelligence, Malware Analysis, and DFIR) and experienced firsthand how to deal with alerts in a simulated SIEM environment. While we've covered a lot, the depth and complexity of this field mean there's more to learn and explore. The lessons learned here will serve as your foundation as cyber threats evolve, demanding continuous learning, vigilance, and adaptation.
 
-  
-
 Continue learning by checking out the next room in this series, "Search Skills." This room will teach you valuable techniques for searching for information online to aid your investigations and learning.
+
+
+___Answer the questions below___
+
+What is the flag that you obtained by following along?
+	
+	THM{THREAT-BLOCKED}
