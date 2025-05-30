@@ -58,7 +58,15 @@ if (isset($_SESSION['last_activity']) && (time() - $_SESSION['last_activity'] > 
 
 4. **Use Secure Coding Practices**: Secure coding practices involve methods to prevent the introduction of security vulnerabilities. Developers should sanitize and validate user input to prevent malicious data from causing harm and avoid using insecure functions or libraries. The given example shows how to sanitize user input using PHP’s `filter_input` function and demonstrates how to securely hash a password using `password_hash` instead of an insecure function like `md5`.
 ```
+// Validate user input 
+$username = filter_input(INPUT_POST, 'username', FILTER_SANITIZE_STRING);
+$password = filter_input(INPUT_POST, 'password', FILTER_SANITIZE_STRING);
 
+// Avoid insecure functions 
+// Example of vulnerable code using md5 
+$password = md5($password); 
+// Example of secure code using password_hash 
+$password = password_hash($password, PASSWORD_DEFAULT);
 ```
 
 [[OWASP TOP 10 - 2021]]
