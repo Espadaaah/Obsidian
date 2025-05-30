@@ -31,9 +31,9 @@ There are several steps that can be taken to mitigate the risk of broken access 
 	$query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
 
 // Example of secure query using prepared statements
-	$username = $_POST['username']; 
-	$password = $_POST['password']; 
-	$stmt = $pdo->prepare("SELECT * FROM users WHERE username=? AND password=?"); 
+$username = $_POST['username']; 
+$password = $_POST['password']; 
+$stmt = $pdo->prepare("SELECT * FROM users WHERE username=? AND password=?"); 
 	$stmt->execute([$username, $password]); 
 	$user = $stmt->fetch();
 ```
@@ -43,6 +43,17 @@ There are several steps that can be taken to mitigate the risk of broken access 
 // Start session
 	session_start();
 	
+// Set session variables
+	$_SESSION['user_id'] = $user_id; 
+	$_SESSION['last_activity'] = time();
+
+// Check if session is still valid
+if (isset($_SESSION['last_activity']) && (time() - $_SESSION['last_activity'] > 1800)) {
+
+	// Session has expired
+	session_unset(); 
+	session_destroy(); 
+}
 ```
 
 
