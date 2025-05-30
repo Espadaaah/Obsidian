@@ -87,3 +87,5 @@ Which HTTP request method describes the communication options for the target res
 In an HTTP request, which component specifies the specific resource or endpoint on the web server that the client is requesting, typically appearing after the domain name in the URL?
 	
 	URL Path
+
+[[Task 6 - HTTP Request Headers and Body]]

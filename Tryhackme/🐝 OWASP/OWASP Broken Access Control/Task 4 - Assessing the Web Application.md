@@ -59,5 +59,3 @@ What is the admin's email that can be found in the online users' table?
 	admin@admin.com
 
 [[Task 5 - Exploiting the Web Application]]
-[[Task 6 - Mitigation]]
-

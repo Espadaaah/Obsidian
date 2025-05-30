@@ -67,6 +67,4 @@ What is RBAC?
 	Role-Based Access Control
 
 [[Task 4 - Assessing the Web Application]]
-[[Task 5 - Exploiting the Web Application]]
-[[Task 6 - Mitigation]]
 
