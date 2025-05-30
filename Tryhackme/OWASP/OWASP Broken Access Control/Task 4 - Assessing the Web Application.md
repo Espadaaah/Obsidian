@@ -41,7 +41,7 @@ Based on the screenshot displayed above, we can observe that upon completing the
 - The target web application utilizes `PHP/8.0.19` as its backend programming language. This information is important for understanding the technology stack of the application and identifying potential security vulnerabilities or compatibility issues that may arise with other software components.
 - The target web application redirects the user to the dashboard with a parameter that we can possibly test for privilege escalation vulnerabilities.
 
-Answer the questions below
+___Answer the questions below___
 
 What is the type of server that is hosting the web application? This can be found in the response of the request in Burp Suite.
 	Apache

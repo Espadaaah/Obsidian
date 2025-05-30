@@ -1,5 +1,6 @@
 1. Broken Access Control
 [[Task 3 - 1. Broken Access Control]]
+[[Task 4 - Broken Access Control (IDOR Challenge)]]
 
 2. Cryptographic Failures
 
