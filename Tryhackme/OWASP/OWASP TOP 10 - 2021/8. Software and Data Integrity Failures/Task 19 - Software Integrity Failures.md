@@ -23,4 +23,5 @@ You can go to [https://www.srihash.org/](https://www.srihash.org/) to generate
 ___Answer the questions below___
 
 What is the SHA-256 hash of `https://code.jquery.com/jquery-1.12.4.min.js`?
+	
 	sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=
