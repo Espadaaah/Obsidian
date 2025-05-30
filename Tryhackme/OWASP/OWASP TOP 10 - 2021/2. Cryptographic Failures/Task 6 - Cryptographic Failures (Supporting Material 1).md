@@ -12,7 +12,7 @@ Let's suppose we have successfully managed to download a database:
 
 Linux
 
-```shell-session
+```shell
 user@linux$ ls -l 
 -rw-r--r-- 1 user user 8192 Feb  2 20:33 example.db
                                                                                                                                                               
@@ -26,7 +26,7 @@ To access it, we use `sqlite3 <database-name>`:
 
 Linux
 
-```shell-session
+```shell
 user@linux$ sqlite3 example.db                     
 SQLite version 3.39.2 2022-07-21 15:24:47
 Enter ".help" for usage hints.
@@ -37,7 +37,7 @@ From here, we can see the tables in the database by using the `.tables` comman
 
 Linux
 
-```shell-session
+```shell
 user@linux$ sqlite3 example.db                     
 SQLite version 3.39.2 2022-07-21 15:24:47
 Enter ".help" for usage hints.
@@ -49,7 +49,7 @@ At this point, we can dump all the data from the table, but we won't necessarily
 
 Linux
 
-```shell-session
+```shell
 sqlite> PRAGMA table_info(customers);
 0|cudtID|INT|1||1
 1|custName|TEXT|1||0
