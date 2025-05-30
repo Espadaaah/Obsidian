@@ -63,5 +63,6 @@ What is RBAC?
 
 [[OWASP TOP 10 - 2021]]
 [[Task 4 - Assessing the Web Application]]
-[[Taskk 5 - Exploiting the Web Application]]
+[[Task 5 - Exploiting the Web Application]]
+[[Task 6 - Mitigation]]
 
