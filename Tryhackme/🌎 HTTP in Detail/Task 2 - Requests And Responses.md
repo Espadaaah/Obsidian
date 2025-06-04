@@ -95,7 +95,9 @@ What HTTP protocol is being used in the above example?
 	HTTP/1.1
 
 What response header tells the browser how much data to expect?
+	
+	Content-Length
 
 
 
-[[Untitled 1]]
+[[Task 3 - HTTP Methods]]
