@@ -42,7 +42,12 @@ What response code might you receive if you've tried to access a page that doesn
 	404
 
 What response code might you receive if the web server cannot access its database and the application crashes?
+	
 	503
 
+What response code might you receive if you try to edit your profile without logging in first?
+	
+	401
 
-[[Untitled 3]]
+
+[[Task 5 - Headers]]
