@@ -43,7 +43,8 @@ What header tells the browser what type of data is being returned?
 
 What header tells the web server which website is being requested?
 	
+	Host
 
 
 
-[[Untitled 4]]
+[[Task 6 - Cookies]]
