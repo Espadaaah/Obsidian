@@ -31,4 +31,6 @@ Your company hired a new sales representative. Which principle are they applying
 
 While reading the code of an ATM, you noticed a huge chunk of code to handle unexpected situations such as network disconnection and power failure. Which principle are they applying?
 	
-	
+	5
+
+[[Task 7 - Zero Trust versus Trust but Verify]]
