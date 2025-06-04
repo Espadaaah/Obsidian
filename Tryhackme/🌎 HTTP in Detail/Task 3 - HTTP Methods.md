@@ -33,5 +33,6 @@ What method would be used to remove a picture you've uploaded to your account?
 
 What method would be used to view a news article?
 	
+	GET
 
-[[Untitled 2]]
+[[Task 4 - HTTP Status Codes]]
