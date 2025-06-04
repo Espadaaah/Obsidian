@@ -19,4 +19,11 @@ Make a **DELETE** request to **/user/1** page
 	THM{USER_IS_DELETED}
 
 Make a **PUT** request to **/user/2** page with the **username** parameter set to **admin  
-**Note: Use the gear button on the right to manage body parameters
+Note: Use the gear button on the right to manage body parameters
+	
+	THM{USER_HAS_UPDATED}
+
+Make a **POST** request to **/login** page with the **username** of **thm** and a **password** of **letmein  
+Note: Use the gear button on the right to manage body parameters
+	
+	THM{HTTP_REQUEST_MASTER}
