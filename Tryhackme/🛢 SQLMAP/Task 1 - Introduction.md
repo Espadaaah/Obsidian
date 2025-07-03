@@ -9,3 +9,7 @@ sqlmap is an open source penetration testing tool developed by Bernardo Damele
 ### **Installing Sqlmap**
 
 If you're using Kali Linux, sqlmap is pre-installed. Otherwise, you can download it here: [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
+
+
+
+[[Task 2 - Using Sqlmap]]

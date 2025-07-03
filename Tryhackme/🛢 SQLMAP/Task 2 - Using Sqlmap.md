@@ -385,22 +385,25 @@ Which flag allows you to retrieve everything?
 	-a
 
 Which flag allows you to select the database name?
--D
+	
+	-D
 
 Which flag would you use to retrieve database tables?
-
-Correct Answer
+	
+	--tables
 
 Which flag allows you to retrieve a table’s columns?  
-
-Correct Answer
+	
+	--columns
 
 Which flag allows you to dump all the database table entries?
-
-Correct Answer
+	
+	--dump-all
 
 Which flag will give you an interactive SQL Shell prompt?
-
-Correct AnswerHint
+	
+	--sql-shell
 
 You know the current db type is 'MYSQL'. Which flag allows you to enumerate only MySQL databases?
+	
+	--dbms=mysql
