@@ -16,3 +16,7 @@ What is the name of the interesting directory ?
 Who is the current db user?
 	
 	root
+
+What is the final flag?
+	
+	thm{sqlm@p_is_L0ve}
