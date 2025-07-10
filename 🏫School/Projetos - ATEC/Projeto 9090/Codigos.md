@@ -1,7 +1,7 @@
 
 # Main.py
 ---
-```shell
+```python
 from scan_ports import scan_ports
 from active_connections import list_active_connections
 from log_parser import parse_logs
@@ -47,3 +47,41 @@ def menu():
 
 menu()
 ```
+
+## Scan_ports.py
+---
+```python
+import socket
+
+def scan_ports(ip, ports):
+
+    print(f"\n[+] A iniciar scan de ports em {ip} no intervalo {ports.start}-{ports.stop - 1}...\n")
+
+    open_ports = []
+
+  
+
+    for port in ports:
+
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+
+            s.settimeout(0.5)
+
+            result = s.connect_ex((ip, port))
+
+            if result == 0:
+
+                print(f"[ABERTA] Port {port}")
+
+                open_ports.append(port)
+
+  
+
+    if not open_ports:
+
+        print("Nenhuma port aberta.")
+
+    return open_ports
+```
+
+# Active_connections
