@@ -19,8 +19,8 @@ Mon, 7 Jul
 | Chest Press            |                |   3    |   10    |     36      |    7/10     |
 | Crossover Chest        |                |   3    |   10    |   9 // 18   |    5/10     |
 | Lat Pulldown           |                |   3    |   10    |     50      |    8/10     |
-| Chest Supported Row    |                |   3    |   10    |     46      |    7/10     |
-| Shoulder Press         |                |   2    |   10    |     24      |             |
-| Bicep Curl w/Dumbbells |                |        |         |             |             |
-| Tricep Pushdown bar W  |                |        |         |             |             |
-| Treadmill              | Cardio Machine | 15 min | 6 speed |  5 incline  |             |
+| Chest Supported Row    |                |   3    |   10    |     43      |    7/10     |
+| Shoulder Press         |                |   2    |   10    |     24      |    5/10     |
+| Bicep Curl w/Dumbbells |                |   2    |   10    |     15      |    8/10     |
+| Tricep Pushdown bar W  |                |   2    |   10    |  18 // 23   |    8/10     |
+| Treadmill              | Cardio Machine | 15 min | 6 speed |  5 incline  |    8/10     |
