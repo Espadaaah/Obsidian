@@ -1,4 +1,8 @@
-[[Code#Main.py]]
+[[Main.py]]
+[[#Scan_ports.py]]
+[[#Active_connections.py]]
+[[#Log_parser.py]]
+[[[]]]
 # Main.py
 ---
 ```python
@@ -48,7 +52,7 @@ def menu():
 menu()
 ```
 
-## Scan_ports.py
+# Scan_ports.py
 ---
 ```python
 import socket
