@@ -1,15 +1,12 @@
 # Base
 
-| Exercise               | Equipment      | Sets      | Reps          |
-| ---------------------- | -------------- | --------- | ------------- |
-| Leg Curl               | Dumbbells      | 2-3       | 12            |
-| Leg Extension          | Dumbbells      | 2-3       | 12            |
-| Free Squat             | Gymleco        | 2-3       | 12            |
-| PecDeck                | Gymleco        | 2-3       | 12            |
-| Lat pulldown           | Gymleco        | 2-3       | 12            |
-| Bicep Curl             | Gymleco        | 2-3       | 12            |
-| Tricep Pushdown        | Gymleco        | 2-3       | 12            |
-| Treadmill Incline Walk | Cardio Machine | 20–25 min | Moderate pace |
+| Exercise      | Equipment      | Sets   | Reps          |
+| ------------- | -------------- | ------ | ------------- |
+| Leg Curl      | Dumbbells      | 2-3    | 12            |
+| Leg Extension | Dumbbells      | 2-3    | 12            |
+| Free Squat    | Gymleco        | 2-3    | 12            |
+| Calf Raises   | Gymleco        | 2-3    | 12            |
+| Treadmill     | Cardio Machine | 15 min | Moderate pace |
 
 Tue, 1 Jul
 
