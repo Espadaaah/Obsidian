@@ -1,9 +1,5 @@
-```dataview
-table file.name, file.mtime
-from "Notes"
-where contains(tags, "#project")
-sort file.mtime desc
-
+1. [main.py
+2.]
 
 
 # Main.py
@@ -54,6 +50,7 @@ def menu():
 
 menu()
 ```
+
 ## Scan_ports.py
 ---
 ```python
