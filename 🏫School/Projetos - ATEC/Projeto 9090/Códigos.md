@@ -1,5 +1,10 @@
-1. [main.py
-2.]
+```markdown
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+```
 
 
 # Main.py
