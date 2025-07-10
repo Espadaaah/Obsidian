@@ -11,6 +11,7 @@
 | Tricep Pushdown bar W     | Gymleco        | 2      | 10-15         |
 | Treadmill                 | Cardio Machine | 30 min | Moderate pace |
 |                           |                |        |               |
+|                           |                |        |               |
 
 Tue, 1 Jul
 
