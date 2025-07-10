@@ -1,0 +1,3 @@
+windows + p
+
+search "clone"
