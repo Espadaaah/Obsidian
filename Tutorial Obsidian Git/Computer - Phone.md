@@ -1,5 +1,9 @@
-ctrl + p
+```
+Install plugin "GIT"
 
-search "clone an existing remote repo"
+CTRL + P
 
-https://TOKEN@github.com/Espadaah/repo-name
+Search "clone an existing remote repo"
+
+https://TOKEN@github.com/USERNAME/REPO-NAME
+```
