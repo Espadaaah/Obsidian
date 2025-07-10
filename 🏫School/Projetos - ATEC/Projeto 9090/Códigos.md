@@ -1,3 +1,8 @@
+```dataview
+table file.name, file.mtime
+from "Notes"
+where contains(tags, "#project")
+sort file.mtime desc
 
 
 
@@ -49,7 +54,6 @@ def menu():
 
 menu()
 ```
-
 ## Scan_ports.py
 ---
 ```python
