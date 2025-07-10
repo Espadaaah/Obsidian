@@ -194,4 +194,3 @@ Question 14
 To what subnet does the IP address 10.1.100.50 belong if a subnet mask of 255.255.0.0 is used?
 
 	10.1.0.0
-dsadasdsa
