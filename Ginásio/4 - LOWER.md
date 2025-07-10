@@ -13,9 +13,9 @@
 
 | Exercise               | Equipment      |  Sets  |  Reps   |  Weight   | Dificuldade |
 | ---------------------- | -------------- | :----: | :-----: | :-------: | :---------: |
-| Leg Curl               |                |        |         |           |             |
-| Leg Extension          |                |        |         |           |             |
-| Stiff                  |                |        |         |           |             |
-| Leg Press              |                |        |         |           |             |
-| Calf Raises            |                |        |         |           |             |
-| Treadmill Incline Walk | Cardio Machine | 15 min | 6 speed | 5 incline |    5/10     |
+| Leg Curl               |                |   3    |   10    |    36     |    4/10     |
+| Leg Extension          |                |   3    |   10    |    36     |    7/10     |
+| Stiff                  |                |   3    |   10    |           |             |
+| Leg Press              |                |   3    |   10    |           |             |
+| Calf Raises            |                |   3    |   10    |           |             |
+| Treadmill Incline Walk | Cardio Machine | 15 min | 5 speed | 5 incline |    5/10     |

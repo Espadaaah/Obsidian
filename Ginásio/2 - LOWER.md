@@ -17,4 +17,4 @@ Tue, 1 Jul
 | Leg Extension          |                |   3    |   10    |     36      |    7/10     |
 | Free Squat             |                |   3    |   10    |   10 / 10   |    6/10     |
 | Calf Raises            |                |   3    |   10    |   20 / 20   |    7/10     |
-| Treadmill Incline Walk | Cardio Machine | 15 min | 6 speed |  5 incline  |    7/10     |
+| Treadmill Incline Walk | Cardio Machine | 15 min | 5 speed |  5 incline  |    7/10     |

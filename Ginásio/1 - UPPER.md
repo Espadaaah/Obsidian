@@ -23,4 +23,4 @@ Mon, 7 Jul
 | Shoulder Press         |                |   2    |   10    |     29      |    5/10     |
 | Bicep Curl w/Dumbbells |                |   2    |   10    |     15      |    8/10     |
 | Tricep Pushdown bar W  |                |   2    |   10    |     18      |    8/10     |
-| Treadmill              | Cardio Machine | 15 min | 6 speed |  5 incline  |    7/10     |
+| Treadmill              | Cardio Machine | 15 min | 5 speed |  5 incline  |    7/10     |
