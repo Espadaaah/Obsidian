@@ -302,3 +302,60 @@ def analisar_log_windows_automatico():
         print(f"[ERRO] {e}")
 ```
 
+# Export_utils.py
+---
+```python
+from db_handler import get_all_logs
+
+import csv
+
+  
+
+def export_data():
+
+    logs = get_all_logs()
+
+  
+
+    if not logs:
+
+        print("Nenhum dado para exportar.")
+
+        return
+
+  
+
+    formato = input("Escolha o formato (txt/csv): ").strip().lower()
+
+  
+
+    if formato == "txt":
+
+        with open("export_logs.txt", "w") as f:
+
+            for log in logs:
+
+                f.write(f"{log[0]} | {log[1]} | {log[2]} | {log[3]}\n")
+
+        print("Exportado para export_logs.txt")
+
+  
+
+    elif formato == "csv":
+
+        with open("export_logs.csv", "w", newline='') as f:
+
+            writer = csv.writer(f)
+
+            writer.writerow(["Serviço", "IP", "País", "Data"])
+
+            writer.writerows(logs)
+
+        print("Exportado para export_logs.csv")
+
+    else:
+
+        print("Formato inválido.")
+```
+
+# Geoip_utils.py
