@@ -1,15 +1,15 @@
 # Base
 
-| Exercise                      | Equipment      | Sets      | Reps          |
-| ----------------------------- | -------------- | --------- | ------------- |
-| Dumbbell Lateral Raises       | Dumbbells      | 2-3       | 12            |
-| Inclined Dumbbell Bench Press | Dumbbells      | 2-3       | 12            |
-| Tbar Row                      | Gymleco        | 2-3       | 12            |
-| PecDeck                       | Gymleco        | 2-3       | 12            |
-| Lat pulldown                  | Gymleco        | 2-3       | 12            |
-| Bicep Curl                    | Gymleco        | 2-3       | 12            |
-| Tricep Pushdown               | Gymleco        | 2-3       | 12            |
-| Treadmill Incline Walk        | Cardio Machine | 20–25 min | Moderate pace |
+| Exercise               | Equipment      | Sets      | Reps          |
+| ---------------------- | -------------- | --------- | ------------- |
+| Chest Press            | Dumbbells      | 2-3       | 12            |
+| Crossover Chest        | Dumbbells      | 2-3       | 12            |
+| Lat Pulldown           | Gymleco        | 2-3       | 12            |
+| Chest Supported Row    | Gymleco        | 2-3       | 12            |
+| Shoulder Press         | Gymleco        | 2-3       | 12            |
+| Bicep Curl w/Dumbbells | Gymleco        | 2-3       | 12            |
+| Tricep Pushdown        | Gymleco        | 2-3       | 12            |
+| Treadmill Incline Walk | Cardio Machine | 20–25 min | Moderate pace |
 
 Tue, 1 Jul
 
