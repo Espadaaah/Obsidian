@@ -1,4 +1,6 @@
 
+
+
 # Main.py
 ---
 ```python
@@ -376,4 +378,82 @@ def get_country_by_ip(ip):
     except Exception:
 
         return "Desconhecido"
+```
+
+# Db_handler.py
+---
+```python
+import sqlite3
+
+import os
+
+  
+
+DB_FILE = "logs.db"
+
+  
+
+def initialize_db():
+
+    conn = sqlite3.connect(DB_FILE)
+
+    c = conn.cursor()
+
+  
+
+    c.execute('''
+
+        CREATE TABLE IF NOT EXISTS logs (
+
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+
+            service TEXT,
+
+            ip TEXT,
+
+            country TEXT,
+
+            date TEXT
+
+        )
+
+    ''')
+
+  
+
+    conn.commit()
+
+    conn.close()
+
+  
+
+def save_log_entry(service, ip, country, date):
+
+    conn = sqlite3.connect(DB_FILE)
+
+    c = conn.cursor()
+
+    c.execute("INSERT INTO logs (service, ip, country, date) VALUES (?, ?, ?, ?)",
+
+              (service, ip, country, date))
+
+    conn.commit()
+
+    conn.close()
+
+  
+
+def get_all_logs():
+
+    conn = sqlite3.connect(DB_FILE)
+
+    c = conn.cursor()
+
+    c.execute("SELECT service, ip, country, date FROM logs")
+
+    rows = c.fetchall()
+
+    conn.close()
+
+    return rows
 ```
