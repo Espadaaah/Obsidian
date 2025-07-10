@@ -15,11 +15,11 @@ Thu, 10 Jul
 
 | Exercise                  | Equipment      |  Sets  |  Reps   |  Weight   | Dificuldade |
 | ------------------------- | -------------- | :----: | :-----: | :-------: | :---------: |
-| Lateral Raise w/Dumbbells |                |        |         |           |             |
-| Chest Press               |                |        |         |           |             |
-| Crossover Chest           |                |        |         |           |             |
-| Lat Pulldown              |                |        |         |           |             |
-| Chest Supported Row       |                |        |         |           |             |
-| Bicep Curl w/Dumbbells    |                |        |         |           |             |
-| Tricep Pushdown bar W     |                |        |         |           |             |
+| Lateral Raise w/Dumbbells |                |   3    |         |           |             |
+| Chest Press               |                |   3    |         |           |             |
+| Crossover Chest           |                |   3    |         |           |             |
+| Lat Pulldown              |                |   3    |         |           |             |
+| Chest Supported Row       |                |   3    |         |           |             |
+| Bicep Curl w/Dumbbells    |                |   3    |         |           |             |
+| Tricep Pushdown bar W     |                |   3    |         |           |             |
 | Treadmill Incline Walk    | Cardio Machine | 15 min | 6 speed | 5 incline |    5/10     |
