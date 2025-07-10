@@ -1,4 +1,6 @@
 ```
+Create token classic with feature "REPO"
+
 Install plugin "GIT"
 
 CTRL + P
