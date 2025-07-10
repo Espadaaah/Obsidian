@@ -16,7 +16,7 @@ Mon, 7 Jul
 
 | Exercise               | Equipment      |  Sets  |  Reps   |  Weight   | Dificuldade |
 | ---------------------- | -------------- | :----: | :-----: | :-------: | :---------: |
-| Chest Press            |                |        |         |           |             |
+| Chest Press            |                |   3    |   10    |           |             |
 | Crossover Chest        |                |        |         |           |             |
 | Lat Pulldown           |                |        |         |           |             |
 | Chest Supported Row    |                |        |         |           |             |
