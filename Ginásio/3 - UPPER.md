@@ -2,13 +2,13 @@
 
 | Exercise                  | Equipment      | Sets   | Reps          |
 | ------------------------- | -------------- | ------ | ------------- |
-| Lateral Raise w/Dumbbells | Dumbbells      | 3      | 10-15         |
-| Chest Press               | Dumbbells      | 3      | 10-15         |
-| Crossover Chest           | Gymleco        | 3      | 10-15         |
-| Lat Pulldown              | Gymleco        | 3      | 10-15         |
-| Chest Supported Row       | Gymleco        | 3      | 10-15         |
-| Bicep Curl w/Dumbbells    | Gymleco        | 3      | 10-15         |
-| Tricep Pushdown bar W     | Gymleco        | 3      | 10-15         |
+| Lateral Raise w/Dumbbells |                | 3      | 10-15         |
+| Chest Press               |                | 3      | 10-15         |
+| Crossover Chest           |                | 3      | 10-15         |
+| Lat Pulldown              |                | 3      | 10-15         |
+| Chest Supported Row       |                | 3      | 10-15         |
+| Bicep Curl w/Dumbbells    |                | 3      | 10-15         |
+| Tricep Pushdown bar W     |                | 3      | 10-15         |
 | Treadmill                 | Cardio Machine | 30 min | Moderate pace |
 
 

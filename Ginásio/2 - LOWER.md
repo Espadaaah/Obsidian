@@ -2,10 +2,10 @@
 
 | Exercise      | Equipment      | Sets   | Reps          |
 | ------------- | -------------- | ------ | ------------- |
-| Leg Curl      | Dumbbells      | 3      | 10-15         |
-| Leg Extension | Dumbbells      | 3      | 10-15         |
-| Free Squat    | Gymleco        | 3      | 10-15         |
-| Calf Raises   | Gymleco        | 3      | 10-15         |
+| Leg Curl      |                | 3      | 10-15         |
+| Leg Extension |                | 3      | 10-15         |
+| Free Squat    |                | 3      | 10-15         |
+| Calf Raises   |                | 3      | 10-15         |
 | Treadmill     | Cardio Machine | 15 min | Moderate pace |
 
 Tue, 1 Jul
