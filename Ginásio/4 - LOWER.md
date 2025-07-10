@@ -2,13 +2,13 @@
 
 | Exercise               | Equipment      | Sets      | Reps          |
 | ---------------------- | -------------- | --------- | ------------- |
-| Chest Press            | Dumbbells      | 2-3       | 12            |
-| Crossover Chest        | Dumbbells      | 2-3       | 12            |
-| Lat Pulldown           | Gymleco        | 2-3       | 12            |
-| Chest Supported Row    | Gymleco        | 2-3       | 12            |
-| Shoulder Press         | Gymleco        | 2-3       | 12            |
-| Bicep Curl w/Dumbbells | Gymleco        | 2-3       | 12            |
-| Tricep Pushdown        | Gymleco        | 2-3       | 12            |
+| Chest Press            | Dumbbells      | 3         | 12            |
+| Crossover Chest        | Dumbbells      | 3         | 12            |
+| Lat Pulldown           | Gymleco        | 3         | 12            |
+| Chest Supported Row    | Gymleco        | 3         | 12            |
+| Shoulder Press         | Gymleco        | 2         | 12            |
+| Bicep Curl w/Dumbbells | Gymleco        | 2         | 12            |
+| Tricep Pushdown bar W  | Gymleco        | 2         | 12            |
 | Treadmill Incline Walk | Cardio Machine | 20–25 min | Moderate pace |
 
 Tue, 1 Jul
