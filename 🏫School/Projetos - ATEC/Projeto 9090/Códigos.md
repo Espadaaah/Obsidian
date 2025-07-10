@@ -359,3 +359,21 @@ def export_data():
 ```
 
 # Geoip_utils.py
+---
+```python
+import requests
+
+  
+
+def get_country_by_ip(ip):
+
+    try:
+
+        response = requests.get(f"https://ipapi.co/{ip}/country_name/", timeout=3)
+
+        return response.text.strip()
+
+    except Exception:
+
+        return "Desconhecido"
+```
