@@ -84,4 +84,221 @@ def scan_ports(ip, ports):
     return open_ports
 ```
 
-# Active_connections
+# Active_connections.py
+---
+```python
+import psutil
+
+def list_active_connections():
+
+    print("\n[+] Conexões de rede ativas:\n")
+
+  
+
+    connections = psutil.net_connections(kind='inet')
+
+  
+
+    for conn in connections:
+
+        laddr = f"{conn.laddr.ip}:{conn.laddr.port}" if conn.laddr else ""
+
+        raddr = f"{conn.raddr.ip}:{conn.raddr.port}" if conn.raddr else ""
+
+        print(f"{conn.type} | {conn.status} | Local: {laddr} | Remoto: {raddr}")
+```
+
+# Log_parser.py
+---
+```python
+import os
+
+import platform
+
+import re
+
+  
+
+from db_handler import save_log_entry
+
+from geoip_utils import get_country_by_ip
+
+  
+
+def parse_logs():
+
+    system = platform.system()
+
+  
+
+    print("\n[+] Análise de Logs")
+
+    print("1. Análise automática (logs padrão do sistema)")
+
+    print("2. Fornecer caminho manual para o ficheiro de log")
+
+  
+
+    escolha = input("Escolha uma opção (1 ou 2): ").strip()
+
+  
+
+    if system == "Linux":
+
+        if escolha == "1":
+
+            paths = {
+
+                "ssh": "/var/log/auth.log",
+
+                "http": "/var/log/apache2/access.log"
+
+            }
+
+            for servico, caminho in paths.items():
+
+                analisar_log_linux(caminho, servico)
+
+        elif escolha == "2":
+
+            caminho = input("Insira o caminho completo do ficheiro de log: ").strip()
+
+            servico = input("Indique o nome do serviço (ex: ssh, http): ").strip().lower()
+
+            analisar_log_linux(caminho, servico)
+
+        else:
+
+            print("Opção inválida.")
+
+    elif system == "Windows":
+
+        try:
+
+            import win32evtlog
+
+            import win32evtlogutil
+
+  
+
+            if escolha == "1":
+
+                analisar_log_windows_automatico()
+
+            elif escolha == "2":
+
+                print("No Windows apenas é suportada leitura do Event Log (modo automático).")
+
+            else:
+
+                print("Opção inválida.")
+
+        except ImportError:
+
+            print("Módulo 'pywin32' não instalado. Execute: pip install pywin32")
+
+    else:
+
+        print("Sistema operativo não suportado.")
+
+  
+
+def analisar_log_linux(caminho, servico):
+
+    if not os.path.exists(caminho):
+
+        print(f"[!] Caminho inválido: {caminho}")
+
+        return
+
+  
+
+    print(f"\n[+] A ler log: {caminho} ({servico.upper()})")
+
+  
+
+    with open(caminho, "r", encoding='utf-8', errors='ignore') as f:
+
+        for linha in f:
+
+            if "Failed password" in linha or "GET /" in linha:
+
+                ip_match = re.search(r'(\d+\.\d+\.\d+\.\d+)', linha)
+
+                data = ' '.join(linha.split()[:3])
+
+                if ip_match:
+
+                    ip = ip_match.group(1)
+
+                    pais = get_country_by_ip(ip)
+
+                    print(f"{servico.upper()} | {ip} | {pais} | {data}")
+
+                    save_log_entry(servico, ip, pais, data)
+
+  
+
+def analisar_log_windows_automatico():
+
+    import win32evtlog
+
+    import win32evtlogutil
+
+  
+
+    server = 'localhost'
+
+    log_type = 'Security'
+
+  
+
+    try:
+
+        handle = win32evtlog.OpenEventLog(server, log_type)
+
+        total = win32evtlog.GetNumberOfEventLogRecords(handle)
+
+  
+
+        print(f"\n[+] A analisar {total} entradas do log de segurança do Windows...\n")
+
+  
+
+        events = win32evtlog.ReadEventLog(handle,
+
+            win32evtlog.EVENTLOG_BACKWARDS_READ | win32evtlog.EVENTLOG_SEQUENTIAL_READ,
+
+            0)
+
+  
+
+        for event in events:
+
+            if event.EventID in [4625, 4624]:  # Login failed/success
+
+                message = win32evtlogutil.SafeFormatMessage(event, log_type)
+
+                ip_match = re.search(r'(\d+\.\d+\.\d+\.\d+)', message)
+
+                data = event.TimeGenerated.Format()
+
+                servico = "login"
+
+  
+
+                if ip_match:
+
+                    ip = ip_match.group(1)
+
+                    pais = get_country_by_ip(ip)
+
+                    print(f"{servico.upper()} | {ip} | {pais} | {data}")
+
+                    save_log_entry(servico, ip, pais, data)
+
+    except Exception as e:
+
+        print(f"[ERRO] {e}")
+```
+
