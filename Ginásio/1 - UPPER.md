@@ -17,7 +17,7 @@ Mon, 7 Jul
 | Exercise               | Equipment      |  Sets  |  Reps   | Weight (kg) | Dificuldade |
 | ---------------------- | -------------- | :----: | :-----: | :---------: | :---------: |
 | Chest Press            |                |   3    |   10    |     43      |    7/10     |
-| Crossover Chest        |                |   3    |   10    |   9 // 14   |    5/10     |
+| Crossover Chest        |                |   3    |   10    |      9      |    5/10     |
 | Lat Pulldown           |                |   3    |   10    |     50      |    8/10     |
 | Chest Supported Row    |                |   3    |   10    |     43      |    7/10     |
 | Shoulder Press         |                |   2    |   10    |     29      |    5/10     |
