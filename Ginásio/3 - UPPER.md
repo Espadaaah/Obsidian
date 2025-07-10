@@ -6,12 +6,12 @@
 | Chest Press               | Dumbbells      | 3      | 10-15         |
 | Crossover Chest           | Gymleco        | 3      | 10-15         |
 | Lat Pulldown              | Gymleco        | 3      | 10-15         |
-| Chest Supported Row       | Gymleco        | 2      | 10-15         |
-| Bicep Curl w/Dumbbells    | Gymleco        | 2      | 10-15         |
-| Tricep Pushdown bar W     | Gymleco        | 2      | 10-15         |
+| Chest Supported Row       | Gymleco        | 3      | 10-15         |
+| Bicep Curl w/Dumbbells    | Gymleco        | 3      | 10-15         |
+| Tricep Pushdown bar W     | Gymleco        | 3      | 10-15         |
 | Treadmill                 | Cardio Machine | 30 min | Moderate pace |
-|                           |                |        |               |
-|                           |                |        |               |
+
+
 
 Tue, 1 Jul
 
