@@ -98,6 +98,5 @@ What response header tells the browser how much data to expect?
 	
 	Content-Length
 
+[Task 3 - HTTP Methods](Task%203%20-%20HTTP%20Methods.md)
 
-
-[[Task 3 - HTTP Methods]]
