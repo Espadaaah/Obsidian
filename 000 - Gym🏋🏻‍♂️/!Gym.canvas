@@ -32,6 +32,15 @@
 			"fromSide":"right",
 			"toNode":"f32127ab611e3c22",
 			"toSide":"left"
+		},
+		{
+			"id":"818b304026246d21",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f32127ab611e3c22",
+			"fromSide":"bottom",
+			"toNode":"609458fbd35841d1",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
