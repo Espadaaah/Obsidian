@@ -99,6 +99,7 @@ _(just CN=Users)_
 
 -> _Select container and select all_
 -> _And in final do “;cn=pfsense-admin…” you get this like for the administrator but in pfsense-admin group_
+![](../../attachments/Manual%20-%20Sistemas-27.png)
 
 ## VPN SITE-TO-SITE
 
