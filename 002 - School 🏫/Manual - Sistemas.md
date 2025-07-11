@@ -91,7 +91,15 @@
 ![](../../attachments/Manual%20-%20Sistemas-23.png)
 ![](../../attachments/Manual%20-%20Sistemas-24.png)
 -> _Bind credentials you get in users and computers and go to proprieties of administrator user and attributer editor is here you get this_
--> _è Create group: pfsense-admin and add the domains – like the image_
+-> _Create group: pfsense-admin and add the domains – like the image_
+![](../../attachments/Manual%20-%20Sistemas-25.png)
+-> _Add administrator in members of and members_
+![](../../attachments/Manual%20-%20Sistemas-26.png)
+_(just CN=Users)_
+
+-> _Select container and select all_
+-> _And in final do “;cn=pfsense-admin…” you get this like for the administrator but in pfsense-admin group_
+
 ## VPN SITE-TO-SITE
 
 
