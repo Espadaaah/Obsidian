@@ -21,3 +21,6 @@
 ## WDS (windows deployment service)
 ## GPO’S
 ## DPM / MYSQL
+# Ubuntu Server (minimized)
+## Install
+## IP STATIC
