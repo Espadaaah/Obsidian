@@ -15,8 +15,7 @@
 [IP STATIC](#IP%20STATIC)
 [IP STATIC](#IP%20STATIC)
 [DHCP](#DHCP)
-[Install](#Install)
-
+[DNS](#DNS)
 
 
 # Pfsense 
