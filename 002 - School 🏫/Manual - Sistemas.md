@@ -50,14 +50,14 @@
 ![](../../attachments/Manual%20-%20Sistemas-5.png)
 ![](../../attachments/Manual%20-%20Sistemas-6.png)
 ## Web Configurated
--> _Do this after [Windows Server](#Windows%20Server) INSTALLATION and CONFIGURATION__
+-> _Do this after [Windows Server](#Windows%20Server) INSTALLATION and CONFIGURATION_
 ![](../../attachments/Manual%20-%20Sistemas-7.png)
 ![](../../attachments/Manual%20-%20Sistemas-8.png)
--> _Next page (Wan Interface) final the page before NEXT, uncheck these two boxes
+-> _Next page (Wan Interface) final the page before NEXT, uncheck these two boxes_
 ![](../../attachments/Manual%20-%20Sistemas-9.png)
 ![](../../attachments/Manual%20-%20Sistemas-10.png)
--> ___Next page password you choose___
--> ___Create Port Forward for email server__
+-> _Next page password you choose
+-> Create Port Forward for email server
 - _To receive mails from outside of our Lan Network.
 ![](../../attachments/Manual%20-%20Sistemas-11.png)
 ![](../../attachments/Pasted%20image%2020250711220450.png)
