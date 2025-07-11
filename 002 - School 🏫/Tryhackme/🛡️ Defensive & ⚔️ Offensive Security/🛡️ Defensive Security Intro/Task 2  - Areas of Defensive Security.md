@@ -89,4 +89,5 @@ Which kind of malware requires the user to pay money to regain access to their f
 	ransomware
 
 
-[[Task 3 - Practical Example of Defensive Security]]
+[Task 3 - Practical Example of Defensive Security](Task%203%20-%20Practical%20Example%20of%20Defensive%20Security.md)
+

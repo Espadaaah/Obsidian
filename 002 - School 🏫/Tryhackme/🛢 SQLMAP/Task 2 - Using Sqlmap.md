@@ -407,3 +407,5 @@ Which flag will give you an interactive SQL Shell prompt?
 You know the current db type is 'MYSQL'. Which flag allows you to enumerate only MySQL databases?
 	
 	--dbms=mysql
+
+[Task 3 - SQLMap Challenge](Task%203%20-%20SQLMap%20Challenge.md)
