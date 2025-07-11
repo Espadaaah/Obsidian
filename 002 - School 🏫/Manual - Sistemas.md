@@ -13,3 +13,11 @@
 ## Web Configurated
 
 ## Certificates
+## VPN SITE-TO-SITE
+# Windows Server
+## Install
+## DHCP
+## DNS
+## WDS (windows deployment service)
+## GPO’S
+## DPM / MYSQL
