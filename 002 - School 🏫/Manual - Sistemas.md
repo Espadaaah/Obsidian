@@ -15,7 +15,8 @@
 	- [IP STATIC](#IP%20STATIC)
 	- [DHCP](#DHCP)
 	- [DNS](#DNS)
-
+	- [Script Failover](#Script%20Failover)
+	- [[#]]
 
 
 
@@ -50,3 +51,11 @@
 ## Samba
 ## VSFTP
 ## VOIP
+# Red Hat Server
+## Zabbix
+# Windows Client
+## Install
+# Ubuntu Client
+# Install
+# Kali Linux
+## Install
