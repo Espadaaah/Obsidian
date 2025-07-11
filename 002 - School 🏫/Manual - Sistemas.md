@@ -77,11 +77,15 @@
 ![](../../attachments/Manual%20-%20Sistemas-19.png)
 ![](../../attachments/Manual%20-%20Sistemas-20.png)
 ![](../../attachments/Manual%20-%20Sistemas-21.png)
--> _Export booth certificates_
+-> _Export CA_
 
 -> _Install certificates in trusted root certificates authorit_
+![](../../attachments/Manual%20-%20Sistemas-35.png)
+![](../../attachments/Manual%20-%20Sistemas-36.png)
+![](../../attachments/Manual%20-%20Sistemas-37.png)
 
 -> _Change http to https in pfsense web - (system – Advanced) and change port to another you don’t used.)_
+![](../../attachments/Manual%20-%20Sistemas-38.png)
 
 -> _Gpo for certificates_
 ![](../../attachments/Manual%20-%20Sistemas-34.png)
