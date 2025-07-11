@@ -1,11 +1,39 @@
 {
 	"nodes":[
 		{"id":"d8676334b0e7de5d","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/3 - UPPER.md","x":-420,"y":-580,"width":620,"height":760},
-		{"id":"231ed587cd173179","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/2 - LOWER.md","x":220,"y":-580,"width":620,"height":760},
-		{"id":"f32127ab611e3c22","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/4 - LOWER.md","x":860,"y":-580,"width":620,"height":760},
-		{"id":"609458fbd35841d1","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/1 - UPPER.md","x":-1080,"y":-580,"width":620,"height":760}
+		{"id":"609458fbd35841d1","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/1 - UPPER.md","x":-1080,"y":-580,"width":620,"height":760},
+		{"id":"f32127ab611e3c22","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/4 - LOWER.md","x":900,"y":-580,"width":620,"height":760},
+		{"id":"231ed587cd173179","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/2 - LOWER.md","x":240,"y":-580,"width":620,"height":760}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"c8994be2c4488de1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"609458fbd35841d1",
+			"fromSide":"right",
+			"toNode":"d8676334b0e7de5d",
+			"toSide":"left"
+		},
+		{
+			"id":"79baacc735506623",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d8676334b0e7de5d",
+			"fromSide":"right",
+			"toNode":"231ed587cd173179",
+			"toSide":"left"
+		},
+		{
+			"id":"aae96aa74c53ada9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"231ed587cd173179",
+			"fromSide":"right",
+			"toNode":"f32127ab611e3c22",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
