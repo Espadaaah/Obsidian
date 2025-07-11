@@ -42,8 +42,15 @@
 ![](../../attachments/1%20-%20Pfsense%20Installation.png)
 ![](../../attachments/Untitled.png)
 ![](../../attachments/Untitled-1.png)
-
+![](../../attachments/Manual%20-%20Sistemas.png)
+![](../../attachments/Manual%20-%20Sistemas-1.png)
+![](../../attachments/Manual%20-%20Sistemas-2.png)
+![](../../attachments/Manual%20-%20Sistemas-3.png)
+![](../../attachments/Manual%20-%20Sistemas-4.png)
+![](../../attachments/Manual%20-%20Sistemas-5.png)
+![](../../attachments/Manual%20-%20Sistemas-6.png)
 ## Web Configurated
+è Do this after [WINDOWS SERVER](#_Windows_Server "#_Windows_Server") INSTALLATION and CONFIGURATION
 
 ## Certificates
 ## VPN SITE-TO-SITE
