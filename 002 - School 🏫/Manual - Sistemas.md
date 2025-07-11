@@ -42,3 +42,11 @@
 ## IP STATIC
 ## DHCP
 ## DNS
+## Script Failover
+## Cockpit
+## UFW
+## Postfix
+## AD - Ubuntu
+## Samba
+## VSFTP
+## VOIP
