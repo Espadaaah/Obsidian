@@ -1,5 +1,5 @@
 ```
-Create token classic with feature "REPO"
+Create token classic with feature "REPO" (u need to create one token to obsidian on computer and another to obsidian )
 
 Install plugin "GIT"
 
