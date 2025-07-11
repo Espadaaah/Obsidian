@@ -73,6 +73,17 @@
 ![](../../attachments/Manual%20-%20Sistemas-17.png)
 ## Certificates
 -> _Make snapshot of pfsense before do this_
+![](../../attachments/Manual%20-%20Sistemas-18.png)
+![](../../attachments/Manual%20-%20Sistemas-19.png)
+![](../../attachments/Manual%20-%20Sistemas-20.png)
+![](../../attachments/Manual%20-%20Sistemas-21.png)
+-> _Export booth certificates_
+
+-> _Install certificates in trusted root certificates authorit_
+
+-> _Change http to https in pfsense web - (system – Advanced) and change port to another you don’t used.)_
+
+-> _Gpo for certificates_
 
 
 ## VPN SITE-TO-SITE
