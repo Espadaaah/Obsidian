@@ -84,8 +84,14 @@
 -> _Change http to https in pfsense web - (system – Advanced) and change port to another you don’t used.)_
 
 -> _Gpo for certificates_
-
-
+![](../../attachments/Manual%20-%20Sistemas-22.png)
+-> _Import certificate in ubuntu client_
+-> _Settings – corticates_
+-> _LDAP_
+![](../../attachments/Manual%20-%20Sistemas-23.png)
+![](../../attachments/Manual%20-%20Sistemas-24.png)
+-> _Bind credentials you get in users and computers and go to proprieties of administrator user and attributer editor is here you get this_
+-> _è Create group: pfsense-admin and add the domains – like the image_
 ## VPN SITE-TO-SITE
 
 
