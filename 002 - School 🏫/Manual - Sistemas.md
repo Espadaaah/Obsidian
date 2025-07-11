@@ -47,6 +47,8 @@
 
 ## Certificates
 ## VPN SITE-TO-SITE
+
+---
 # Windows Server
 ## Install
 ## DHCP
@@ -54,6 +56,8 @@
 ## WDS (windows deployment service)
 ## GPO’S
 ## DPM / MYSQL
+
+---
 # Ubuntu Server (minimized)
 ## Install
 ## IP STATIC
@@ -67,11 +71,19 @@
 ## Samba
 ## VSFTP
 ## VOIP
+
+---
 # Red Hat Server
 ## Zabbix
+
+---
 # Windows Client
 ## Install
+
+---
 # Ubuntu Client
 # Install
+
+---
 # Kali Linux
 ## Install
