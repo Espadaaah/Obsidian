@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"609458fbd35841d1","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/1 - UPPER.md","x":-820,"y":-580,"width":500,"height":860},
+		{"id":"231ed587cd173179","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/2 - LOWER.md","x":-320,"y":-500,"width":500,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
