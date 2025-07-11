@@ -33,4 +33,4 @@ While reading the code of an ATM, you noticed a huge chunk of code to handle une
 	
 	5
 
-[[Task 7 - Zero Trust versus Trust but Verify]]
+[Task 7 - Zero Trust versus Trust but Verify](Task%207%20-%20Zero%20Trust%20versus%20Trust%20but%20Verify.md)

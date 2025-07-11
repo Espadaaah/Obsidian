@@ -18,3 +18,6 @@ Which of the following options better represents the process where you simulate 
 - Defensive Security
 
 		Offensive Security
+
+
+[Task 2 - Hacking your first machine](Task%202%20-%20Hacking%20your%20first%20machine.md)

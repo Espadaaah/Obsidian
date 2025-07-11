@@ -29,4 +29,4 @@ A group of attackers were able to locate both the main and the backup power supp
 	
 	Destruction/Denial
 
-[[Task 4 - Fundamental Concepts of Security Models]]
+[Task 4 - Fundamental Concepts of Security Models](Task%204%20-%20Fundamental%20Concepts%20of%20Security%20Models.md)

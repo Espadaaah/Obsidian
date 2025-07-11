@@ -61,4 +61,5 @@ Click on "View Site" and answer the five questions. What is the flag that you ob
 	THM{CIA_TRIAD}
 
 
-[[Task 3 - DAD]]
+[Task 3 - DAD](Task%203%20-%20DAD.md)
+

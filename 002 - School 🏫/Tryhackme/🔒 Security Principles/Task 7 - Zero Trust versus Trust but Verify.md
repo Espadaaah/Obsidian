@@ -11,4 +11,5 @@ Microsegmentation is one of the implementations used for Zero Trust. It refers t
 
 There is a limit to how much we can apply zero trust without negatively impacting a business; however, this does not mean that we should not apply it as long as it is feasible.
 
-[[Task 8 - Threat versus Risk]]
+[Task 8 - Threat versus Risk](Task%208%20-%20Threat%20versus%20Risk.md)
+
