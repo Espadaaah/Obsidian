@@ -50,8 +50,13 @@
 ![](../../attachments/Manual%20-%20Sistemas-5.png)
 ![](../../attachments/Manual%20-%20Sistemas-6.png)
 ## Web Configurated
-è Do this after [WINDOWS SERVER](#_Windows_Server "#_Windows_Server") INSTALLATION and CONFIGURATION
-
+-> _Do this after [Windows Server](#Windows%20Server) INSTALLATION and CONFIGURATION__
+![](../../attachments/Manual%20-%20Sistemas-7.png)
+![](../../attachments/Manual%20-%20Sistemas-8.png)
+-> __Next page (Wan Interface) final the page before NEXT, uncheck these two boxes
+![](../../attachments/Manual%20-%20Sistemas-9.png)
+![](../../attachments/Manual%20-%20Sistemas-10.png)
+-> 
 ## Certificates
 ## VPN SITE-TO-SITE
 
