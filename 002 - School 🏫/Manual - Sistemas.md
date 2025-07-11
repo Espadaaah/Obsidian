@@ -16,7 +16,18 @@
 	- [DHCP](#DHCP)
 	- [DNS](#DNS)
 	- [Script Failover](#Script%20Failover)
-	- [[#]]
+	- [Cockpit](#Cockpit)
+	- [UFW](#UFW)
+	- [Postfix](#Postfix)
+	- [AD - Ubuntu](#AD%20-%20Ubuntu)
+	- [Samba](#Samba)
+	- [VSFTP](#VSFTP)
+	- [VOIP](#VOIP)
+4. [Red Hat Server](#Red%20Hat%20Server)
+	- [Zabbix](#Zabbix)
+5. [Windows Client](#Windows%20Client)
+	- [Install](#Install)
+
 
 
 
