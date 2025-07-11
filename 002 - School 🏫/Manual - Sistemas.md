@@ -53,15 +53,16 @@
 -> _Do this after [Windows Server](#Windows%20Server) INSTALLATION and CONFIGURATION__
 ![](../../attachments/Manual%20-%20Sistemas-7.png)
 ![](../../attachments/Manual%20-%20Sistemas-8.png)
--> __Next page (Wan Interface) final the page before NEXT, uncheck these two boxes__
+-> _Next page (Wan Interface) final the page before NEXT, uncheck these two boxes
 ![](../../attachments/Manual%20-%20Sistemas-9.png)
 ![](../../attachments/Manual%20-%20Sistemas-10.png)
--> Next page password you choose
--> _Create Port Forward for email server_
+-> ___Next page password you choose___
+-> ___Create Port Forward for email server__
 - _To receive mails from outside of our Lan Network.
 ![](../../attachments/Manual%20-%20Sistemas-11.png)
 ![](../../attachments/Pasted%20image%2020250711220450.png)
--> ***Save and apply changes***
+-> _Save and apply changes
+
 
 
 è Do the same for SMTP
