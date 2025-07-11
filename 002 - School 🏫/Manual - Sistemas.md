@@ -53,10 +53,12 @@
 -> _Do this after [Windows Server](#Windows%20Server) INSTALLATION and CONFIGURATION__
 ![](../../attachments/Manual%20-%20Sistemas-7.png)
 ![](../../attachments/Manual%20-%20Sistemas-8.png)
--> __Next page (Wan Interface) final the page before NEXT, uncheck these two boxes
+-> __Next page (Wan Interface) final the page before NEXT, uncheck these two boxes__
 ![](../../attachments/Manual%20-%20Sistemas-9.png)
 ![](../../attachments/Manual%20-%20Sistemas-10.png)
--> 
+-> __Next page password you choose__
+-> __Create Port Forward for email server__
+- To receive mails from outside of our Lan Network
 ## Certificates
 ## VPN SITE-TO-SITE
 
