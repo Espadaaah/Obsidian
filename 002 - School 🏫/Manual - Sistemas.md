@@ -100,13 +100,19 @@ _(just CN=Users)_
 -> _Select container and select all_
 -> _And in final do “;cn=pfsense-admin…” you get this like for the administrator but in pfsense-admin group_
 ![](../../attachments/Manual%20-%20Sistemas-27.png)
-
+![](../../attachments/Manual%20-%20Sistemas-28.png)
 ## VPN SITE-TO-SITE
 
 
 ---
 # Windows Server
 ## Install
+![](../../attachments/Manual%20-%20Sistemas-29.png)
+![](../../attachments/Manual%20-%20Sistemas-30.png)
+![](../../attachments/Manual%20-%20Sistemas-31.png)
+![](../../attachments/Manual%20-%20Sistemas-32.png)
+![](../../attachments/Manual%20-%20Sistemas-33.png)
+
 ## DHCP
 ## DNS
 ## WDS (windows deployment service)
