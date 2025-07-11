@@ -27,14 +27,14 @@
 	- [Zabbix](#Zabbix)
 5. [Windows Client](#Windows%20Client)
 	- [Install](#Install)
-
-
-
+6. [Ubuntu Client](#Ubuntu%20Client)
+	- [Install](#Install)
+7. [Kali Linux](#Kali%20Linux)
+	- [Install](#Install)
 
 # Pfsense 
 ## Install
 ![](../../attachments/1%20-%20Pfsense%20Installation.png)
-
 ![](../../attachments/Untitled.png)
 ![](../../attachments/Untitled-1.png)
 
