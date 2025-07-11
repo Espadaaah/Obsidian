@@ -67,9 +67,16 @@
 -> _Now do rule for permit ping between kali and pfsense_
 ![](../../attachments/Manual%20-%20Sistemas-14.png)
 ![](../../attachments/Manual%20-%20Sistemas-15.png)
--> è It will look like the image
+-> _It will look like the image_
+![](../../attachments/Manual%20-%20Sistemas-16.png)
+-> _In kali linux do this – like the image_
+![](../../attachments/Manual%20-%20Sistemas-17.png)
 ## Certificates
+-> _Make snapshot of pfsense before do this_
+
+
 ## VPN SITE-TO-SITE
+
 
 ---
 # Windows Server
