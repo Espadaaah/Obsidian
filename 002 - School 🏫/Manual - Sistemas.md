@@ -28,7 +28,13 @@
 	- [DNS](#DNS)
 	- [WDS (windows deployment service)](#WDS%20(windows%20deployment%20service))
 	- [GPO’S](#GPO’S)
-	- [[#]]
+	- [DPM / MYSQL](#DPM%20/%20MYSQL)
+3. [Ubuntu Server (minimized)](#Ubuntu%20Server%20(minimized))
+	- [Install](#Install)
+	- [IP STATIC](#IP%20STATIC)
+	- [DHCP](#DHCP)
+	- [DNS](#DNS)
+
 
 
 # Pfsense 
