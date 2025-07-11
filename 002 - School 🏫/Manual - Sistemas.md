@@ -84,7 +84,8 @@
 -> _Change http to https in pfsense web - (system – Advanced) and change port to another you don’t used.)_
 
 -> _Gpo for certificates_
-![](../../attachments/Manual%20-%20Sistemas-22.png)
+![](../../attachments/Manual%20-%20Sistemas-34.png)
+
 -> _Import certificate in ubuntu client_
 -> _Settings – corticates_
 -> _LDAP_
