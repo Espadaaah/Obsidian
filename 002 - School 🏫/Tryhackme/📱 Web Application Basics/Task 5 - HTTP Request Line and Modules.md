@@ -88,4 +88,5 @@ In an HTTP request, which component specifies the specific resource or endpoint 
 	
 	URL Path
 
-[[Task 6 - HTTP Request Headers and Body]]
+[Task 6 - HTTP Request Headers and Body](Task%206%20-%20HTTP%20Request%20Headers%20and%20Body.md)
+

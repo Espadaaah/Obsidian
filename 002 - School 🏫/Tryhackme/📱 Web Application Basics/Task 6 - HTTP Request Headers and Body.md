@@ -103,3 +103,5 @@ What is the default content type for form submissions in an HTTP request where t
 Which part of an HTTP request contains additional information like host, user agent, and content type, guiding how the web server should process the request?
 	
 	Request Headers
+
+[Task 7 - HTTP Response Status Line and Status Codes](Task%207%20-%20HTTP%20Response%20Status%20Line%20and%20Status%20Codes.md)

@@ -59,4 +59,5 @@ Which flag should be added to cookies in the Set-Cookie HTTP response header to 
 	
 	HttpOnly
 
-[[Task 9 - Security Headers]]
+[Task 9 - Security Headers](Task%209%20-%20Security%20Headers.md)
+
