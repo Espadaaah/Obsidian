@@ -15,12 +15,13 @@
 [IP STATIC](#IP%20STATIC)
 [IP STATIC](#IP%20STATIC)
 [DHCP](#DHCP)
-[DNS](#DNS)
+[DNS]
 
 1. [Pfsense](#Pfsense)
-	1.
-	1.
+	- [Install](#Install)
 	
+
+
 # Pfsense 
 ## Install
 ![](../../attachments/1%20-%20Pfsense%20Installation.png)
