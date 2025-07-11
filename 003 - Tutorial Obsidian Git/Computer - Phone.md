@@ -1,4 +1,3 @@
-
 ```
 Create token classic with feature "REPO" (u need to create one token to obsidian on computer and another to obsidian on phone)
 
