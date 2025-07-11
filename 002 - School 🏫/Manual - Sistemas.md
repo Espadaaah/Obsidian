@@ -56,9 +56,15 @@
 -> __Next page (Wan Interface) final the page before NEXT, uncheck these two boxes__
 ![](../../attachments/Manual%20-%20Sistemas-9.png)
 ![](../../attachments/Manual%20-%20Sistemas-10.png)
--> __Next page password you choose__
--> __Create Port Forward for email server__
-- To receive mails from outside of our Lan Network
+-> Next page password you choose
+-> _Create Port Forward for email server_
+- _To receive mails from outside of our Lan Network.
+![](../../attachments/Manual%20-%20Sistemas-11.png)
+![](../../attachments/Pasted%20image%2020250711220450.png)
+-> ***Save and apply changes***
+
+
+è Do the same for SMTP
 ## Certificates
 ## VPN SITE-TO-SITE
 
