@@ -56,16 +56,18 @@
 -> _Next page (Wan Interface) final the page before NEXT, uncheck these two boxes_
 ![](../../attachments/Manual%20-%20Sistemas-9.png)
 ![](../../attachments/Manual%20-%20Sistemas-10.png)
--> _Next page password you choose
--> Create Port Forward for email server
-- _To receive mails from outside of our Lan Network.
+-> _Next page password you choose_
+-> _Create Port Forward for email server_
+- _To receive mails from outside of our Lan Network._
 ![](../../attachments/Manual%20-%20Sistemas-11.png)
 ![](../../attachments/Pasted%20image%2020250711220450.png)
--> _Save and apply changes
-
-
-
-è Do the same for SMTP
+-> _Save and apply changes_
+-> _Do the same for SMTP_
+![](../../attachments/Manual%20-%20Sistemas-13.png)
+-> _Now do rule for permit ping between kali and pfsense_
+![](../../attachments/Manual%20-%20Sistemas-14.png)
+![](../../attachments/Manual%20-%20Sistemas-15.png)
+-> è It will look like the image
 ## Certificates
 ## VPN SITE-TO-SITE
 
