@@ -1,4 +1,4 @@
-# Base
+[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)[](Exer/1%20-%20UPPER.md)# Base
 
 | Exercise      | Equipment      | Sets   | Reps          |
 | ------------- | -------------- | ------ | ------------- |

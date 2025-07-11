@@ -1,4 +1,4 @@
-# Base
+[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)[](3%20-%20UPPER.md)# Base
 
 | Exercise               | Equipment      | Sets   | Reps          |
 | ---------------------- | -------------- | ------ | ------------- |
