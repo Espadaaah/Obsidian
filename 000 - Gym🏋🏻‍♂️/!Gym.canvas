@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"609458fbd35841d1","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/1 - UPPER.md","x":-900,"y":-580,"width":500,"height":860},
-		{"id":"231ed587cd173179","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/2 - LOWER.md","x":-380,"y":-580,"width":500,"height":860},
-		{"id":"d8676334b0e7de5d","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/3 - UPPER.md","x":140,"y":-580,"width":520,"height":860},
-		{"id":"f32127ab611e3c22","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/4 - LOWER.md","x":680,"y":-580,"width":520,"height":860}
+		{"id":"d8676334b0e7de5d","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/3 - UPPER.md","x":-420,"y":-580,"width":620,"height":760},
+		{"id":"231ed587cd173179","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/2 - LOWER.md","x":220,"y":-580,"width":620,"height":760},
+		{"id":"f32127ab611e3c22","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/4 - LOWER.md","x":860,"y":-580,"width":620,"height":760},
+		{"id":"609458fbd35841d1","type":"file","file":"Obsidian/000 - Gym🏋🏻‍♂️/1 - UPPER.md","x":-1080,"y":-580,"width":620,"height":760}
 	],
 	"edges":[],
 	"metadata":{
