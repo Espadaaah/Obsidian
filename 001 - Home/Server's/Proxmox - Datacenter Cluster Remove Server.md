@@ -1,3 +1,4 @@
+#Home/Servers/Remove-Cluster
 # 1. default way
 	pvecm nodes
 	pvecm delnode pve02 <-> "pve u want to remove"
@@ -6,5 +7,5 @@
 		(remove the config of pve u want to remove)
 	systemctl restart corosync
 
-#Home/efcore/snippet
+
 
