@@ -1,8 +1,8 @@
 ---
 title: Harry Potter e a Ordem da Fênix
 subtitle: 
-author: J.K. Rowling
-authors: J.K. Rowling
+author: J. K. Rowling
+authors: J. K. Rowling
 category: Juvenile Fiction
 categories: Juvenile Fiction
 publisher: Pottermore Publishing
