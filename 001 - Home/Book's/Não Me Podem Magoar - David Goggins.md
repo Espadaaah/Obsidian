@@ -6,7 +6,7 @@ authors: David Goggins
 category: Self-Help
 categories: Self-Help
 publisher: Leya
-publishDate: 2023-06-01
+publishDate: ""
 totalPage: 384
 coverUrl: http://books.google.com/books/content?id=9uXDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=9uXDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api

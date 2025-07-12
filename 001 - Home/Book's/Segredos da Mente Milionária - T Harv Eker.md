@@ -6,7 +6,7 @@ authors: T. Harv Eker
 category: 
 categories: 
 publisher: 
-publishDate: 2022
+publishDate: ""
 totalPage: 232
 coverUrl: 
 coverSmallUrl: 
