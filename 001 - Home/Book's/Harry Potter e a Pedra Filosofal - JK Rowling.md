@@ -6,7 +6,7 @@ authors: J. K. Rowling
 category: Fantasy fiction, English
 categories: Fantasy fiction, English
 publisher: 
-publishDate: 2015
+publishDate: ""
 totalPage: 256
 coverUrl: 
 coverSmallUrl: 
