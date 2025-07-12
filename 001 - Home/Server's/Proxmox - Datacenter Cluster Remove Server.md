@@ -5,3 +5,5 @@
 	nano /etc/pve/corosync.cond
 		(remove the config of pve u want to remove)
 	systemctl restart corosync
+
+#
