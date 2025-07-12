@@ -5,7 +5,7 @@ author: J. K. Rowling
 authors: J. K. Rowling
 category: Fantasy fiction, English
 categories: Fantasy fiction, English
-publisher: Pottermore Publishing
+publisher: 
 publishDate: 
 totalPage: 358
 coverUrl: http://books.google.com/books/content?id=hjcQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api

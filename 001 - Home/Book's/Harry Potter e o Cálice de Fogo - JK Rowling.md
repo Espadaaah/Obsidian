@@ -5,7 +5,7 @@ author: J.K. Rowling
 authors: J.K. Rowling
 category: Juvenile Fiction
 categories: Juvenile Fiction
-publisher: Pottermore Publishing
+publisher: 
 publishDate: ""
 totalPage: 757
 coverUrl: http://books.google.com/books/content?id=gzYQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api

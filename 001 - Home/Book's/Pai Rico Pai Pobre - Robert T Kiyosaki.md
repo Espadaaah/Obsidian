@@ -5,7 +5,7 @@ author: Robert T. Kiyosaki
 authors: Robert T. Kiyosaki
 category: Business & Economics
 categories: Business & Economics
-publisher: VOGAIS
+publisher: 
 publishDate: ""
 totalPage: 336
 coverUrl: http://books.google.com/books/content?id=b1ngEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
