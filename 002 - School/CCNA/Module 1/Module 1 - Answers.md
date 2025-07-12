@@ -1,4 +1,4 @@
-#CCNA/Modules/Module-1_
+#CCNA/Modules-Answers/Module-1
 # 1.2.6
 
 Question 1
