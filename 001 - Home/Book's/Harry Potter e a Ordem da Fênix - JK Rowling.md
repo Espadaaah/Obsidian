@@ -3,9 +3,9 @@ title: Harry Potter e a Ordem da Fênix
 subtitle: 
 author: J. K. Rowling
 authors: J. K. Rowling
-category: Juvenile Fiction
-categories: Juvenile Fiction
-publisher: Pottermore Publishing
+category: Fantasy fiction, English
+categories: Fantasy fiction, English
+publisher: 
 publishDate: 2015-12-08
 totalPage: 999
 coverUrl: http://books.google.com/books/content?id=9TcQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api

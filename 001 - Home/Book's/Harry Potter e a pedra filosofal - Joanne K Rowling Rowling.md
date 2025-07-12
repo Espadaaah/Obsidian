@@ -1,8 +1,8 @@
 ---
 title: Harry Potter e a pedra filosofal
 subtitle: 
-author: Joanne K. Rowling Rowling
-authors: Joanne K. Rowling Rowling
+author: J. K. Rowling
+authors: J. K. Rowling
 category: Fantasy fiction, English
 categories: Fantasy fiction, English
 publisher: 
