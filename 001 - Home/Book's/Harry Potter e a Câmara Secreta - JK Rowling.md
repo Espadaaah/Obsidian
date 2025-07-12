@@ -6,7 +6,7 @@ authors: J. K. Rowling
 category: Fantasy fiction, English
 categories: Fantasy fiction, English
 publisher: Pottermore Publishing
-publishDate: 2015-12-08
+publishDate: 1998-07-02
 totalPage: 358
 coverUrl: http://books.google.com/books/content?id=hjcQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 coverSmallUrl: http://books.google.com/books/content?id=hjcQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api
