@@ -40,24 +40,24 @@
 
 *MO
 
-| Name               | Age | Born       |
-| ------------------ | --- | ---------- |
-| Muhammed Özdemir   | 17  | 11/08/2009 |
-| Oğuzhan Öztürk     |     |            |
-| Franco Mastantuono |     |            |
+| Name               | Age | Born        |
+| ------------------ | --- | ----------- |
+| Muhammed Özdemir   | 17  | 11/08/2009  |
+| Oğuzhan Öztürk     | 16  | /28/12/2010 |
+| Franco Mastantuono | 21  | 14/08/2005  |
 
 *MOD
 
-| Name              | Age |
-| ----------------- | --- |
-| Giorgio Perazzi   |     |
-| Matheus           |     |
-| Emanuele Saffioti |     |
-| Toprak Gümüş      |     |
-| Nadson            |     |
+| Name              | Age | Born       |
+| ----------------- | --- | ---------- |
+| Giorgio Perazzi   | 18  | 05/12/2009 |
+| Matheus           |     |            |
+| Emanuele Saffioti |     |            |
+| Toprak Gümüş      |     |            |
+| Nadson            |     |            |
 
 *PL
 
-| Name        | Age |
-| ----------- | --- |
-| Deniz Barut |     |
+| Name        | Age | Born |
+| ----------- | --- | ---- |
+| Deniz Barut |     |      |
