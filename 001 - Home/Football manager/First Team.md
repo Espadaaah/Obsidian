@@ -10,19 +10,19 @@
 
 | Name          | Age | Tempo de Jogo      |
 | ------------- | --- | ------------------ |
-| Rıdvan Yılmaz | 28  | Titular Regular    |
 | Emrecan Terzi | 25  | Jogador do Plantel |
+| Rıdvan Yılmaz | 28  | Titular Regular    |
 
 *DC*
 
 | Name               | Age | Tempo de Jogo      |
 | ------------------ | --- | ------------------ |
 | Dean Huijsen       | 24  | Estrela            |
+| Vagnar í Innistovu | 19  | Jogador do Plantel |
+| Mario Vallejo      | 18  | Jogador do Plantel |
 | Efe Sarıkaya       | 23  | Titular Regular    |
 | Emir Ortakaya      | 25  | Titular Regular    |
 | Germán Gutiérrez   | 19  | Titular Regular    |
-| Vagnar í Innistovu | 19  | Jogador do Plantel |
-| Mario Vallejo      | 18  | Jogador do Plantel |
 
 *DD
 
@@ -35,10 +35,10 @@
 
 | Name                 | Age | Tempo de Jogo      |
 | -------------------- | --- | ------------------ |
-| Mithat Pala          | 28  | Jogador do Plantel |
-| Lewis Miley          | 23  | Titular Regular    |
 | Sverre Halseth Nypan | 22  | Estrela            |
+| Mithat Pala          | 28  | Jogador do Plantel |
 | Yaşar Karbuz         | 17  | Jogador do Plantel |
+| Lewis Miley          | 23  | Titular Regular    |
 
 *MOE
 
@@ -59,16 +59,17 @@
 
 | Name                | Age | Tempo de Jogo        |
 | ------------------- | --- | -------------------- |
-| Toprak Gümüş        | 18  | Promessa no Imediato |
-| Emanuele Saffioti   | 18  | Titular Regular      |
-| Gerson Jave         | 18  | Suplente de Impacto  |
 | Gianluca Prestianni | 23  | Jogador do Plantel   |
+| Toprak Gümüş        | 18  | Promessa no Imediato |
+| Gerson Jave         | 18  | Suplente de Impacto  |
+| Emanuele Saffioti   | 18  | Titular Regular      |
 | Nadson              | 20  | Titular Regular      |
 
 *PL
 
 | Name            | Age | Tempo de Jogo          |
 | --------------- | --- | ---------------------- |
+| Bertuğ Yıldırım | 26  | Jogador do Plantel     |
 | Semih Kılıçsoy  | 23  | Jogador Importante     |
+| Alejo Veliz     | 25  | Jogador Importante     |
 | Deniz Barut     | 17  | Promessa para o Futuro |
-| Bertuğ Yıldırım | 26  |                        |
