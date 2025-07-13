@@ -18,6 +18,7 @@
 | Batuhan Kara       | 18  | 25/07/2008 |
 | Vagnar í Innistovu | 19  | 29/03/2008 |
 | Germán Gutiérrez   | 19  | 24/03/2008 |
+| Mario Vallejo      | 18  |            |
 
 *DD
 
@@ -55,6 +56,7 @@
 | Emanuele Saffioti | 18  | 07/01/2009 |
 | Toprak Gümüş      | 18  | 28/10/2008 |
 | Nadson            | 20  | 24/01/2007 |
+| Gerson Jave       | 18  | 03/11/2008 |
 
 *PL
 
