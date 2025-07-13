@@ -45,14 +45,14 @@
 | Name        | Age | Tempo de Jogo      | Formado no Clube ou País |
 | ----------- | --- | ------------------ | ------------------------ |
 | Bryan Gil   | 28  | Jogador do Plantel |                          |
-| Amara Diouf | 21  | Jogador do Plantel |                          |
+| Amara Diouf | 21  | Jogador do Plantel | País                     |
 
 *MO
 
 | Name               | Age | Tempo de Jogo      | Formado no Clube ou País |
 | ------------------ | --- | ------------------ | ------------------------ |
-| Yusuf Yazıcı       | 32  | Jogador do Grupo   |                          |
-| Franco Mastantuono | 21  | Jogador do Plantel |                          |
+| Yusuf Yazıcı       | 32  | Jogador do Grupo   | País                     |
+| Franco Mastantuono | 21  | Jogador do Plantel | País                     |
 | Noah Darvich       | 22  | Jogador do Plantel |                          |
 
 *MOD
@@ -60,7 +60,7 @@
 | Name                | Age | Tempo de Jogo        | Formado no Clube ou País |
 | ------------------- | --- | -------------------- | ------------------------ |
 | Gianluca Prestianni | 23  | Jogador do Plantel   |                          |
-| Toprak Gümüş        | 18  | Promessa no Imediato |                          |
+| Toprak Gümüş        | 18  | Promessa no Imediato | Clube e País             |
 | Gerson Jave         | 18  | Suplente de Impacto  |                          |
 | Emanuele Saffioti   | 18  | Titular Regular      |                          |
 | Nadson              | 20  | Titular Regular      |                          |
