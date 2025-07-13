@@ -11,24 +11,25 @@
 | Name          | Age | Tempo de Jogo      |
 | ------------- | --- | ------------------ |
 | Rıdvan Yılmaz | 28  | Titular Regular    |
-| Emrecan Terzi | 25  | Jogador de Plantel |
+| Emrecan Terzi | 25  | Jogador do Plantel |
 
 *DC*
 
-| Name               | Age | Tempo de Jogo |
-| ------------------ | --- | ------------- |
-| Dean Huijsen       | 24  |               |
-| Efe Sarıkaya       | 23  |               |
-| Emir Ortakaya      | 25  |               |
-| Germán Gutiérrez   | 19  |               |
-| Vagnar í Innistovu | 19  |               |
-| Mario Vallejo      | 18  |               |
+| Name               | Age | Tempo de Jogo      |
+| ------------------ | --- | ------------------ |
+| Dean Huijsen       | 24  | Estrela            |
+| Efe Sarıkaya       | 23  | Titular Regular    |
+| Emir Ortakaya      | 25  | Titular Regular    |
+| Germán Gutiérrez   | 19  | Titular Regular    |
+| Vagnar í Innistovu | 19  | Jogador do Plantel |
+| Mario Vallejo      | 18  |                    |
 
 *DD
 
-| Name               | Age | Tempo de Jogo |
-| ------------------ | --- | ------------- |
-| Abdurrahman Üresin | 25  |               |
+| Name               | Age | Tempo de Jogo      |
+| ------------------ | --- | ------------------ |
+| Abdurrahman Üresin | 25  | Jogador do Plantel |
+|                    |     |                    |
 
 *MC
 
