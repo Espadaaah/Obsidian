@@ -18,8 +18,8 @@
 | Name               | Age | Tempo de Jogo      | Formado no Clube ou País |
 | ------------------ | --- | ------------------ | ------------------------ |
 | Dean Huijsen       | 24  | Estrela            |                          |
-| Vagnar í Innistovu | 19  | Jogador do Plantel | Será                     |
-| Mario Vallejo      | 18  | Jogador do Plantel | Ser                      |
+| Vagnar í Innistovu | 19  | Jogador do Plantel | 735 dias                 |
+| Mario Vallejo      | 18  | Jogador do Plantel | 1095 dias                |
 | Efe Sarıkaya       | 23  | Titular Regular    | País                     |
 | Emir Ortakaya      | 25  | Titular Regular    | País                     |
 | Germán Gutiérrez   | 19  | Titular Regular    | 730 dias                 |
@@ -35,9 +35,9 @@
 
 | Name                 | Age | Tempo de Jogo      | Formado no Clube ou País |
 | -------------------- | --- | ------------------ | ------------------------ |
-| Sverre Halseth Nypan | 22  | Estrela            |                          |
-| Mithat Pala          | 28  | Jogador do Plantel |                          |
-| Yaşar Karbuz         | 17  | Jogador do Plantel |                          |
+| Sverre Halseth Nypan | 22  | Estrela            | Clube e País             |
+| Mithat Pala          | 28  | Jogador do Plantel | País                     |
+| Yaşar Karbuz         | 17  | Jogador do Plantel | Clube e País             |
 | Lewis Miley          | 23  | Titular Regular    |                          |
 
 *MOE
