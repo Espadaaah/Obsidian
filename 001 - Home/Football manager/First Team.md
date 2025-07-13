@@ -1,8 +1,10 @@
 *GR*
 
-| Name          | Age | Born |
-| ------------- | --- | ---- |
-| Illan Meslier | 29  |      |
+| Name           | Age | Born |
+| -------------- | --- | ---- |
+| Illan Meslier  | 29  |      |
+| Jankat Yılmaz  | 24  |      |
+| Ertuğrul Çetin | 26  |      |
 
 *DE*
 
@@ -12,9 +14,9 @@
 
 *DC*
 
-| Name | Age | Born |
-| ---- | --- | ---- |
-|      |     |      |
+| Name         | Age | Born |
+| ------------ | --- | ---- |
+| Dean Huijsen | 24  |      |
 
 *DD
 
