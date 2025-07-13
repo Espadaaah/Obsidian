@@ -2,8 +2,8 @@
 
 *GR*
 
-| Name | Age |
-| ---- | --- |
+| Name | Age | Born |
+| ---- | --- | ---- |
 
 *DE*
 
@@ -16,20 +16,20 @@
 | Name               | Age | Born       |
 | ------------------ | --- | ---------- |
 | Batuhan Kara       | 18  | 25/07/2008 |
-| Vagnar í Innistovu |     |            |
-| Germán Gutiérrez   |     |            |
+| Vagnar í Innistovu | 19  | 29/03/2008 |
+| Germán Gutiérrez   | 19  | 24/03/2008 |
 
 *DD
 
-| Name | Age |
-| ---- | --- |
+| Name | Age | Born |
+| ---- | --- | ---- |
 
 *MC
 
-| Name         | Age |
-| ------------ | --- |
-| Ender Ünlü   |     |
-| Yaşar Karbuz |     |
+| Name         | Age | Born       |
+| ------------ | --- | ---------- |
+| Ender Ünlü   | 16  | 19/08/2010 |
+| Yaşar Karbuz |     |            |
 
 *MOE
 
