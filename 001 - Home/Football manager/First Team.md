@@ -70,6 +70,6 @@
 | Name            | Age | Tempo de Jogo          | Formado no Clube ou País |
 | --------------- | --- | ---------------------- | ------------------------ |
 | Bertuğ Yıldırım | 26  | Jogador do Plantel     | País                     |
-| Semih Kılıçsoy  | 23  | Jogador Importante     |                          |
+| Semih Kılıçsoy  | 23  | Jogador Importante     | País                     |
 | Alejo Veliz     | 25  | Jogador Importante     |                          |
-| Deniz Barut     | 17  | Promessa para o Futuro |                          |
+| Deniz Barut     | 17  | Promessa para o Futuro | Clube (290 dias) e País  |
