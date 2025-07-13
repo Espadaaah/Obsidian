@@ -8,24 +8,27 @@ Next's Ballon d'or
 |     |                 |                    |     |              |                    |               | Toprak Gümüş      |             |
 |     |                 |                    |     |              |                    |               | Nadson            |             |
 
-GR
+*GR*
 
-DE
+*DE*
 
-|     |     |
-| --- | --- |
-|     |     |
+| Martin Helstrup |
+| --------------- |
 
-DC
+*DC*
 
-DD
+| Batuhan Kara |     |
+| ------------ | --- |
+|              |     |
 
-MC
+*DD
 
-MOE
+*MC
 
-MO
+*MOE
 
-MOD
+*MO
 
-PL
+*MOD
+
+*PL
