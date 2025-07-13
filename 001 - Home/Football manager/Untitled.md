@@ -10,6 +10,9 @@ Next's Ballon d'or
 
 *GR*
 
+|     |
+| --- |
+
 *DE*
 
 | Martin Helstrup |
@@ -17,13 +20,21 @@ Next's Ballon d'or
 
 *DC*
 
-| Batuhan Kara |     |
-| ------------ | --- |
-|              |     |
+| Batuhan Kara       |
+| ------------------ |
+| Vagnar í Innistovu |
+| Germán Gutiérrez   |
 
 *DD
 
+|     |
+| --- |
+
 *MC
+
+| Ender Ünlü |
+| ---------- |
+|            |
 
 *MOE
 
