@@ -33,10 +33,12 @@
 
 *MC
 
-| Name        | Age | Tempo de Jogo      |
-| ----------- | --- | ------------------ |
-| Mithat Pala | 28  | Jogador do Plantel |
-| Lewis Miley | 23  | Titular Regular    |
+| Name                 | Age | Tempo de Jogo      |
+| -------------------- | --- | ------------------ |
+| Mithat Pala          | 28  | Jogador do Plantel |
+| Lewis Miley          | 23  | Titular Regular    |
+| Sverre Halseth Nypan | 22  | Estrela            |
+| Yaşar Karbuz         | 17  | Jogador do Plantel |
 
 *MOE
 
@@ -46,15 +48,15 @@
 
 *MO
 
-| Name | Age | Tempo de Jogo |
-| ---- | --- | ------------- |
-|      |     |               |
+| Name         | Age | Tempo de Jogo    |
+| ------------ | --- | ---------------- |
+| Yusuf Yazıcı | 32  | Jogador do Grupo |
 
 *MOD
 
-| Name | Age | Tempo de Jogo |
-| ---- | --- | ------------- |
-|      |     |               |
+| Name         | Age | Tempo de Jogo          |
+| ------------ | --- | --------------------- |
+| Toprak Gümüş | 18  Promessa no Imediato  o  |
 
 *PL
 
