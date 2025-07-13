@@ -22,20 +22,21 @@
 | Emir Ortakaya      | 25  | Titular Regular    |
 | Germán Gutiérrez   | 19  | Titular Regular    |
 | Vagnar í Innistovu | 19  | Jogador do Plantel |
-| Mario Vallejo      | 18  |                    |
+| Mario Vallejo      | 18  | Jogador do Plantel |
 
 *DD
 
 | Name               | Age | Tempo de Jogo      |
 | ------------------ | --- | ------------------ |
 | Abdurrahman Üresin | 25  | Jogador do Plantel |
-|                    |     |                    |
+| Héctor Fort        | 22  | Titular Regular    |
 
 *MC
 
-| Name | Age | Tempo de Jogo |
-| ---- | --- | ------------- |
-|      |     |               |
+| Name        | Age | Tempo de Jogo      |
+| ----------- | --- | ------------------ |
+| Mithat Pala | 28  | Jogador do Plantel |
+| Lewis Miley | 23  | Titular Regular    |
 
 *MOE
 
