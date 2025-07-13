@@ -7,17 +7,17 @@
 
 *DE*
 
-| Name            | Age |
-| --------------- | --- |
-| Martin Helstrup |     |
+| Name            | Age | Born       |
+| --------------- | --- | ---------- |
+| Martin Helstrup | 18  | 31/05/2008 |
 
 *DC*
 
-| Name               | Age |
-| ------------------ | --- |
-| Batuhan Kara       |     |
-| Vagnar í Innistovu |     |
-| Germán Gutiérrez   |     |
+| Name               | Age | Born       |
+| ------------------ | --- | ---------- |
+| Batuhan Kara       | 18  | 25/07/2008 |
+| Vagnar í Innistovu |     |            |
+| Germán Gutiérrez   |     |            |
 
 *DD
 
@@ -58,5 +58,6 @@
 
 *PL
 
-| Deniz Barut |
-| ----------- |
+| Name        | Age |
+| ----------- | --- |
+| Deniz Barut |     |
