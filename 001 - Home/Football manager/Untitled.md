@@ -1,4 +1,4 @@
-Next's Ballon d'or 
+# Next's Ballon d'or 
 
 *GR*
 
@@ -7,8 +7,9 @@ Next's Ballon d'or
 
 *DE*
 
-| Martin Helstrup |
-| --------------- |
+| Name            |     |
+| --------------- | --- |
+| Martin Helstrup |     |
 
 *DC*
 
