@@ -61,15 +61,15 @@
 | ------------------- | --- | -------------------- | ------------------------ |
 | Gianluca Prestianni | 23  | Jogador do Plantel   |                          |
 | Toprak Gümüş        | 18  | Promessa no Imediato | Clube e País             |
-| Gerson Jave         | 18  | Suplente de Impacto  |                          |
-| Emanuele Saffioti   | 18  | Titular Regular      |                          |
-| Nadson              | 20  | Titular Regular      |                          |
+| Gerson Jave         | 18  | Suplente de Impacto  | 1095 dias                |
+| Emanuele Saffioti   | 18  | Titular Regular      | 734 dias                 |
+| Nadson              | 20  | Titular Regular      | 369 dias                 |
 
 *PL
 
 | Name            | Age | Tempo de Jogo          | Formado no Clube ou País |
 | --------------- | --- | ---------------------- | ------------------------ |
-| Bertuğ Yıldırım | 26  | Jogador do Plantel     |                          |
+| Bertuğ Yıldırım | 26  | Jogador do Plantel     | País                     |
 | Semih Kılıçsoy  | 23  | Jogador Importante     |                          |
 | Alejo Veliz     | 25  | Jogador Importante     |                          |
 | Deniz Barut     | 17  | Promessa para o Futuro |                          |
