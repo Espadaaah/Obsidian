@@ -42,9 +42,10 @@
 
 *MOE
 
-| Name      | Age | Tempo de Jogo      |
-| --------- | --- | ------------------ |
-| Bryan Gil | 28  | Jogador do Plantel |
+| Name        | Age | Tempo de Jogo      |
+| ----------- | --- | ------------------ |
+| Bryan Gil   | 28  | Jogador do Plantel |
+| Amara Diouf | 21  | Jogador do Plantel |
 
 *MO
 
@@ -62,9 +63,12 @@
 | Emanuele Saffioti   | 18  | Titular Regular      |
 | Gerson Jave         | 18  | Suplente de Impacto  |
 | Gianluca Prestianni | 23  | Jogador do Plantel   |
+| Nadson              | 20  | Titular Regular      |
 
 *PL
 
-| Name | Age | Tempo de Jogo |
-| ---- | --- | ------------- |
-|      |     |               |
+| Name            | Age | Tempo de Jogo          |
+| --------------- | --- | ---------------------- |
+| Semih Kılıçsoy  | 23  | Jogador Importante     |
+| Deniz Barut     | 17  | Promessa para o Futuro |
+| Bertuğ Yıldırım | 26  |                        |
