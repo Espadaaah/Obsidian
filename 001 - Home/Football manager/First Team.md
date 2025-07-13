@@ -18,17 +18,17 @@
 | Name               | Age | Tempo de Jogo      | Formado no Clube ou País |
 | ------------------ | --- | ------------------ | ------------------------ |
 | Dean Huijsen       | 24  | Estrela            |                          |
-| Vagnar í Innistovu | 19  | Jogador do Plantel |                          |
-| Mario Vallejo      | 18  | Jogador do Plantel |                          |
+| Vagnar í Innistovu | 19  | Jogador do Plantel | Será                     |
+| Mario Vallejo      | 18  | Jogador do Plantel | Ser                      |
 | Efe Sarıkaya       | 23  | Titular Regular    | País                     |
 | Emir Ortakaya      | 25  | Titular Regular    | País                     |
-| Germán Gutiérrez   | 19  | Titular Regular    |                          |
+| Germán Gutiérrez   | 19  | Titular Regular    | 730 dias                 |
 
 *DD
 
 | Name               | Age | Tempo de Jogo      | Formado no Clube ou País |
 | ------------------ | --- | ------------------ | ------------------------ |
-| Abdurrahman Üresin | 25  | Jogador do Plantel |                          |
+| Abdurrahman Üresin | 25  | Jogador do Plantel | País                     |
 | Héctor Fort        | 22  | Titular Regular    |                          |
 
 *MC
