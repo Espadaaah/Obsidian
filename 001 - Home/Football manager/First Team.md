@@ -56,10 +56,12 @@
 
 *MOD
 
-| Name              | Age | Tempo de Jogo        |
-| ----------------- | --- | -------------------- |
-| Toprak Gümüş      | 18  | Promessa no Imediato |
-| Emanuele Saffioti | 18  | Titular Regular      |
+| Name                | Age | Tempo de Jogo        |
+| ------------------- | --- | -------------------- |
+| Toprak Gümüş        | 18  | Promessa no Imediato |
+| Emanuele Saffioti   | 18  | Titular Regular      |
+| Gerson Jave         | 18  | Suplente de Impacto  |
+| Gianluca Prestianni | 23  | Jogador do Plantel   |
 
 *PL
 
