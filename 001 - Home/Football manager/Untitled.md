@@ -50,11 +50,11 @@
 
 | Name              | Age | Born       |
 | ----------------- | --- | ---------- |
-| Giorgio Perazzi   | 18  | 05/12/2009 |
-| Matheus           |     |            |
-| Emanuele Saffioti |     |            |
-| Toprak Gümüş      |     |            |
-| Nadson            |     |            |
+| Giorgio Perazzi   | 18  | 05/12/2008 |
+| Matheus           | 19  | 10/02/2008 |
+| Emanuele Saffioti | 18  | 07/01/2009 |
+| Toprak Gümüş      | 18  | 28/10/2008 |
+| Nadson            | 20  | 24/01/2007 |
 
 *PL
 
