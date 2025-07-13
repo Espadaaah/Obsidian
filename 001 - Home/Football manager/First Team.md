@@ -57,19 +57,19 @@
 
 *MOD
 
-| Name                | Age | Tempo de Jogo        | Formado no Clube ou País |
-| ------------------- | --- | -------------------- | ------------------------ |
-| Gianluca Prestianni | 23  | Jogador do Plantel   |                          |
-| Toprak Gümüş        | 18  | Promessa no Imediato | Clube e País             |
-| Gerson Jave         | 18  | Suplente de Impacto  | 1095 dias                |
-| Emanuele Saffioti   | 18  | Titular Regular      | 734 dias                 |
-| Nadson              | 20  | Titular Regular      | 369 dias                 |
+| Name                | Age | Tempo de Jogo        | Formado no Clube ou País |           |
+| ------------------- | --- | -------------------- | ------------------------ | --------- |
+| Gianluca Prestianni | 23  | Jogador do Plantel   |                          | emprestar |
+| Toprak Gümüş        | 18  | Promessa no Imediato | Clube e País             |           |
+| Gerson Jave         | 18  | Suplente de Impacto  | 1095 dias                |           |
+| Emanuele Saffioti   | 18  | Titular Regular      | 734 dias                 |           |
+| Nadson              | 20  | Titular Regular      | 369 dias                 |           |
 
 *PL
 
-| Name            | Age | Tempo de Jogo          | Formado no Clube ou País |
-| --------------- | --- | ---------------------- | ------------------------ |
-| Bertuğ Yıldırım | 26  | Jogador do Plantel     | País                     |
-| Semih Kılıçsoy  | 23  | Jogador Importante     | País                     |
-| Alejo Veliz     | 25  | Jogador Importante     |                          |
-| Deniz Barut     | 17  | Promessa para o Futuro | Clube (290 dias) e País  |
+| Name            | Age | Tempo de Jogo          | Formado no Clube ou País |             |
+| --------------- | --- | ---------------------- | ------------------------ | ----------- |
+| Bertuğ Yıldırım | 26  | Jogador do Plantel     | País                     |             |
+| Semih Kılıçsoy  | 23  | Jogador Importante     | País                     |             |
+| Alejo Veliz     | 25  | Jogador Importante     |                          | Estrangeiro |
+| Deniz Barut     | 17  | Promessa para o Futuro | Clube (290 dias) e País  |             |
