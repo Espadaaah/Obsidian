@@ -2,54 +2,59 @@
 
 *GR*
 
-|     |
-| --- |
+| Name | Age |
+| ---- | --- |
 
 *DE*
 
-| Name            |     |
+| Name            | Age |
 | --------------- | --- |
 | Martin Helstrup |     |
 
 *DC*
 
-| Batuhan Kara       |
-| ------------------ |
-| Vagnar í Innistovu |
-| Germán Gutiérrez   |
+| Name               | Age |
+| ------------------ | --- |
+| Batuhan Kara       |     |
+| Vagnar í Innistovu |     |
+| Germán Gutiérrez   |     |
 
 *DD
 
-|     |
-| --- |
+| Name | Age |
+| ---- | --- |
 
 *MC
 
-| Ender Ünlü   |
-| ------------ |
-| Yaşar Karbuz |
+| Name         | Age |
+| ------------ | --- |
+| Ender Ünlü   |     |
+| Yaşar Karbuz |     |
 
 *MOE
 
-| Jannik Aehlig |
-| ------------- |
-| Amara Diouf   |
+| Name          | Age |
+| ------------- | --- |
+| Jannik Aehlig |     |
+| Amara Diouf   |     |
 
 *MO
 
-| Muhammed Özdemir   |
-| ------------------ |
-| Oğuzhan Öztürk     |
-| Franco Mastantuono |
+| Name               | Age |
+| ------------------ | --- |
+| Muhammed Özdemir   |     |
+| Oğuzhan Öztürk     |     |
+| Franco Mastantuono |     |
 
 *MOD
 
-| Giorgio Perazzi   |
-| ----------------- |
-| Matheus           |
-| Emanuele Saffioti |
-| Toprak Gümüş      |
-| Nadson            |
+| Name              | Age |
+| ----------------- | --- |
+| Giorgio Perazzi   |     |
+| Matheus           |     |
+| Emanuele Saffioti |     |
+| Toprak Gümüş      |     |
+| Nadson            |     |
 
 *PL
 
