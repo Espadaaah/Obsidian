@@ -29,22 +29,22 @@
 | Name         | Age | Born       |
 | ------------ | --- | ---------- |
 | Ender Ünlü   | 16  | 19/08/2010 |
-| Yaşar Karbuz |     |            |
+| Yaşar Karbuz | 17  | 18/08/2009 |
 
 *MOE
 
-| Name          | Age |
-| ------------- | --- |
-| Jannik Aehlig |     |
-| Amara Diouf   |     |
+| Name          | Age | Born       |
+| ------------- | --- | ---------- |
+| Jannik Aehlig | 18  | 18/08/2008 |
+| Amara Diouf   | 20  | 07/06/2006 |
 
 *MO
 
-| Name               | Age |
-| ------------------ | --- |
-| Muhammed Özdemir   |     |
-| Oğuzhan Öztürk     |     |
-| Franco Mastantuono |     |
+| Name               | Age | Born       |
+| ------------------ | --- | ---------- |
+| Muhammed Özdemir   | 17  | 11/08/2009 |
+| Oğuzhan Öztürk     |     |            |
+| Franco Mastantuono |     |            |
 
 *MOD
 
