@@ -42,21 +42,24 @@
 
 *MOE
 
-| Name | Age | Tempo de Jogo |
-| ---- | --- | ------------- |
-|      |     |               |
+| Name      | Age | Tempo de Jogo      |
+| --------- | --- | ------------------ |
+| Bryan Gil | 28  | Jogador do Plantel |
 
 *MO
 
-| Name         | Age | Tempo de Jogo    |
-| ------------ | --- | ---------------- |
-| Yusuf Yazıcı | 32  | Jogador do Grupo |
+| Name               | Age | Tempo de Jogo      |
+| ------------------ | --- | ------------------ |
+| Yusuf Yazıcı       | 32  | Jogador do Grupo   |
+| Franco Mastantuono | 21  | Jogador do Plantel |
+| Noah Darvich       | 22  | Jogador do Plantel |
 
 *MOD
 
-| Name         | Age | Tempo de Jogo          |
-| ------------ | --- | --------------------- |
-| Toprak Gümüş | 18  Promessa no Imediato  o  |
+| Name              | Age | Tempo de Jogo        |
+| ----------------- | --- | -------------------- |
+| Toprak Gümüş      | 18  | Promessa no Imediato |
+| Emanuele Saffioti | 18  | Titular Regular      |
 
 *PL
 
