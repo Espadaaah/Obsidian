@@ -18,7 +18,7 @@
 | Batuhan Kara       | 18  | 25/07/2008 |
 | Vagnar í Innistovu | 19  | 29/03/2008 |
 | Germán Gutiérrez   | 19  | 24/03/2008 |
-| Mario Vallejo      | 18  |            |
+| Mario Vallejo      | 18  | 14/10/2008 |
 
 *DD
 
