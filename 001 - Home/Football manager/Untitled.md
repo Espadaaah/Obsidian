@@ -1,13 +1,5 @@
 Next's Ballon d'or 
 
-| GR  | DE              | DC                 | DD  | MC           | MO                 | MOE           | MOD               | PL          |
-| --- | --------------- | ------------------ | --- | ------------ | ------------------ | ------------- | ----------------- | ----------- |
-|     | Martin Helstrup | Batuhan Kara       |     | Ender Ünlü   | Muhammed Özdemir   | Jannik Aehlig | Giorgio Perazzi   | Deniz Barut |
-|     |                 | Vagnar í Innistovu |     | Yaşar Karbuz | Oğuzhan Öztürk     | Amara Diouf   | Matheus           |             |
-|     |                 | Germán Gutiérrez   |     |              | Franco Mastantuono |               | Emanuele Saffioti |             |
-|     |                 |                    |     |              |                    |               | Toprak Gümüş      |             |
-|     |                 |                    |     |              |                    |               | Nadson            |             |
-
 *GR*
 
 |     |
@@ -32,14 +24,33 @@ Next's Ballon d'or
 
 *MC
 
-| Ender Ünlü |
-| ---------- |
-|            |
+| Ender Ünlü   |
+| ------------ |
+| Yaşar Karbuz |
 
 *MOE
 
+| Jannik Aehlig |
+| ------------- |
+| Amara Diouf   |
+
 *MO
+
+| Muhammed Özdemir   |
+| ------------------ |
+| Oğuzhan Öztürk     |
+| Franco Mastantuono |
 
 *MOD
 
+| Giorgio Perazzi   |
+| ----------------- |
+| Matheus           |
+| Emanuele Saffioti |
+| Toprak Gümüş      |
+| Nadson            |
+
 *PL
+
+| Deniz Barut |
+| ----------- |
