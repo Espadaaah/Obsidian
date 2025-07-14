@@ -12,7 +12,7 @@ banner: Obsidian_Notes/CISEG0525/UFCD Images support/Pasted image 20250617010725
 
 ### Ethernet Frame
 
-![](../../../attachments/Teste%202%20Redes%20Proença%201-1.png)
+![](../../../attachments/Teste%202%20Redes%20Proença%201.png)
 
 ##### LLC/SNAP and EtherType
 
