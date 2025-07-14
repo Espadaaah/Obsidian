@@ -20,7 +20,7 @@ Mon, 7 Jul
 | Crossover Chest        | Matrix         |   3    |   10    |      9      |    5/10     |
 | Lat Pulldown           | Matrix         |   3    |   10    |     50      |    8/10     |
 | Chest Supported Row    | Matrix         |   3    |   10    |     43      |    7/10     |
-| Shoulder Press         | Matrix         |   2    |   10    |     29      |    5/10     |
+| Shoulder Press         | Matrix         |   2    |   10    |     23      |    5/10     |
 | Bicep Curl w/Dumbbells |                |   2    |   10    |     15      |    8/10     |
 | Tricep Pushdown bar W  | Matrix         |   2    |   10    |     18      |    8/10     |
 | Treadmill              | Cardio Machine | 15 min | 5 speed |  5 incline  |    7/10     |
