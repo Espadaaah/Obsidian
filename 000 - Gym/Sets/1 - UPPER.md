@@ -26,7 +26,7 @@ Mon, 7 Jul
 | Treadmill              | Cardio Machine | 15 min | 5 speed |  5 incline  |    7/10     |
 
 Mon, 14 July
-1 
+1  
 2
 3
 4
