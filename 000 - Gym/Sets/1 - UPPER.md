@@ -24,3 +24,12 @@ Mon, 7 Jul
 | Bicep Curl w/Dumbbells |                |   2    |   10    |     15      |    8/10     |
 | Tricep Pushdown bar W  |                |   2    |   10    |     18      |    8/10     |
 | Treadmill              | Cardio Machine | 15 min | 5 speed |  5 incline  |    7/10     |
+
+Mon, 14 July
+1 
+2
+3
+4
+5
+6
+7
