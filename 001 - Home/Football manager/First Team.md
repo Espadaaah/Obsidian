@@ -33,15 +33,14 @@
 | Name                 | Age | Tempo de Jogo      | Formado no Clube ou País | Estrangeiro (S/N) |
 | -------------------- | --- | ------------------ | ------------------------ | ----------------- |
 | Sverre Halseth Nypan | 22  | Estrela            | Clube e País             | S                 |
-| Mithat Pala          | 28  | Jogador do Plantel | País                     | N                 |
-| Yaşar Karbuz         | 17  | Jogador do Plantel | Clube e País             |                   |
-| Lewis Miley          | 23  | Titular Regular    |                          |                   |
+| Yaşar Karbuz         | 17  | Jogador do Plantel | Clube e País             | N                 |
+| Lewis Miley          | 23  | Titular Regular    |                          | S                 |
 
 *MOE
 
 | Name        | Age | Tempo de Jogo      | Formado no Clube ou País | Estrangeiro (S/N) |
 | ----------- | --- | ------------------ | ------------------------ | ----------------- |
-| Bryan Gil   | 28  | Jogador do Plantel |                          |                   |
+| Bryan Gil   | 28  | Jogador do Plantel |                          | S                 |
 | Amara Diouf | 21  | Jogador do Plantel | País                     |                   |
 
 *MO
