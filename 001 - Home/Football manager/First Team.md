@@ -38,10 +38,9 @@
 
 *MOE
 
-| Name        | Age | Tempo de Jogo      | Formado no Clube ou País | Estrangeiro (S/N) |
-| ----------- | --- | ------------------ | ------------------------ | ----------------- |
-| Bryan Gil   | 28  | Jogador do Plantel |                          | S                 |
-| Amara Diouf | 21  | Jogador do Plantel | País                     |                   |
+| Name      | Age | Tempo de Jogo      | Formado no Clube ou País | Estrangeiro (S/N) |
+| --------- | --- | ------------------ | ------------------------ | ----------------- |
+| Bryan Gil | 28  | Jogador do Plantel |                          | S                 |
 
 *MO
 
