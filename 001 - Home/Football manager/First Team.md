@@ -2,7 +2,7 @@
 
 | Name           | Age | Tempo de Jogo         | Formado no Clube ou País | Estrangeiro (S/N) |
 | -------------- | --- | --------------------- | ------------------------ | ----------------- |
-| Illan Meslier  | 29  | Jogador Importante    |                          |                   |
+| Illan Meslier  | 29  | Jogador Importante    |                          | S                 |
 | Jankat Yılmaz  | 24  | Reserva de Emergência | Clube e País             |                   |
 | Ertuğrul Çetin | 26  | Reserva de Emergência | País                     |                   |
 

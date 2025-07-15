@@ -2,8 +2,9 @@
 
 *GR*
 
-| Name | Age | Born | Estrangeiro |
-| ---- | --- | ---- | ----------- |
+| Name           | Age | Born       | Estrangeiro (S/N) |
+| -------------- | --- | ---------- | ----------------- |
+| Deniz Dönmezer | 20  | 21/09/2006 | N                 |
 
 *DE*
 
@@ -41,25 +42,25 @@
 
 *MO
 
-| Name               | Age | Born        |
-| ------------------ | --- | ----------- |
-| Muhammed Özdemir   | 17  | 11/08/2009  |
-| Oğuzhan Öztürk     | 16  | /28/12/2010 |
-| Franco Mastantuono | 21  | 14/08/2005  |
+| Name               | Age | Born        | Estrangeiro |
+| ------------------ | --- | ----------- | ----------- |
+| Muhammed Özdemir   | 17  | 11/08/2009  |             |
+| Oğuzhan Öztürk     | 16  | /28/12/2010 |             |
+| Franco Mastantuono | 21  | 14/08/2005  |             |
 
 *MOD
 
-| Name              | Age | Born       |
-| ----------------- | --- | ---------- |
-| Giorgio Perazzi   | 18  | 05/12/2008 |
-| Matheus           | 19  | 10/02/2008 |
-| Emanuele Saffioti | 18  | 07/01/2009 |
-| Toprak Gümüş      | 18  | 28/10/2008 |
-| Nadson            | 20  | 24/01/2007 |
-| Gerson Jave       | 18  | 03/11/2008 |
+| Name              | Age | Born       | Estrangeiro |
+| ----------------- | --- | ---------- | ----------- |
+| Giorgio Perazzi   | 18  | 05/12/2008 |             |
+| Matheus           | 19  | 10/02/2008 |             |
+| Emanuele Saffioti | 18  | 07/01/2009 |             |
+| Toprak Gümüş      | 18  | 28/10/2008 |             |
+| Nadson            | 20  | 24/01/2007 |             |
+| Gerson Jave       | 18  | 03/11/2008 |             |
 
 *PL
 
-| Name        | Age | Born       |
-| ----------- | --- | ---------- |
-| Deniz Barut | 17  | 24/09/2009 |
+| Name        | Age | Born       | Estrangeiro |
+| ----------- | --- | ---------- | ----------- |
+| Deniz Barut | 17  | 24/09/2009 |             |
