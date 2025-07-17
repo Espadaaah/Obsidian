@@ -20,6 +20,6 @@
 
 ![](FULL-DUPLEX.png)
 
-- Comunicação pode acontecer em ambas as direções em simultâneo 
-- Pode enviar e receber informações mas separadamente
-- Exemplos: Walkie-Talkie, Hub...
+- Comunicação pode acontecer em ambas as direções em simultâneo
+- Ambos podem enviar e receber informações
+- Exemplos: Telefone, Full-Duplex Ethernet
