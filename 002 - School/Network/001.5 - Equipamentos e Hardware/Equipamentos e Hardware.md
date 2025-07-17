@@ -104,4 +104,10 @@
 
 ![](Imagens/MODO%20BRIDGE.png)
 
-###
+---
+## Firewalls
+
+- Hardwares/Softwares concebidos para prevenir acesso não autorizado
+- Regras baseadas no IP de destino ou origem de uma determinada rede
+- Também analisar o número das port's utilizadas e padrões de tráfego 
+- Instalado na junção de duas redes 
