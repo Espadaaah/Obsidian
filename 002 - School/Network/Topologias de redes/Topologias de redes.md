@@ -20,3 +20,17 @@
 ---
 ## Árvore (TREE)
 
+![](TREE.png)
+
+---
+## Anel (RING)
+
+![](RING.png)
+
+---
+## Estrela (STAR)
+
+![](STAR.png)
+
+---
+#
