@@ -14,6 +14,10 @@ _headers http_
 
 # Security Misconfiguration
 
-# Vulnerable and Outdated C 
+# Vulnerable and Outdated Components 
 
-# Identification and Authentication
+# Identification and Authentication Failures 
+
+# Software and Data Integrity Failures
+
+# Security Logging and Monitoring Failur
