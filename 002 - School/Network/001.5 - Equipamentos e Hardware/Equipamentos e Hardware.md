@@ -32,6 +32,7 @@
 
 ![](Imagens/SWITCH.png)
 
+###### SWITCH LAYER 2
 - Opera na camada 2 do modelo OSI
 - Filtra tráfego
 - Operam em half-duplex (HDX) e full-duplex (FDX)
@@ -39,10 +40,16 @@
 - Separam domínios de colisões 
 - Acesso de dispositivos de utilizadores finais
 - Funções básicas de segurança
-- Não faze
+- Não fazem roteamento de VLAN's
+
+###### SWITCH LAYER 3
+- Na maioria das vezes usados como Core Switch
+- Opera na camada 2 e na camada 3 do mode
 
 ### ROUTER
 
 ![](Imagens/ROUTER.png)
+
+
 
 ---
