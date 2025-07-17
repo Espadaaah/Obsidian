@@ -22,7 +22,13 @@ ___cut-through:___ is more fast, but send without analise if is good or not
 
 	7.4.3
 
-___port-based memory:___ 
+___port-based memory:___ Each switch port has **its own dedicated memory buffer**.
+
+- Frames are stored in the memory of the **incoming or outgoing port**.
+    
+- If many frames arrive at once, **congestion can occur** at busy ports.
+    
+- **Simpler**, but can lead to **wasted memory** when some ports are idle.
 
 ___shared memory:___
 
