@@ -8,7 +8,7 @@
 - Desvantagem de ser um único ponto de falha
 
 ---
-## Peer-to-Peer OR P2P
+## Peer-to-Peer (P2P)
 
 ![](Imagens/Peer-to-Peer.png)
 
