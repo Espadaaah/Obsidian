@@ -5,10 +5,10 @@ ___icmp___
 ![](Lab%204.1%20-%20Daniel%20Espada-1.png)
 ---
 2. Chegue ao mesmo resultado do ponto anterior – PDU’s que usam ICMP -, mas desta vez usando as flags do IPv4. 
-	Resposta: 
+	Resposta: 2474 PDUS
 
 ---
-3. Use as falgs do IPv4 para indicar quantos PDU’s têm TTL a 128. Resposta: 
+3. Use as flags do IPv4 para indicar quantos PDU’s têm TTL a 128.
 	Resposta: 
 
 ---
