@@ -92,4 +92,5 @@
 ---
 ## Dispositivos Wireless
 
-![](Imagens/Pasted%20image%2020250718003616.png)
+### ACCESS CONTROLLER (AC)                                                  ACCESS POINT (AP)
+![](Imagens/Dispositivos%20wireless.png)
