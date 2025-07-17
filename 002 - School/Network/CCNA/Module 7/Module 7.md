@@ -24,6 +24,6 @@ ___cut-through:___ Is more fast, but send without analise if is good or not
 
 ___port-based memory:___ Each port has its own memory. Simple, but not efficient if some ports are idle
 
-___shared memory:___ All ports use the same memory. More efficient, handles traffic better
+___shared memory:___ All ports use the same memory. More efficient, handles traffic better. 
 
 ---
