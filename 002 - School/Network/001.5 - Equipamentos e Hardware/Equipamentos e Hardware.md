@@ -19,7 +19,13 @@
 
 ![](Imagens/HUB.png)
 
-- Opera
+- Opera na camada 1 do modelo OSI
+- Não filtra tráfego
+- Retransmite os dados para todas as port's
+- Opera em half-duplex (HDX)
+- Pode gerar colisões e delays na rede
+- Hubs passivos: não amplificam o sinal
+- Hubs ativos: amplificam o i
 
 
 ### SWITCH
