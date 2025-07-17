@@ -20,24 +20,24 @@
 ---
 ## Árvore (TREE)
 
-![](TREE.png)
+![](imagens/TREE.png)
 
 ---
 ## Anel (RING)
 
-![](RING.png)
+![](imagens/RING.png)
 
 ---
 ## Estrela (STAR)
 
-![](STAR.png)
+![](imagens/STAR.png)
 
 ---
 ## Malha (MESH)
 
 ### Mesh Parcial
-![](MESH%20PARCIAL.png)
+![](imagens/MESH%20PARCIAL.png)
 
 ### Mesh Total
-![](Mesh%20Total.png)
+![](imagens/Mesh%20Total.png)
 
