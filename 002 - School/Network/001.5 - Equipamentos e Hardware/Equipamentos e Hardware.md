@@ -44,12 +44,18 @@
 
 ###### SWITCH LAYER 3
 - Na maioria das vezes usados como Core Switch
-- Opera na camada 2 e na camada 3 do mode
+- Opera na camada 2 e na camada 3 do modelo OSI
+- Faz roteamento de VLAN's
+- Capacidades de roteamento
+- Menos features de roteamento que um router
 
 ### ROUTER
 
 ![](Imagens/ROUTER.png)
 
-
+- Opera na camada 3 do modelo OSI
+- Comunicação entre redes
+- Isolamento de domínios de Broadcast
+- Manut
 
 ---
