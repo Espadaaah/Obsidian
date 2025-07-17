@@ -1,9 +1,9 @@
-![](MAIN.png)
+![](Imagens/MAIN.png)
 
 ---
 ## PAN - Personal Area Network
 
-![](PAN.png)
+![](Imagens/PAN.png)
 
 ---
 
@@ -15,13 +15,13 @@
 
 ## MAN - Metropolitan Area Network
 
-![](MAN.png)
+![](Imagens/MAN.png)
 
 ---
 
 ## WAN - Wide Area Network
 
-![](WAN.png)
+![](Imagens/WAN.png)
 
 ---
 
