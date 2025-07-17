@@ -120,7 +120,11 @@
 
 ### Fabricantes de Firewalls
 
-###### F
+###### FORTINET
+![](Imagens/FORTINET.png)
+
+###### PaloAlto Networks
+
 ---
 ## Conversores
 
