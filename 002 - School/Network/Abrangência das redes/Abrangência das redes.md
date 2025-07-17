@@ -9,7 +9,7 @@
 
 ## LAN - Local Area Network
 
-![](LAN.png)
+![](Imagens/LAN.png)
 
 ---
 
