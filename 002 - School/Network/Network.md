@@ -1,6 +1,6 @@
 [[Modelo TCPIP]]
 [[Subnetting]]
 
-store and forwarding: if the value of CRC is correct, frame is good
+___store and forwarding:___ if the value of CRC is correct, frame is good
 
-cut-through: read
+___cut-through:___ is more fast
