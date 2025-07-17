@@ -25,12 +25,16 @@
 - Opera em half-duplex (HDX)
 - Pode gerar colisões e delays na rede
 - Hubs passivos: não amplificam o sinal
-- Hubs ativos: amplificam o i
-
+- Hubs ativos: amplificam o sinal a retransmitir
+- Simples de configurar e baixo custo
 
 ### SWITCH
 
 ![](Imagens/SWITCH.png)
+
+- Opera na camada 2 do modelo OSI
+- Filtra tráfego
+- 
 
 ### ROUTER
 
