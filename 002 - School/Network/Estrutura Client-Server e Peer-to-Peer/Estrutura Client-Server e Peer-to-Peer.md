@@ -9,10 +9,10 @@
 
 ## Peer-to-Peer OR P2P
 
-![](Peer-to-Peer.png)
+![](Imagens/Peer-to-Peer.png)
 
 - Os peers (nodes/nós) atuam simultaneamente como clientes e servidores
 - A descentralização traz menor custo de implementação e resiliência 
 - Difícil monitorizar e garantir a segurança
 - Menor escalabilidade e performance 
-- Por exemplo: pirataria nos serv
+- Por exemplo: pirataria nos serviços P2P de torrents
