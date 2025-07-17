@@ -127,11 +127,14 @@
 ![](Imagens/PALOALTO.png)
 
 ###### Pfsense
-
+![](Imagens/PFSENSE.png)
 
 ###### Check Point
+![](Imagens/CHECKPOINT.png)
 
 ###### Huawei
+![](Imagens/HUAWEI%20-%20FIREWALL.png)
+
 
 ###### WatchGuard
 
