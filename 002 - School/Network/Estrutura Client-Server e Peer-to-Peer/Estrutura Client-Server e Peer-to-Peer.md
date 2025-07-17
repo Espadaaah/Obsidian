@@ -11,4 +11,8 @@
 
 ![](Peer-to-Peer.png)
 
-- Os peers (nodes/nós) atuam simultaneamente com
+- Os peers (nodes/nós) atuam simultaneamente como clientes e servidores
+- A descentralização traz menor custo de implementação e resiliência 
+- Difícil monitorizar e garantir a segurança
+- Menor escalabilidade e performance 
+- Por exemplo: pirataria nos serv
