@@ -110,4 +110,10 @@
 - Hardwares/Softwares concebidos para prevenir acesso não autorizado
 - Regras baseadas no IP de destino ou origem de uma determinada rede
 - Também analisar o número das port's utilizadas e padrões de tráfego 
-- Instalado na junção de duas redes 
+- Instalado na junção de duas redes (usualmente rede privada e pública)
+
+![](Imagens/FIREWALL.png)
+
+### Firewalls (IDS + IPS)
+
+![](Imagens/FIREWALL%20IDS%20+%20IPS.png)
