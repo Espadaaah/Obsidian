@@ -3,14 +3,19 @@
 ![](SIMPLEX.png)
 
 - Comunicação só acontece numa direção entre dispositivos 
-- Apenas o remet
+- Apenas o remetente pode enviar informações
+- Exemplos: Teclado, Monitor...
 
 ---
-## Half-Simplex
+## Half-Duplex
 
+![](HALF-DUPLEX.png)
 
+- Comunicação só acontece numa direção de cada vez
+- Apenas o remetente pode enviar informações
+- Exemplos: Teclado, Monitor...
 
 ---
-## Full-Simplex
+## Full-Duplex
 
 
