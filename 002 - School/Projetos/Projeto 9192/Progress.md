@@ -24,8 +24,5 @@ IDOR on /Checks - High 7.4
 No Limit on Login attempts - High 7.3 
 Cockies missing secure/httponly7same site - Medium 6.8 
 reflected XSS - Medium 6.0 
-Weak hashing on Database - Medium 5.9 
 Ability to create blank or "admin" accounts - Medium 5.8 
-Path Transversal - Medium 5.8 
-Outdated Jquery - Medium 5.5 
 Missing HTTP headers - Low 3.5
