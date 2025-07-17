@@ -96,7 +96,12 @@
 ![](Imagens/Dispositivos%20wireless.png)
 
 ---
-## Wireless AP - Modo Local
+### Wireless AP - Modo Local
 
-![](Imagens/WIRELESS%20AP.png)
+![](Imagens/MODO%20LOCAL.png)
 
+### Wireless AP - Modo Bridge
+
+![](Imagens/MODO%20BRIDGE.png)
+
+###
