@@ -56,6 +56,10 @@
 - Opera na camada 3 do modelo OSI
 - Comunicação entre redes
 - Isolamento de domínios de Broadcast
-- Manut
+- Manutenção da tabela de roteamento
+- Execução de protocolos de roteamento
+- Seleção de rotas e encaminhamento de pacotes
+- Implementação de acesso WAN
+- Tradução de endereços de rede (NAT)
 
 ---
