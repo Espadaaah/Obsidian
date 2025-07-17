@@ -26,4 +26,7 @@ ___port-based memory:___ Each port has its own memory. Simple, but not efficient
 
 ___shared memory:___ All ports use the same memory. More efficient, handles traffic better. 
 
+	7.4.5
+Use this command ***mdix auto*** when  
+
 ---
