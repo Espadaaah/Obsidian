@@ -18,7 +18,6 @@ webshell with php file
 
 Sql Injection - Critical 9.6 
 Remote File Upload With comand injection (webshell) - Critical 9.6 
-Database Dump Acessible with User Credentials & Weak hashes - High 8.0 
 Missing redirect from Http to Https - High 7.5 
 IDOR on /Checks - High 7.4 
 No Limit on Login attempts - High 7.3 
