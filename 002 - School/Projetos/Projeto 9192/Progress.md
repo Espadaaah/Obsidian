@@ -14,3 +14,18 @@ webshell with php file
 ![](Progress.png)
 
 ![](nikto.png)
+
+
+Sql Injection - Critical 9.6 
+Remote File Upload With comand injection - Critical 9.6 
+Database Dump Acessible with User Credentials & Weak hashes - High 8.0 
+Missing redirect from Http to Https - High 7.5 
+IDOR on /Checks - High 7.4 
+No Limit on Login attempts - High 7.3 
+Cockies missing secure/httponly7same site - Medium 6.8 
+reflected XSS - Medium 6.0 
+Weak hashing on Database - Medium 5.9 
+Ability to create blank or "admin" accounts - Medium 5.8 
+Path Transversal - Medium 5.8 
+Outdated Jquery - Medium 5.5 
+Missing HTTP headers - Low 3.5
