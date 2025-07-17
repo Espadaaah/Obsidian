@@ -6,4 +6,4 @@ Login:
 webshell with php file
 
 ## http work's
-![](../../../attachments/http.png)
+![](../../../../attachments/Pasted%20image%2020250717111842.png)
