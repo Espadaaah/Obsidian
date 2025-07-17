@@ -18,19 +18,16 @@ ___ip.ttl == 128___
 ![](Lab%204.1%20-%20Daniel%20Espada-4.png)
 ![](Lab%204.1%20-%20Daniel%20Espada-5.png)
 
-
 ---
 4. Através de um filtro, indique os PDU’s que vão possuir mais fragmentos desses pacotes. 
 	Resposta: 163 PDU's
 ___ip.flags.mf == 1___ // ___ip.flags.mf == true___
-
 ![](Lab%204.1%20-%20Daniel%20Espada-6.png)
 ![](Lab%204.1%20-%20Daniel%20Espada-7.png)
 
-
 ---
 5. Aplique o filtro ip.dst == 172.217.40.76 e indique qual o campo de identification do primeiro PDU. Analise o mesmo campo do segundo PDU e indique a que conclusões chegou. 
-	Resposta: 
+	Resposta: 0xd0fe
 
 
 ---
