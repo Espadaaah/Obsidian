@@ -68,3 +68,16 @@
 ###### CISCO
 
 ![](Imagens/CISCO.png)
+
+---
+###### Juniper Networks
+
+![](Imagens/JUNIPER.png)
+
+---
+###### HUAWEI
+
+![](Imagens/HUAWEI.png)
+
+---
+######
