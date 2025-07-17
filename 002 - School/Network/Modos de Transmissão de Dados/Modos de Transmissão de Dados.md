@@ -12,10 +12,14 @@
 ![](HALF-DUPLEX.png)
 
 - Comunicação só acontece numa direção de cada vez
-- Apenas o remetente pode enviar informações
-- Exemplos: Teclado, Monitor...
+- Pode enviar e receber informações mas separadamente
+- Exemplos: Walkie-Talkie, Hub...
 
 ---
 ## Full-Duplex
 
+![](FULL-DUPLEX.png)
 
+- Comunicação pode acontecer em ambas as direções em simultâneo 
+- Pode enviar e receber informações mas separadamente
+- Exemplos: Walkie-Talkie, Hub...
