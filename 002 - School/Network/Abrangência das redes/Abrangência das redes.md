@@ -1,4 +1,6 @@
-![](Abrangência%20das%20redes.png)
+![](main.png)
 
 ---
 ## PAN - Personal Area Network
+
+![](PAN.png)
