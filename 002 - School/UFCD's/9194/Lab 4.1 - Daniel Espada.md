@@ -27,9 +27,9 @@ ___ip.flags.mf == 1___ // ___ip.flags.mf == true___
 
 ---
 5. Aplique o filtro ip.dst == 172.217.40.76 e indique qual o campo de identification do primeiro PDU. Analise o mesmo campo do segundo PDU e indique a que conclusões chegou. 
-	Resposta: 0xd0fe (53502), a identification mantem-se ig de fragmento, porque so assim quem recebe sabe que é da outra frame.
+	Resposta: 0xd0fe (53502), a identification mantem-se no fragmento, porque so assim o source recebe sabe que é da outra frame.
 
 
 ---
-6. Analise o PDU n.º 14403 e filtre por stream index. Indique quanto tempo demorou esta conversação, com escala a décimos de segundo (“tenths of a second”), mencionando, igualmente, todos os filtros que podem ser utilizados (diretamente e indiretamente) para chegar a esta resposta.
+6. Analise o PDU n.º 14403 e filtre por stream index. Indique quanto tempo demorou esta conversação, com escala a décimos de segundo (“tens of a second”), mencionando, igualmente, todos os filtros que podem ser utilizados (diretamente e indiretamente) para chegar a esta resposta.
 	Resposta: 
