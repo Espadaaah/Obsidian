@@ -1,1 +1,1 @@
-![](main.png)
+![](Abrangência%20das%20redes.png)
