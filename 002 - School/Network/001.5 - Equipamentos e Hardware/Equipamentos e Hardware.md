@@ -80,4 +80,9 @@
 ![](Imagens/HUAWEI.png)
 
 ---
-######
+###### MikroTik
+
+![](Imagens/MIKROTIK.png)
+
+---
+###### NOKIA
