@@ -27,7 +27,7 @@ ___ip.flags.mf == 1___ // ___ip.flags.mf == true___
 
 ---
 5. Aplique o filtro ip.dst == 172.217.40.76 e indique qual o campo de identification do primeiro PDU. Analise o mesmo campo do segundo PDU e indique a que conclusões chegou. 
-	Resposta: 0xd0fe (53502), a identicacao mantem na mesma identificao de fragmento, porque so assim quem recebe sabe que é da outra frame.
+	Resposta: 0xd0fe (53502), a indenticacao mantem na mesma indentificao de fragmento, porque so assim quem recebe sabe que é da outra frame.
 
 
 ---
