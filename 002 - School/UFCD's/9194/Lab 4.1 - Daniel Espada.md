@@ -22,7 +22,8 @@ ___ip.ttl == 128___
 ---
 4. Através de um filtro, indique os PDU’s que vão possuir mais fragmentos desses pacotes. 
 	Resposta: 163 PDU's
-___ip.flags.mf == 1___
+___ip.flags.mf == 1___ // ___ip.flags.mf == true___
+
 ![](Lab%204.1%20-%20Daniel%20Espada-6.png)
 ![](Lab%204.1%20-%20Daniel%20Espada-7.png)
 
