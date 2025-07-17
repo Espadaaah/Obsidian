@@ -34,7 +34,12 @@
 
 - Opera na camada 2 do modelo OSI
 - Filtra tráfego
-- 
+- Operam em half-duplex (HDX) e full-duplex (FDX)
+- Enviam apenas para o destinatário 
+- Separam domínios de colisões 
+- Acesso de dispositivos de utilizadores finais
+- Funções básicas de segurança
+- Não faze
 
 ### ROUTER
 
