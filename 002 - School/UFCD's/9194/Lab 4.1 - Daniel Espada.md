@@ -1,21 +1,23 @@
 1. Faça o filtro icmp. Quantos PDU’s usam esse protocolo?
+	Resposta:
 
 
+---
 2. Chegue ao mesmo resultado do ponto anterior – PDU’s que usam ICMP -, mas desta vez usando as flags do IPv4. 
+	Resposta: 
 
-
-
+---
 3. Use as falgs do IPv4 para indicar quantos PDU’s têm TTL a 128. Resposta: 
+	Resposta: 
 
-
-
+---
 4. Através de um filtro, indique os PDU’s que vão possuir mais fragmentos desses pacotes. 
+	Resposta: 
 
-
-
+---
 5. Aplique o filtro ip.dst == 172.217.40.76 e indique qual o campo de identification do primeiro PDU. Analise o mesmo campo do segundo PDU e indique a que conclusões chegou. 
+	Resposta: 
 
-
-
-
+---
 6. Analise o PDU n.º 14403 e filtre por stream index. Indique quanto tempo demorou esta conversação, com escala a décimos de segundo (“tens of a second”), mencionando, igualmente, todos os filtros que podem ser utilizados (diretamente e indiretamente) para chegar a esta resposta.
+	Resposta: 
