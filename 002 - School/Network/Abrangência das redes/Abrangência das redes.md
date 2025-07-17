@@ -8,4 +8,16 @@
 ---
 
 ## LAN - Local Area Network
+
 ![](LAN.png)
+
+---
+
+## MAN - Metropolitan Area Network
+
+![](MAN.png)
+
+---
+
+## WAN - Wide Area Network
+
