@@ -92,5 +92,11 @@
 ---
 ## Dispositivos Wireless
 
-### ACCESS CONTROLLER (AC)                                                  ACCESS POINT (AP)
+### ACCESS CONTROLLER (AC)                                                 ACCESS POINT (AP)
 ![](Imagens/Dispositivos%20wireless.png)
+
+---
+## Wireless AP - Modo Local
+
+![](Imagens/WIRELESS%20AP.png)
+
