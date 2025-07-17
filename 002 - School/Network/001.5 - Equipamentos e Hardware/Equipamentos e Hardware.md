@@ -69,20 +69,27 @@
 
 ![](Imagens/CISCO.png)
 
----
+
 ###### Juniper Networks
 
 ![](Imagens/JUNIPER.png)
 
----
+
 ###### HUAWEI
 
 ![](Imagens/HUAWEI.png)
 
----
+
 ###### MikroTik
 
 ![](Imagens/MIKROTIK.png)
 
----
+
 ###### NOKIA
+
+![](Imagens/NOKIA.png)
+
+---
+## Dispositivos Wireless
+
+![](Imagens/Pasted%20image%2020250718003616.png)
