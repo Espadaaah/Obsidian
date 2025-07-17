@@ -31,5 +31,5 @@ ___ip.flags.mf == 1___ // ___ip.flags.mf == true___
 
 
 ---
-6. Analise o PDU n.º 14403 e filtre por stream index. Indique quanto tempo demorou esta conversação, com escala a décimos de segundo (“tens of a second”), mencionando, igualmente, todos os filtros que podem ser utilizados (diretamente e indiretamente) para chegar a esta resposta.
+6. Analise o PDU n.º 14403 e filtre por stream index. Indique quanto tempo demorou esta conversação, com escala a décimos de segundo (“tenths of a second”), mencionando, igualmente, todos os filtros que podem ser utilizados (diretamente e indiretamente) para chegar a esta resposta.
 	Resposta: 
