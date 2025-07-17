@@ -63,3 +63,8 @@
 - Tradução de endereços de rede (NAT)
 
 ---
+## Principais fabricantes de equipamentos de rede
+
+###### CISCO
+
+![](Imagens/CISCO.png)
