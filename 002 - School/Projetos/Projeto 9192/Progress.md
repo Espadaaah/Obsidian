@@ -12,3 +12,5 @@ webshell with php file
 
 
 ![](Progress.png)
+
+![](nikto.png)
