@@ -13,7 +13,11 @@ ___ip.proto == 1___
 
 ---
 3. Use as flags do IPv4 para indicar quantos PDU’s têm TTL a 128.
-	Resposta: 
+	Resposta: 2398 PDU's
+___ip.ttl == 128___
+![](Lab%204.1%20-%20Daniel%20Espada-4.png)
+![](Lab%204.1%20-%20Daniel%20Espada-5.png)
+
 
 ---
 4. Através de um filtro, indique os PDU’s que vão possuir mais fragmentos desses pacotes. 
