@@ -1,4 +1,4 @@
-![](Abrangência%20das%20redes.png)
+![](MAIN.png)
 
 ---
 ## PAN - Personal Area Network
@@ -26,5 +26,7 @@
 ---
 
 ### Others
-___wlan - Wireless LAN___
-___
+
+___WLAN - Wireless LAN___
+___VLAN - Virtual LAN___
+___VPN - Virtual Private Network___
