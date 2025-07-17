@@ -17,3 +17,17 @@
 
 ### HUB
 
+![](Imagens/HUB.png)
+
+- Opera
+
+
+### SWITCH
+
+![](Imagens/SWITCH.png)
+
+### ROUTER
+
+![](Imagens/ROUTER.png)
+
+---
