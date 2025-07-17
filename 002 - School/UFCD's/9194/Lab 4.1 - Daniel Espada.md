@@ -1,8 +1,8 @@
 1. Faça o filtro icmp. Quantos PDU’s usam esse protocolo?
-	Resposta: 49300 PDU's
+	Resposta: 2474 PDU's
 ___icmp___
 ![](Lab%204.1%20-%20Daniel%20Espada.png)
-
+![](Lab%204.1%20-%20Daniel%20Espada-1.png)
 ---
 2. Chegue ao mesmo resultado do ponto anterior – PDU’s que usam ICMP -, mas desta vez usando as flags do IPv4. 
 	Resposta: 
