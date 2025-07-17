@@ -7,6 +7,7 @@
 - Vantagens de gerenciar, monitorizar e escalar a rede
 - Desvantagem de ser um único ponto de falha
 
+---
 ## Peer-to-Peer OR P2P
 
 ![](Imagens/Peer-to-Peer.png)
