@@ -20,4 +20,6 @@ _headers http_
 
 # Software and Data Integrity Failures
 
-# Security Logging and Monitoring Failur
+# Security Logging and Monitoring Failures
+
+# Server-Side Request Forgery (SSRF)
