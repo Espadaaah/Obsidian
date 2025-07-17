@@ -44,3 +44,4 @@
 ---
 ## Hibrida / Combinada
 
+![](imagens/HibridaCombinada.png)
