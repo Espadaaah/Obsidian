@@ -124,6 +124,16 @@
 ![](Imagens/FORTINET.png)
 
 ###### PaloAlto Networks
+![](Imagens/PALOALTO.png)
+
+###### Pfsense
+
+
+###### Check Point
+
+###### Huawei
+
+###### WatchGuard
 
 ---
 ## Conversores
