@@ -94,7 +94,19 @@ In larger LANs that connect thousands of devices, more hardware, software, and c
 
 ## WAN - Wide Area Network
 
+### Advantages of WAN
 
+- ***Large area coverage:*** WAN covers a large geographical area(1000 km or more than). Ex. If your business office is situated in another country and you live in another country then WAN is a platform to communicate with each other(i.e. you and your office staff members).             
+- ***Higher bandwidth:*** WAN networks usually cover large geographical areas. Ex.1000 km or more than the wide area network has higher bandwidth than LAN and MAN networks.
+- ***Centralized data:*** Using the WAN network you can share the data connected to all the devices in the respective network. Ex. By using the WAN network, all branches are capable to share all data through the head office server and you can get support, full backup, and other precious data from the head office, and all data gets synchronized along with all other company branches.
+- **Message Exchange:** With the help of the Internet Of Things (IoT) and LAN, a sudden growth of WAN-based devices can be seen. This communication via message can be done fastest with the help of the most popular apps like messenger and WhatsApp.
+
+### Disadvantages of WAN
+
+- **Security issue:** WAN faces more security problems than LAN and MAN networks due to WAN networks more technologies are merged. It can open a security gap, which paves the way of occurring malicious attacks and identity intruders.
+- **Installation cost:** WANs are default complex and complicated because of large geographical area coverage. Hence there is a set-up cost in expensive WAN that also needs routers, switches, and other security solutions.
+- **Troubleshooting issues:** Troubleshoot the big challenge on the WAN network and it requires more time. If any issue occurs in the computer network then it is the most difficult part to find out the proper cause due to their broad coverage area. 
+- **Maintenance issues:** In a WAN network, it is difficult to maintain the network especially a data center that operates 24/7 is the biggest challenge out of all. Here 24/7 needs assistance from network administrators and technicians. In a WAN, maintenance cost is high.
 
 ---
 
