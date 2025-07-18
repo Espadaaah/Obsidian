@@ -6,30 +6,30 @@
 [WAN - Wide Area Network](#WAN%20-%20Wide%20Area%20Network)
 [Others](#Others)
 
-![](Imagens/MAIN.png)
+
 
 ---
 ## PAN - Personal Area Network
 
-![](Imagens/PAN.png)
+
 
 ---
 
 ## LAN - Local Area Network
 
-![](Imagens/LAN.png)
+
 
 ---
 
 ## MAN - Metropolitan Area Network
 
-![](Imagens/MAN.png)
+
 
 ---
 
 ## WAN - Wide Area Network
 
-![](Imagens/WAN.png)
+
 
 ---
 
