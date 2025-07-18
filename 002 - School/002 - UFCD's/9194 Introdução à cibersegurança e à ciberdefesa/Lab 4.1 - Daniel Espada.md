@@ -1,29 +1,29 @@
 1. Faça o filtro icmp. Quantos PDU’s usam esse protocolo?
 	Resposta: 2474 PDU's
 ___icmp___
-![](Lab%204.1%20-%20Daniel%20Espada.png)
-![](Lab%204.1%20-%20Daniel%20Espada-1.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-1.png)
 
 ---
 2. Chegue ao mesmo resultado do ponto anterior – PDU’s que usam ICMP -, mas desta vez usando as flags do IPv4. 
 	Resposta: 2474 PDU's
 ___ip.proto == 1___
-![](Lab%204.1%20-%20Daniel%20Espada-2.png)
-![](Lab%204.1%20-%20Daniel%20Espada-3.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-2.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-3.png)
 
 ---
 3. Use as flags do IPv4 para indicar quantos PDU’s têm TTL a 128.
 	Resposta: 2398 PDU's
 ___ip.ttl == 128___
-![](Lab%204.1%20-%20Daniel%20Espada-4.png)
-![](Lab%204.1%20-%20Daniel%20Espada-5.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-4.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-5.png)
 
 ---
 4. Através de um filtro, indique os PDU’s que vão possuir mais fragmentos desses pacotes. 
 	Resposta: 163 PDU's
 ___ip.flags.mf == 1___ // ___ip.flags.mf == true___
-![](Lab%204.1%20-%20Daniel%20Espada-6.png)
-![](Lab%204.1%20-%20Daniel%20Espada-7.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-6.png)
+![](Imagens/Lab%204.1%20-%20Daniel%20Espada-7.png)
 
 ---
 <div style="page-break-after: always;"></div>
