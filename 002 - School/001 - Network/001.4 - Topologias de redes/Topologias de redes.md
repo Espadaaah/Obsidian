@@ -23,10 +23,33 @@
 
 ![](Imagens/BUS.png)
 
-- Todos os nodes estão interligados pelo cabo de backbone
-- Só uma comunicação em simultâneo. Se falhar os outros não são afetados
-- Pouca escalabilidade, sendo apenas adequada a pequenas redes
-- Pouca segurança e performance, e difícil de fazer troubleshooting
+### Best Practice for Designing Bus Topology
+
+1. ***Plan for Scalability:*** Plan for the network's future growth and expansion. Ensure that the bus topology can accommodate extra devices with out extensively affecting overall performance.
+2. ***Use Good Quality Cabling:*** Create a good cabling setup for the bus backbone. Ensure that the cable is properly shielded to minimize sign interference and degradation. Use cable with suitable bandwidth and make certain that it meets the necessities of the network.
+3. ***Implement Redundancy:*** Think about adding redundancy to decrease the risk of a single point of failure (SPoF).
+4. ***Terminate the Bus Properly:*** Terminate both ends of the bus with terminators to prevent signal reflection and ensure signal integrity. Improper termination can result in signal degradation and performance issues.
+
+### Advantages of Bus Topology
+
+- It is the easiest network topology for linearly connecting peripherals or computers.
+- It works very efficiently well when there is a small network.
+- The length of cable required is less than a star topology.
+- It is easy to connect or remove devices in this network without affecting any other device.
+- Very cost-effective as compared to other network topology i.e. mesh and star
+- It is easy to understand topology.
+- Easy to expand by joining the two cables together.
+
+### Disadvantages of Bus Topology
+
+- Bus topology is not good for large networks.
+- Identification of problems becomes difficult if the whole network goes down.
+- Troubleshooting individual device issues is very hard.
+- Need terminators are required at both ends of the main cable.
+- Additional devices slow the network down.
+- If the main cable is damaged, the whole network fails or splits into two.
+- Packet loss is high.
+- This network topology is very slow as compared to other [topologies](https://.
 
 ---
 ## Árvore (TREE)
