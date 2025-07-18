@@ -27,7 +27,7 @@
 
 ![](Imagens/HALF-DUPLEX.png)
 
-## Advantages of Half-Duplex Mode
+### Advantages of Half-Duplex Mode
 
 ***1. Efficient Use of Channel:*** Half-duplex allows for bidirectional communication over a single channel, making it effective for scenarios where parallel transmission isn't required.
 
@@ -37,7 +37,7 @@
 
 ***4. Suitable for Periodic Communication:*** Optimal for situations where communication doesn't need to happen concurrently in both directions, such as walkie-talkies or specific network protocols.
 
-## Disadvantages of Half-Duplex Mode
+### Disadvantages of Half-Duplex Mode
 
 ***1. Slower Data Transmission:*** Since data can only run in one direction at a time, communication is naturally delayed compared to full-duplex systems where data can be delivered and received simultaneously.
 
