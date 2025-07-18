@@ -65,9 +65,12 @@
 ---
 ## Principais fabricantes de equipamentos de rede
 
-###### CISCO
 
-![](Imagens/CISCO.png)
+| Cisco |     |
+| ----- | --- |
+|       |     |
+
+
 
 
 ###### Juniper Networks
