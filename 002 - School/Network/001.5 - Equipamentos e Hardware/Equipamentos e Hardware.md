@@ -66,7 +66,7 @@
 ## Principais fabricantes de equipamentos de rede
 
 |      ***Cisco***       |
-| :--------------------: |
+| :------------------------: |
 | ***Juniper Networks*** |
 |      ***HUAWI***       |
 |     ***MikroTik***     |
@@ -107,19 +107,9 @@
 | :---------------------: |
 | ***PaloAlto Networks*** |
 |      ***Pfsense***      |
-|     ***MikroTik***      |
-|       ***NOKIA***       |
-
-
-
-###### Check Point
-![](Imagens/CHECKPOINT.png)
-
-###### Huawei
-![](Imagens/HUAWEI%20-%20FIREWALL.png)
-
-###### WatchGuard
-![](Imagens/WATCHGUARD.png)
+|    ***Check Point***    |
+|      ***HUAWEI***       |
+|    ***WatchGuard***     |
 
 ---
 ## Conversores
