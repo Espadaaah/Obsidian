@@ -16,14 +16,14 @@ Designing an effective client-server architecture involves several key principle
     - ***Reusability:*** Design components that can be reused across different parts of the system or in different projects.
 - ***Scalability:***
     - ***Horizontal Scalability:*** Ensure that the system can handle increased load by adding more servers or instances rather than just upgrading existing hardware.
-    - ****Vertical Scalability******:**** Allow for upgrades in server hardware, such as CPU, memory, and storage, to handle more intensive tasks.
-- ****Reliability and Availability:****
-    - [****Redundancy****](https://www.geeksforgeeks.org/redundancy-system-design/)****:**** Implement redundant components, such as multiple servers, to ensure the system remains operational in case of failures.
-    - [****Load Balancing****](https://www.geeksforgeeks.org/what-is-load-balancer-system-design/)****:**** Distribute client requests across multiple servers to prevent any single server from becoming a bottleneck.
-- ****Performance Optimization:****
-    - ****Efficient Communication:**** Optimize the communication protocols and data exchange formats to reduce latency and bandwidth usage.
-    - [****Caching****](https://www.geeksforgeeks.org/caching-system-design-concept-for-beginners/)****:**** Use caching mechanisms to store frequently accessed data closer to the client to improve response times.
-- ****Security****:
+    - ***Vertical Scalability*:*** Allow for upgrades in server hardware, such as CPU, memory, and storage, to handle more intensive tasks.
+- ***Reliability and Availability:***
+    - ***Redundancy:*** Implement redundant components, such as multiple servers, to ensure the system remains operational in case of failures.
+    - ***Load Balancing:*** Distribute client requests across multiple servers to prevent any single server from becoming a bottleneck.
+- ***Performance Optimization:***
+    - ***Efficient Communication:*** Optimize the communication protocols and data exchange formats to reduce latency and bandwidth usage.
+    - ***Caching:*** Use caching mechanisms to store frequently accessed data closer to the client to improve response times.
+- ***Security***:
     - ****Authentication and Authorization:**** Ensure that only authorized clients and users can access the server and its resources.
     - ****Encryption:**** Use encryption protocols (e.g., SSL/TLS) to secure data transmission between clients and servers.
     - ****Regular Audits:**** Conduct regular security audits and updates to identify and address vulnerabilities.
