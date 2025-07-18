@@ -11,12 +11,12 @@
 
 Designing an effective client-server architecture involves several key principles that ensure the system is robust, scalable, secure, and efficient. Here are the main design principles:
 
-- [****Modularity****](https://www.geeksforgeeks.org/inroduction-to-modularity-and-interfaces-in-system-design/)****:****
-    - ****Separation of Concerns:**** Divide the system into distinct modules, such as the client, server, and database, each responsible for specific tasks. This separation simplifies development, testing, and maintenance.
-    - ****Reusability:**** Design components that can be reused across different parts of the system or in different projects.
-- [****Scalability****](https://www.geeksforgeeks.org/what-is-scalability-and-how-to-achieve-it-learn-system-design/)****:****
-    - [****Horizontal Scalability****](https://www.geeksforgeeks.org/system-design-horizontal-and-vertical-scaling/)****:**** Ensure that the system can handle increased load by adding more servers or instances rather than just upgrading existing hardware.
-    - [****Vertical Scalability****](https://www.geeksforgeeks.org/system-design-horizontal-and-vertical-scaling/)****:**** Allow for upgrades in server hardware, such as CPU, memory, and storage, to handle more intensive tasks.
+- ***Modularity:***
+    - ***Separation of Concerns:*** Divide the system into distinct modules, such as the client, server, and database, each responsible for specific tasks. This separation simplifies development, testing, and maintenance.
+    - ***Reusability:*** Design components that can be reused across different parts of the system or in different projects.
+- ***Scalability:***
+    - ***Horizontal Scalability:*** Ensure that the system can handle increased load by adding more servers or instances rather than just upgrading existing hardware.
+    - ****Vertical Scalability******:**** Allow for upgrades in server hardware, such as CPU, memory, and storage, to handle more intensive tasks.
 - ****Reliability and Availability:****
     - [****Redundancy****](https://www.geeksforgeeks.org/redundancy-system-design/)****:**** Implement redundant components, such as multiple servers, to ensure the system remains operational in case of failures.
     - [****Load Balancing****](https://www.geeksforgeeks.org/what-is-load-balancer-system-design/)****:**** Distribute client requests across multiple servers to prevent any single server from becoming a bottleneck.
@@ -33,6 +33,7 @@ Designing an effective client-server architecture involves several key principle
 - ****Interoperability****:
     - ****Standard Protocols:**** Use standard communication protocols (e.g., HTTP/HTTPS, REST, SOAP) to ensure compatibility between different clients and servers.
     - ****Platform Independence:**** Design the system to support multiple platforms and devices, allowing various clients to interact with the server.
+    - 
 
 ---
 ## Peer-to-Peer (P2P)
