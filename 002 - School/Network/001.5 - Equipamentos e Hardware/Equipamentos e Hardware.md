@@ -1,4 +1,9 @@
-
+[Placas de Rede](#Placas%20de%20Rede)
+	[Bus + Ethernet](#Bus%20+%20Ethernet)
+	[Fibra Ótica](#Fibra%20Ótica)
+	[Wireless](#Wireless)
+[Equipamentos de Rede](#Equipamentos%20de%20Rede)
+	[[#]]
 ## Placas de Rede
 
 ### Bus + Ethernet
