@@ -174,5 +174,10 @@ Below mentioned are some of the applications of Mesh Topology:
 ---
 ## Hibrida / Combinada
 
-![](Imagens/HYBRID.png)
+### Star-Ring Hybrid Topology
 
+![](Imagens/STAR%20HYBRID.png)
+
+### Star-Bus Hybrid Topology
+
+![](Imagens/STAR-BUS%20HYBRID.png)
