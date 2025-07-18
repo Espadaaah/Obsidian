@@ -11,6 +11,7 @@
 ---
 ## PAN - Personal Area Network
 
+![](Imagens/PAN.png)
 ### Examples of PAN:
  - ***Body Area Network:***   
     It is a mobile network that moves with a persona range for example when a person connects his smartphone to the Bluetooth headphone and moves in the market that refers to a body area network.
@@ -22,7 +23,7 @@
 
   
 ### Advantages of PAN
- -PAN is relatively flexible and provides high efficiency for short network ranges.
+- PAN is relatively flexible and provides high efficiency for short network ranges.
 - It needs easy setup and relatively low cost.
 - It does not require frequent installations and maintenance
 - It is easy and portable.
