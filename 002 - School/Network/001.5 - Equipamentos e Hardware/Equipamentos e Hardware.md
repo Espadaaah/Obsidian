@@ -14,6 +14,8 @@
 	[Wireless AP - Modo Local](#Wireless%20AP%20-%20Modo%20Local)
 	[Wireless AP - Modo Bridge](#Wireless%20AP%20-%20Modo%20Bridge)
 [Firewalls](#Firewalls)
+	[Firewalls (IDS + IPS)](#Firewalls%20(IDS%20+%20IPS))
+	[Fabricantes de Firewalls](#Fabricantes%20de%20Firewalls)
 	[[#]]
 ## Placas de Rede
 
