@@ -1,7 +1,5 @@
 #Network/Sessão-1/Topologias-Redes
 
-indice
--
 
 [Point-to-Point](#Point-to-Point)
 [Point-to-MultiPoint](#Point-to-MultiPoint)

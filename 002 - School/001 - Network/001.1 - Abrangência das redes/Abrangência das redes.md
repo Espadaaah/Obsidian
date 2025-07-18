@@ -4,7 +4,7 @@
 [LAN - Local Area Network](#LAN%20-%20Local%20Area%20Network)
 [MAN - Metropolitan Area Network](#MAN%20-%20Metropolitan%20Area%20Network)
 [WAN - Wide Area Network](#WAN%20-%20Wide%20Area%20Network)
-	[Others](#Others)
+[Others](#Others)
 
 ![](Imagens/MAIN.png)
 
