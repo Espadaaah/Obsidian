@@ -6,7 +6,7 @@
 [Anel (RING)](#Anel%20(RING))
 [Estrela (STAR)](#Estrela%20(STAR))
 [Malha (MESH)](#Malha%20(MESH))
-	[Mesh Parcial](#Mesh%20Parcial)
+	[[]
 	[Mesh Total](#Mesh%20Total)
 [Hibrida / Combinada](#Hibrida%20/%20Combinada)
 ## Point-to-Point
@@ -47,6 +47,12 @@
 ## Malha (MESH)
 
 ![](Imagens/MESH.png)
+
+### Mesh Total
+- All the nodes within the network are connected with every other If there are n number of nodes during a network, each node will have an n-1 number of connections. A full mesh provides an excellent deal of redundancy, but because it is expensive to implement, it's usually reserved for network backbones.
+
+### Mesh Parcial
+- The partial mesh is more practical as compared to the full mesh. In a partially connected mesh, all the nodes aren't necessary to be connected with one another during a network. Peripheral networks are connected using partial mesh topology.
 
 ---
 ## Hibrida / Combinada
