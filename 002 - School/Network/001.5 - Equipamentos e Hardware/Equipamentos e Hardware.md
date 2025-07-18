@@ -135,8 +135,8 @@
 ###### Huawei
 ![](Imagens/HUAWEI%20-%20FIREWALL.png)
 
-
 ###### WatchGuard
+![](Imagens/WATCHGUARD.png)
 
 ---
 ## Conversores
