@@ -65,32 +65,12 @@
 ---
 ## Principais fabricantes de equipamentos de rede
 
-
-| Cisco |     |
-| ----- | --- |
-|       |     |
-
-
-
-
-###### Juniper Networks
-
-![](Imagens/JUNIPER.png)
-
-
-###### HUAWEI
-
-![](Imagens/HUAWEI.png)
-
-
-###### MikroTik
-
-![](Imagens/MIKROTIK.png)
-
-
-###### NOKIA
-
-![](Imagens/NOKIA.png)
+|      ***Cisco***       |
+| :--------------------: |
+| ***Juniper Networks*** |
+|      ***HUAWI***       |
+|     ***MikroTik***     |
+|      ***NOKIA***       |
 
 ---
 ## Dispositivos Wireless
