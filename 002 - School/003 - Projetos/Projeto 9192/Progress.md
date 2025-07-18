@@ -36,3 +36,6 @@
 
 ### Brute Force
 ![](Imagens/Progress-12.png)
+
+## Cross-Site scripting (XSS)
+![](Imagens/Progress-13.png)
