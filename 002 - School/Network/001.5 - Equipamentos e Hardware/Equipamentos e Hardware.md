@@ -103,14 +103,14 @@
 
 ### Fabricantes de Firewalls
 
-###### FORTINET
-![](Imagens/FORTINET.png)
+|     ***FORTINET***      |
+| :---------------------: |
+| ***PaloAlto Networks*** |
+|      ***Pfsense***      |
+|     ***MikroTik***      |
+|       ***NOKIA***       |
 
-###### PaloAlto Networks
-![](Imagens/PALOALTO.png)
 
-###### Pfsense
-![](Imagens/PFSENSE.png)
 
 ###### Check Point
 ![](Imagens/CHECKPOINT.png)
