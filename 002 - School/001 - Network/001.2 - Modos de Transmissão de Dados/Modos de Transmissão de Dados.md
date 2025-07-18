@@ -1,7 +1,9 @@
 #Network/Sessão-1/Transmissões-de-Dados
+
 [Simplex](#Simplex)
 [Half-Duplex](#Half-Duplex)
 [Full-Duplex](#Full-Duplex)
+
 ## Simplex
 
 ![](Imagens/SIMPLEX.png)
