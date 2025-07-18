@@ -46,12 +46,7 @@
 ---
 ## Malha (MESH)
 
-### Mesh Parcial
-
-
-### Mesh Total
-
-![](Imagens/MESH-TOTAL.png)
+![](Imagens/MESH.png)
 
 ---
 ## Hibrida / Combinada
