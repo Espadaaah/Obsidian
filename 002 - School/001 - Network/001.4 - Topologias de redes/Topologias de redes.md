@@ -43,6 +43,59 @@
 
 ![](Imagens/STAR.png)
 
+### Types of Star Topology
+
+There are two types of star topology:
+
+- Active Star Topology
+- Passive Star topology
+
+***Active Star Topology***: In active star topology, the central hub regenerates the signal when it passes through it. This simply means that the hub not only works as a connector but also boosts the signal and makes sure the signals reach their destination properly.
+
+***Passive Star Topology:*** In passive star topology, the central hub simply connects the devices, but does not regenerate the signals. Here, the devices connected are responsible for the transmission of signals. Passive star topology is recommended for smaller setups.
+
+### What are the best practices of Star Topology?
+
+Below mentioned are some of the applications of Star Topology:
+
+- ***Home Networks:*** Star Topology is used in a home network where all devices connects to a connected to a central router that manages the Internet.
+- ***ATM Networks:*** In banks, ATMs are also connected in as a star network, as it helps in managing data efficiently.
+- ***Hospital Networks:*** Hospital devices, medicinal equipment are connected in the star topology. It helps in easily accessing data records.
+- ***CCTV Networks:*** Star Topolgy are also used in CCTV Networks where multiple cameras are connected to central video recorder.
+
+### What is the Importance of Star Topology in LAN?
+
+Star Topology is important in Local Area Network because it helps in ****easy management and scalability**** of the network. As central hub is present in the star topology, it becomes simple to monitor and control network traffic among devices present in the network. Because of star topology, adding or removing devices becomes easy and it also helps in expanding networks.
+
+### Advantages of Star Topology
+
+- It is very reliable as if one cable or device fails then all the others will still work.
+- It is high performing as no data collisions can occur.
+- It is less expensive because each device only needs one I/O port and wishes to be connected to the hub with one link.
+- Easy fault detection because the links are often easily identified.
+- No disruptions to the network when connecting or removing devices.
+- Each device requires just one port i.e. to attach to the hub.
+- If N devices are connected to each other in star, then the amount of cables required to attach them is N. So, it's easy to line up.
+
+### Disadvantages of Star Topology
+
+- Requires more cable than [bus topology](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-bus-topology/).
+- If the connecting network device (network switch) fails, the nodes attached are disabled and can't participate in network communication.
+- More expensive than linear bus topology due to the value of the connecting devices (network switches).
+- If the hub goes down everything goes down, none of the devices can work without the hub.
+- Hub requires more resources and regular maintenance because it's the central system of Star.
+- Extra hardware is required (hubs or switches) which adds to the cost.
+- Performance is predicated on the one concentrator i.e. hub.
+
+## Difference Between Star and Bus Topology
+
+|Star Topology|Bus Topology|
+|---|---|
+|All devices are connected to a central hub|All devices are connected to a single central cable (called the bus)|
+|If a device fails, only that device is affected, the rest of the network keeps working|If a device fails, the rest of the network keeps working|
+|Requires more cable as compared to Bus Topology|Requires less cables as compared to Star Topology|
+|Motly used for small to medium size networks|Mostly used for simple networks having fewer devices|
+
 ---
 ## Malha (MESH)
 
