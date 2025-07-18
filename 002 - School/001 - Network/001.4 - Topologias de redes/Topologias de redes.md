@@ -61,11 +61,11 @@ Below mentioned are some of the applications of Star Topology:
 - ***Home Networks:*** Star Topology is used in a home network where all devices connects to a connected to a central router that manages the Internet.
 - ***ATM Networks:*** In banks, ATMs are also connected in as a star network, as it helps in managing data efficiently.
 - ***Hospital Networks:*** Hospital devices, medicinal equipment are connected in the star topology. It helps in easily accessing data records.
-- ***CCTV Networks:*** Star Topolgy are also used in CCTV Networks where multiple cameras are connected to central video recorder.
+- ***CCTV Networks:*** Star Topology are also used in CCTV Networks where multiple cameras are connected to central video recorder.
 
 ### What is the Importance of Star Topology in LAN?
 
-Star Topology is important in Local Area Network because it helps in ****easy management and scalability**** of the network. As central hub is present in the star topology, it becomes simple to monitor and control network traffic among devices present in the network. Because of star topology, adding or removing devices becomes easy and it also helps in expanding networks.
+Star Topology is important in Local Area Network because it helps in easy management and scalability of the network. As central hub is present in the star topology, it becomes simple to monitor and control network traffic among devices present in the network. Because of star topology, adding or removing devices becomes easy and it also helps in expanding networks.
 
 ### Advantages of Star Topology
 
@@ -79,7 +79,7 @@ Star Topology is important in Local Area Network because it helps in ****easy m
 
 ### Disadvantages of Star Topology
 
-- Requires more cable than [bus topology](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-bus-topology/).
+- Requires more cable than bus topology.
 - If the connecting network device (network switch) fails, the nodes attached are disabled and can't participate in network communication.
 - More expensive than linear bus topology due to the value of the connecting devices (network switches).
 - If the hub goes down everything goes down, none of the devices can work without the hub.
@@ -87,7 +87,7 @@ Star Topology is important in Local Area Network because it helps in ****easy m
 - Extra hardware is required (hubs or switches) which adds to the cost.
 - Performance is predicated on the one concentrator i.e. hub.
 
-## Difference Between Star and Bus Topology
+### Difference Between Star and Bus Topology
 
 |Star Topology|Bus Topology|
 |---|---|
