@@ -1,4 +1,4 @@
-#Network/Sessão-1_Transmissões-de-Dados
+#Network/Sessão-1/Transmissões-de-Dados
 [Simplex](#Simplex)
 [Half-Duplex](#Half-Duplex)
 [Full-Duplex](#Full-Duplex)

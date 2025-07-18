@@ -1,4 +1,4 @@
-#Network/Sessão-1_Equipamento-Hardware
+#Network/Sessão-1/Equipamento-Hardware
 [Placas de Rede](#Placas%20de%20Rede)
 	[Bus + Ethernet](#Bus%20+%20Ethernet)
 	[Fibra Ótica](#Fibra%20Ótica)
