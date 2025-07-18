@@ -24,15 +24,15 @@ Designing an effective client-server architecture involves several key principle
     - ***Efficient Communication:*** Optimize the communication protocols and data exchange formats to reduce latency and bandwidth usage.
     - ***Caching:*** Use caching mechanisms to store frequently accessed data closer to the client to improve response times.
 - ***Security***:
-    - ****Authentication and Authorization:**** Ensure that only authorized clients and users can access the server and its resources.
-    - ****Encryption:**** Use encryption protocols (e.g., SSL/TLS) to secure data transmission between clients and servers.
-    - ****Regular Audits:**** Conduct regular security audits and updates to identify and address vulnerabilities.
+    - ***Authentication and Authorization:*** Ensure that only authorized clients and users can access the server and its resources.
+    - ***Encryption:*** Use encryption protocols (e.g., SSL/TLS) to secure data transmission between clients and servers.
+    - ***Regular Audits:*** Conduct regular security audits and updates to identify and address vulnerabilities.
 - ****Maintainability****:
-    - ****Clean Code:**** Write clear, well-documented, and maintainable code to simplify debugging and future enhancements.
-    - ****Version Control:**** Use version control systems to manage changes in the codebase and coordinate among development teams.
+    - ***Clean Code:*** Write clear, well-documented, and maintainable code to simplify debugging and future enhancements.
+    - ***Version Control:*** Use version control systems to manage changes in the codebase and coordinate among development teams.
 - ****Interoperability****:
-    - ****Standard Protocols:**** Use standard communication protocols (e.g., HTTP/HTTPS, REST, SOAP) to ensure compatibility between different clients and servers.
-    - ****Platform Independence:**** Design the system to support multiple platforms and devices, allowing various clients to interact with the server.
+    - ***Standard Protocols:*** Use standard communication protocols (e.g., HTTP/HTTPS, REST, SOAP) to ensure compatibility between different clients and servers.
+    - ***Platform Independence:*** Design the system to support multiple platforms and devices, allowing various clients to interact with the server.
     - 
 
 ---
