@@ -1,4 +1,4 @@
-#Network/Sessão-1-1
+#Network/Sessão-1_Redes
 
 [PAN - Personal Area Network](#PAN%20-%20Personal%20Area%20Network)
 [LAN - Local Area Network](#LAN%20-%20Local%20Area%20Network)
