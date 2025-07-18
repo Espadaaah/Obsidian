@@ -16,12 +16,12 @@
 ---
 ## Point-to-MultiPoint
 
-![](Imagens/Point-to-Multipoint.png)
+
 
 ---
 ## Barramento (BUS)
 
-![](Imagens/BUS.png)
+
 
 - Todos os nodes estão interligados pelo cabo de backbone
 - Só uma comunicação em simultâneo. Se falhar os outros não são afetados
@@ -31,29 +31,29 @@
 ---
 ## Árvore (TREE)
 
-![](Imagens/TREE.png)
+
 
 ---
 ## Anel (RING)
 
-![](Imagens/RING.png)
+
 
 ---
 ## Estrela (STAR)
 
-![](Imagens/STAR.png)
+
 
 
 ---
 ## Malha (MESH)
 
 ### Mesh Parcial
-![](Imagens/MESH%20PARCIAL.png)
+
 
 ### Mesh Total
-![](Imagens/Mesh%20Total.png)
+
 
 ---
 ## Hibrida / Combinada
 
-![](Imagens/HibridaCombinada.png)
+
