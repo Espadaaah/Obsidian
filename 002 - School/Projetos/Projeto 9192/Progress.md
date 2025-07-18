@@ -18,4 +18,4 @@ Login:
 
 ### IDOR
 
-/checks/1234-cooker.png
+/checks/9999.aaaa.png
