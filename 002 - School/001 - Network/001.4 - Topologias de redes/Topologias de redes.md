@@ -5,6 +5,7 @@
 [Árvore (TREE)](#Árvore%20(TREE))
 [Anel (RING)](#Anel%20(RING))
 [Estrela (STAR)](#Estrela%20(STAR))
+	[[]]
 [Malha (MESH)](#Malha%20(MESH))
 	[Mesh Total](#Mesh%20Total)
 	[Mesh Parcial](#Mesh%20Parcial)
@@ -13,10 +14,18 @@
 
 ![](Imagens/Point-to-Point.png)
 
----
 ## Point-to-MultiPoint
 
 ![](Imagens/Point-to-Multipoint.png)
+
+| S.NO | Point to point communication                                                                                                                              | Multipoint Communication                                                                                                  |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1.   | Point to point communication means the channel is shared between two devices.                                                                             | Multipoint Communication means the channel is shared among multiple devices or nodes.                                     |
+| 2.   | In this communication, There is dedicated link between two nodes.                                                                                         | In this communication, link is provided at all times for sharing the connection among nodes.                              |
+| 3.   | In this communication, the entire capacity is reserved between these connected two devices with the possibility of waste of network bandwidth/ resources. | In this communication, the entire capacity isn't reserved by any two nodes and the network bandwidth is maximum utilized. |
+| 4.   | In this communication, there is one transmitter and one receiver.                                                                                         | In this communication, there is one transmitter and many receivers.                                                       |
+| 5.   | In point-to-point connections, the smallest distance is most important to reach the receiver.                                                             | In Multi-point connections, the smallest distance is not important to reach the receiver.                                 |
+| 6.   | Point-to-point communication provides security and privacy because communication channel is not shared.                                                   | Multi-point communication does not provide security and privacy because communication channel is shared.                  |
 
 ---
 ## Barramento (BUS)
@@ -49,7 +58,7 @@
 - Additional devices slow the network down.
 - If the main cable is damaged, the whole network fails or splits into two.
 - Packet loss is high.
-- This network topology is very slow as compared to other [topologies](https://.
+- This network topology is very slow as compared to other topologies.
 
 ---
 ## Árvore (TREE)
