@@ -46,10 +46,10 @@ Designing an effective client-server architecture involves several key principle
 
 ## Disadvantages of Client-Server Model
 
-- ****Clients Are Vulnerable****: Clients are prone to viruses, Trojans, and worms if present in the Server or uploaded into the Server.
-- ****Servers Are Targets**** Servers are prone to Denial of Service (DOS) attacks, where the server is overwhelmed with traffic and made unavailable to legitimate clients.
-- ****Data Spoofing and Modification****: Data packets may be spoofed or modified during transmission if the proper security measures (e.g., encryption) are not implemented.
-- ****Man-in-the-Middle (MITM) Attacks****: Phishing or capturing login credentials or other useful information of the user are common and [MITM(Man in the Middle)](https://www.geeksforgeeks.org/computer-networks/mitm-man-in-the-middle-attack-using-arp-poisoning/) attacks are common.
+- ***Clients Are Vulnerable:*** Clients are prone to viruses, Trojans, and worms if present in the Server or uploaded into the Server.
+- ***Servers Are Targets:*** Servers are prone to Denial of Service (DOS) attacks, where the server is overwhelmed with traffic and made unavailable to legitimate clients.
+- ***Data Spoofing and Modification:*** Data packets may be spoofed or modified during transmission if the proper security measures (e.g., encryption) are not implemented.
+- ***Man-in-the-Middle (MITM) Attacks:*** Phishing or capturing login credentials or other useful information of the user are common and MITM(Man in the Middle) attacks are common.
 
 ---
 ## Peer-to-Peer (P2P)
