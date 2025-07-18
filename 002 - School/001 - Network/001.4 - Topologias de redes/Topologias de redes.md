@@ -33,6 +33,19 @@
 
 ![](Imagens/TREE.png)
 
+### Advantages of Tree Topology
+
+- It allows more devices to be attached to a single central hub thus it decreases the distance that is traveled by the signal to come to the devices.
+- It allows the network to get isolated and also prioritize from different computers.
+- We can add ***new devices to the existing network.***
+- ***Error detection*** and ***error correction*** are very easy in a tree topology.
+
+### Disadvantages of Tree Topology
+
+- If the central hub gets fails the entire system fails.
+- The cost is high because of the cabling.
+- If new devices are added, it becomes difficult to reconfigure.
+
 ---
 ## Anel (RING)
 
