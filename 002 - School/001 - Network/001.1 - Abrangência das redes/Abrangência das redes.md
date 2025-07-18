@@ -11,7 +11,34 @@
 ---
 ## PAN - Personal Area Network
 
+### Examples of PAN:
+ - **Body Area Network -**   
+    It is a mobile network that moves with a persona range for example when a person connects his smartphone to the Bluetooth headphone and moves in the market that refers to a body area network.
+- **Offline Network -**   
+    In this multiple devices are connected through Bluetooth or Wi-Fi. The devices attached to your computer including printers, mouse, speakers, and other appliances are integrated using a Personal Area Network (PAN) and do not use the internet. So a communication network is formed between the devices used in a small single space for example home.   
+     
+- **Home Office -**   
+    In Home Office set up a separate smaller network is set up for work purposes which is separate from the network used by other home appliances. This network works as a separate body with multiple other devices connected for office work purposes.
 
+  
+**Advantages and disadvantages of PAN -**   
+These are some of the Advantages of PAN :   
+ 
+
+- PAN is relatively flexible and provides high efficiency for short network ranges.
+- It needs easy setup and relatively low cost.
+- It does not require frequent installations and maintenance
+- It is easy and portable.
+- Needs fewer technical skills to use.
+
+  
+These are some of the disadvantages of PAN :   
+ 
+
+- Low network coverage area/range.
+- Limited to relatively low data rates.
+- Devices are not compatible with each other.
+- Inbuilt WPAN devices are a little bit costly.
 
 ---
 
@@ -111,9 +138,3 @@ In larger LANs that connect thousands of devices, more hardware, software, and c
 - ***Maintenance issues:*** In a WAN network, it is difficult to maintain the network especially a data center that operates 24/7 is the biggest challenge out of all. Here 24/7 needs assistance from network administrators and technicians. In a WAN, maintenance cost is high.
 
 ---
-
-### Others
-
-___WLAN - Wireless LAN___
-___VLAN - Virtual LAN___
-___VPN - Virtual Private Network___
