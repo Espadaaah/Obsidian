@@ -6,14 +6,14 @@ Login:
 
 
 ## http
-![](http.png)
-![](http%20v2.png)
-![](http%20v3.png)
+![](Imagens/http.png)
+![](Imagens/http%20v2.png)
+![](Imagens/http%20v3.png)
 
 
-![](Progress.png)
+![](Imagens/Progress%201.png)
 
-![](nikto.png)
+![](Imagens/nikto.png)
 
 
 ### IDOR
