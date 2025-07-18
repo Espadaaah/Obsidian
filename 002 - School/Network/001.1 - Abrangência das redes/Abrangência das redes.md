@@ -4,7 +4,6 @@
 [WAN - Wide Area Network](#WAN%20-%20Wide%20Area%20Network)
 	[Others](#Others)
 
-
 ![](Imagens/MAIN.png)
 
 ---
