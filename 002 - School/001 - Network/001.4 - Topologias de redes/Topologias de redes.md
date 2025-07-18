@@ -11,12 +11,12 @@
 [Hibrida / Combinada](#Hibrida%20/%20Combinada)
 ## Point-to-Point
 
-![](Imagens/Point-to-Point.png)
+![](Imagens/Point-to-Point-1.png)
 
 ---
 ## Point-to-MultiPoint
 
-
+![](Imagens/Pasted%20image%2020250718154254.png)
 
 ---
 ## Barramento (BUS)
