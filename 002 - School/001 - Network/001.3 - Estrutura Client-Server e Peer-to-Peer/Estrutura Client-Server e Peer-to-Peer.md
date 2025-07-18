@@ -19,21 +19,21 @@
 
 ### Types of P2P Networks
 
-- ***Unstructured P2P Networks:**** In this type of P2P network, each device is able to make an equal contribution. This network is easy to build as devices can be connected randomly in the network. But being unstructured, it becomes difficult to find content. For example, Napster, Gnutella, etc.
-- ****Structured P2P Networks:**** It is designed using software that creates a virtual layer in order to put the nodes in a specific structure. These are not easy to set up but can give easy access to users to the content. For example, P-Grid, Kademlia, etc. 
-- ****Hybrid P2P Networks:**** It combines the features of both P2P networks and [client-server architecture](https://www.geeksforgeeks.org/system-design/client-server-architecture-system-design/). An example of such a network is to find a node using the central server.
+- ***Unstructured P2P Networks:*** In this type of P2P network, each device is able to make an equal contribution. This network is easy to build as devices can be connected randomly in the network. But being unstructured, it becomes difficult to find content. For example, Napster, Gnutella, etc.
+- ***Structured P2P Networks:*** It is designed using software that creates a virtual layer in order to put the nodes in a specific structure. These are not easy to set up but can give easy access to users to the content. For example, P-Grid, Kademlia, etc. 
+- ***Hybrid P2P Networks:*** It combines the features of both P2P networks and client-server architecture. An example of such a network is to find a node using the central server.
 
-## Advantages of P2P Network
+### Advantages of P2P Network
 
-- ****Easy to Maintain:**** The network is easy to maintain because each node is independent of the other.
-- ****Less Costly:**** Since each node acts as a server, therefore the cost of the central server is saved. Thus, there is no need to buy an expensive server.
-- ****No Network Manager:**** In a P2P network since each node manages his or her own computer, thus there is no need for a network manager.
-- ****Adding Nodes is Easy:**** Adding, deleting, and repairing nodes in this network is easy.
-- ****Less Network Traffic:**** In a P2P network, there is less network traffic than in a client/ server network.
+- ***Easy to Maintain:*** The network is easy to maintain because each node is independent of the other.
+- ***Less Costly:*** Since each node acts as a server, therefore the cost of the central server is saved. Thus, there is no need to buy an expensive server.
+- ***No Network Manager:*** In a P2P network since each node manages his or her own computer, thus there is no need for a network manager.
+- ***Adding Nodes is Easy:*** Adding, deleting, and repairing nodes in this network is easy.
+- ***Less Network Traffic:*** In a P2P network, there is less network traffic than in a client/ server network.
 
 ## Disadvantages of P2P Network
 
-- ****Data is Vulnerable:**** Because of no central server, data is always vulnerable to getting lost because of no backup.
-- ****Less Secure:**** It becomes difficult to secure the complete network because each node is independent. 
-- ****Slow Performance:**** In a P2P network, each computer is accessed by other computers in the network which slows down the performance of the user.
-- ****Files Hard to Locate:**** In a P2P network, the files are not centrally stored, rather they are stored on individual computers which makes it difficult to locate the files.
+- ***Data is Vulnerable:*** Because of no central server, data is always vulnerable to getting lost because of no backup.
+- ***Less Secure:*** It becomes difficult to secure the complete network because each node is independent. 
+- ***Slow Performance:*** In a P2P network, each computer is accessed by other computers in the network which slows down the performance of the user.
+- ***Files Hard to Locate:*** In a P2P network, the files are not centrally stored, rather they are stored on individual computers which makes it difficult to locate the files.
