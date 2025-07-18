@@ -16,7 +16,7 @@ Login:
 
 ![](Imagens/Progress%201.png)
 
-### Cookie secure flag and http only // 
+### Cookie secure flag and http only // missing http header
 ![](Imagens/nikto.png)
 
 
