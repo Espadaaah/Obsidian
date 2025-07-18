@@ -36,7 +36,7 @@ Designing an effective client-server architecture involves several key principle
 
 ### Advantages of the Client-Server Model
 
-***The Client-Server model offers several advantages that make it popular in networked and distributed systems:***
+The Client-Server model offers several advantages that make it popular in networked and distributed systems:
 
 - ***Centralized Data Management:*** All data is stored in a centralized server, which makes it easier to manage, update, and back up.
 - ***Cost Efficiency:*** Since the server handles most of the processing, clients require fewer resources and can be simpler devices, reducing costs.
