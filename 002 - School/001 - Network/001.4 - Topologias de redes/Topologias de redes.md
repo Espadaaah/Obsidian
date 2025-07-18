@@ -31,17 +31,17 @@
 ---
 ## Árvore (TREE)
 
+![](Imagens/TREE.png)
 
 ---
 ## Anel (RING)
 
-
+![](Imagens/RING.png)
 
 ---
 ## Estrela (STAR)
 
-
-
+![](Imagens/STAR.png)
 
 ---
 ## Malha (MESH)
