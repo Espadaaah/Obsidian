@@ -8,16 +8,11 @@
 ![](Imagens/http%20v2.png)
 ![](Imagens/http%20v3.png)
 
-
-
-![](Imagens/Progress%201.png)
-
-### Cookie secure flag and http only // missing http header
+### Cookie secure flag and http only // missing http header 
 ![](Imagens/nikto.png)
 
 
 ### IDOR
-
 ![](Imagens/Progress-9.png)
 
 
@@ -31,14 +26,13 @@
 
 ![](Imagens/Progress-6.png)
 
-### Dump base
+### Dump base de dedos
 ![](Imagens/Progress-5.png)
 
 
 ### Create user blank or admin
-
 ![](Imagens/Progress-10.png)
 ![](Imagens/Progress-11.png)
 
-Brute Force
+### Brute Force
 ![](Imagens/Progress-12.png)
