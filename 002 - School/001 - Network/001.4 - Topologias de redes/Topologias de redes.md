@@ -38,6 +38,32 @@
 
 ![](Imagens/RING.png)
 
+The most common access method of ring topology is token passing.
+
+- ****Token passing:**** It is a network access method in which a token is passed from one node to another node.
+- ****Token:**** It is a frame that circulates around the network.
+
+### ****Operations of Ring Topology****
+
+- One station is known as a ****monitor**** station which takes all the responsibility for performing the operations.
+- To transmit the data, the station has to hold the token. After the transmission is done, the token is to be released for other stations to use.
+- When no station is transmitting the data, then the token will circulate in the ring.
+- There are two types of token release techniques: ****Early token release**** releases the token just after transmitting the data and ****Delayed token release**** releases the token after the acknowledgment is received from the receiver.
+
+### ****Advantages of Ring Topology****
+
+- The data transmission is high-speed.
+- The possibility of collision is minimum in this type of topology.
+- Cheap to install and expand.
+- It is less costly than a star topology.
+
+### ****Disadvantages of Ring Topology****
+
+- The failure of a single node in the network can cause the entire network to fail.
+- Troubleshooting is difficult in this topology.
+- The addition of stations in between or the removal of stations can disturb the whole topology.
+- Less secure.
+
 ---
 ## Estrela (STAR)
 
