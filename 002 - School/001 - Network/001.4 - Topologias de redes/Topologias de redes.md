@@ -11,7 +11,7 @@
 [Hibrida / Combinada](#Hibrida%20/%20Combinada)
 ## Point-to-Point
 
-![](Imagens/Point-to-Point-1.png)
+![](Imagens/Point-to-Point.png)
 
 ---
 ## Point-to-MultiPoint
@@ -30,7 +30,6 @@
 
 ---
 ## Árvore (TREE)
-
 
 
 ---
