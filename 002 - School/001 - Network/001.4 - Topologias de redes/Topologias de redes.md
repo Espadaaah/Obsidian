@@ -176,8 +176,31 @@ Below mentioned are some of the applications of Mesh Topology:
 
 ### Star-Ring Hybrid Topology
 
-![](Imagens/STAR%20HYBRID.png)
+![](Imagens/STAR-RING%20HYBRID.png)
 
 ### Star-Bus Hybrid Topology
 
 ![](Imagens/STAR-BUS%20HYBRID.png)
+
+### Hierarchical Network Topology
+
+
+### Advantages of Hybrid Topology
+
+Below are the advantages of hybrid topology:
+
+- Adding a new node or deleting the existing node is easy in hybrid topologies.
+- Hybrid topology is more secure, reliable, and scalable as compared to individual star, ring and mesh topology.
+- Error detection and troubleshooting is easier in hybrid topology.
+- When an organization has a large geographical area utilizing hybrid topology is considered as better option.
+- Traffic with large volume is handled easily by the hybrid topology.
+- The overall performance and speed is greater in hybrid topology.
+
+### Disadvantages of Hybrid Topology
+
+Below are the disadvantages of hybrid topology:
+
+- The design and implementation of hybrid network topology is difficult.
+- More number of cables and other physical devices are required for hybrid topology.
+- The process of installation of hybrid topology is difficult.
+- The overall implementation, setup and process of hybrid topology is much more costlier.
