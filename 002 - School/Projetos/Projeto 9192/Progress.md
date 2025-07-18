@@ -14,3 +14,7 @@ Login:
 ![](Progress.png)
 
 ![](nikto.png)
+
+
+### IDOR
+
