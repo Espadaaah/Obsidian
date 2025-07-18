@@ -1,4 +1,4 @@
-#Network/Sessão-1_4
+#Network/Sessão-1_Topologias-Redes
 [Point-to-Point](#Point-to-Point)
 [Point-to-MultiPoint](#Point-to-MultiPoint)
 [Barramento (BUS)](#Barramento%20(BUS))

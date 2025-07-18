@@ -1,4 +1,4 @@
-#Network/Sessão-1_Client-S
+#Network/Sessão-1_Client-Server_P2P
 [Client-Server](#Client-Server)
 [Peer-to-Peer (P2P)](#Peer-to-Peer%20(P2P))
 ## Client-Server
