@@ -10,17 +10,17 @@
 
 ### Advantages of Simplex Mode
 
-1. ****Simplicity:**** Simplex mode is simple to implement because data travels in only one direction. This reduces the difficulty of the communication system.
-2. ****Cost-Effective:**** Since communication is single directional, the hardware required (e.g., cables, connectors) can be less costly compared to more complex modes like half-duplex or full-duplex.
-3. ****No Collision :**** As data travels in only one direction, there's no risk of data collision, making the communication secure and consistent.
-4. ****Efficient Use for Specific Applications:**** Ideal for applications where only one-way communication is necessary, such as broadcasting, keyboard input to a computer, or sending data to a printer.
+1. ***Simplicity:*** Simplex mode is simple to implement because data travels in only one direction. This reduces the difficulty of the communication system.
+2. ***Cost-Effective*** Since communication is single directional, the hardware required (e.g., cables, connectors) can be less costly compared to more complex modes like half-duplex or full-duplex.
+3. ***No Collision :*** As data travels in only one direction, there's no risk of data collision, making the communication secure and consistent.
+4. ***Efficient Use for Specific Applications:*** Ideal for applications where only one-way communication is necessary, such as broadcasting, keyboard input to a computer, or sending data to a printer.
 
 ### Disadvantages of Simplex Mode
 
-1. ****Lack of Bidirectional Communication:****The most significant disadvantage is the incapacity to send data back in the opposite way. This limitation makes it unsuitable for interactive communication.
-2. ****Inefficiency for Complex Tasks:**** Simplex mode is not suitable for tasks requiring response or acknowledgment, such as error-checking or data authentication, which are crucial in many communication systems.
-3. ****Limited Flexibility:**** Simplex systems lack flexibility because they cannot be easily adjusted to situations where bidirectional communication might become necessary.
-4. ****Not Ideal for Modern Networks:**** Most advanced communication systems require bidirectional data flow, making simplex mode largely antiquated in networking scenarios.
+1. ***Lack of Bidirectional Communication:*** The most significant disadvantage is the incapacity to send data back in the opposite way. This limitation makes it unsuitable for interactive communication.
+2. ***Inefficiency for Complex Tasks:*** Simplex mode is not suitable for tasks requiring response or acknowledgment, such as error-checking or data authentication, which are crucial in many communication systems.
+3. ***Limited Flexibility:*** Simplex systems lack flexibility because they cannot be easily adjusted to situations where bidirectional communication might become necessary.
+4. ***Not Ideal for Modern Networks:*** Most advanced communication systems require bidirectional data flow, making simplex mode largely antiquated in networking scenarios.
 
 ---
 ## Half-Duplex
@@ -29,9 +29,9 @@
 
 ## Advantages of Half-Duplex Mode
 
-****1. Efficient Use of Channel:**** Half-duplex allows for bidirectional communication over a single channel, making it effective for scenarios where parallel transmission isn't required.
+***1. Efficient Use of Channel:*** Half-duplex allows for bidirectional communication over a single channel, making it effective for scenarios where parallel transmission isn't required.
 
-****2. Cost-Effective:**** It requires less complicated and less costly hardware than full-duplex systems, as only one device conveys at a time.
+***2. Cost-Effective:*** It requires less complicated and less costly hardware than full-duplex systems, as only one device conveys at a time.
 
 ***3. Simplified Collision Handling:*** Since only one device can transmit at a time, crashes are reduced, reducing the need for complicated collision detection and management protocols.
 
