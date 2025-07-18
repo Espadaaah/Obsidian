@@ -39,3 +39,6 @@
 
 ![](Imagens/Progress-10.png)
 ![](Imagens/Progress-11.png)
+
+Brute Force
+![](Imagens/Progress-12.png)
