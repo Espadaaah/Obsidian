@@ -16,12 +16,13 @@ Login:
 
 ![](Imagens/Progress%201.png)
 
+### Cookie secure flag and http only // 
 ![](Imagens/nikto.png)
 
 
 ### IDOR
 
-/checks/9999.aaaa.png
+![](Imagens/Progress-9.png)
 
 
 ### No limit logins attempts 
