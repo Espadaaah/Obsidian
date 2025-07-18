@@ -1,15 +1,17 @@
 #Network/Sessão-1/Topologias-Redes
+
+indice
+-
+
 [Point-to-Point](#Point-to-Point)
 [Point-to-MultiPoint](#Point-to-MultiPoint)
 [Barramento (BUS)](#Barramento%20(BUS))
 [Árvore (TREE)](#Árvore%20(TREE))
 [Anel (RING)](#Anel%20(RING))
 [Estrela (STAR)](#Estrela%20(STAR))
-	[[]]
 [Malha (MESH)](#Malha%20(MESH))
-	[Mesh Total](#Mesh%20Total)
-	[Mesh Parcial](#Mesh%20Parcial)
-[Hibrida / Combinada](#Hibrida%20/%20Combinada)
+[Hibrida / Combinada (HYBRID)](#Hibrida%20/%20Combinada%20(HYBRID))
+
 ## Point-to-Point
 
 ![](Imagens/Point-to-Point.png)
@@ -204,7 +206,7 @@ Below mentioned are some of the applications of Mesh Topology:
 - More maintenance is required in mesh topology.
 
 ---
-## Hibrida / Combinada
+## Hibrida / Combinada (HYBRID)
 
 ### Star-Ring Hybrid Topology
 
