@@ -16,12 +16,12 @@
 ---
 ## Point-to-MultiPoint
 
-![](Imagens/Pasted%20image%2020250718154254.png)
+![](Imagens/Point-to-Multipoint.png)
 
 ---
 ## Barramento (BUS)
 
-
+![](Imagens/BUS.png)
 
 - Todos os nodes estão interligados pelo cabo de backbone
 - Só uma comunicação em simultâneo. Se falhar os outros não são afetados
