@@ -55,4 +55,5 @@
 ---
 ## Hibrida / Combinada
 
+![](Imagens/HYBRID.png)
 
