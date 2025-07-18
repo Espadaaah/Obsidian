@@ -16,7 +16,10 @@
 [Firewalls](#Firewalls)
 	[Firewalls (IDS + IPS)](#Firewalls%20(IDS%20+%20IPS))
 	[Fabricantes de Firewalls](#Fabricantes%20de%20Firewalls)
-	[[#]]
+[Conversores](#Conversores)
+[Equipamentos de Energia Elétrica](#Equipamentos%20de%20Energia%20Elétrica)
+[UPS](#UPS)
+
 ## Placas de Rede
 
 ### Bus + Ethernet

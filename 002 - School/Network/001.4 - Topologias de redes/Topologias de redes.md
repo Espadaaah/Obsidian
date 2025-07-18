@@ -1,3 +1,9 @@
+[Point-to-Point](#Point-to-Point)
+[Point-to-MultiPoint](#Point-to-MultiPoint)
+[Barramento (BUS)](#Barramento%20(BUS))
+[Árvore (TREE)](#Árvore%20(TREE))
+[[#]]
+
 ## Point-to-Point
 
 ![](Imagens/Point-to-Point.png)
