@@ -58,10 +58,26 @@
 
 Below mentioned are some of the applications of Mesh Topology:
 
-- ***Wireless Networks:*** Many homes and small office spaces uses Mesh Wifi System for better internet coverage and connectivity.
+- ***Wireless Networks:*** Many homes and small office spaces uses Mesh WIFI System for better internet coverage and connectivity.
 - ***Industrial and Manufacturing Networks:*** Many industries uses mesh topology to control machinery, ensuring better productivity.
-- ***Smart Homes:** Some advanced homes also use mesh topology for connecting home appliances like smart lights, security systems, etc.
+- ***Smart Homes:*** Some advanced homes also use mesh topology for connecting home appliances like smart lights, security systems, etc.
 - ***Military Communication:*** Mesh Topology are used in Military Purposes as if one connection fails, then there is always a chance of another connection.
+
+### Advantages of Mesh Topology
+
+- In case of failure of a single device, the entire network didn't break.
+- There is no traffic problem as there is a dedicated point to point links for every device.
+- Mesh Topology provides high privacy and security.
+- Data transmission is more consistent because failure doesn’t disrupt its processes.
+- Adding new devices won’t disrupt transmission of data.
+
+### Disadvantages of Mesh Topology
+
+- Mesh Topology is costly as compared to the other network topologies i.e. star, bus, point to point topology.
+- Installation of nodes are difficult in mesh topology.
+- Power requirement is higher as all the nodes will need to remain active all the time and share the load.
+- Each node requires a extra utility cost.
+- More maintenance is required in mesh topology.
 
 ---
 ## Hibrida / Combinada
