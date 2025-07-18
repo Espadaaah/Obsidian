@@ -6,8 +6,8 @@
 [Anel (RING)](#Anel%20(RING))
 [Estrela (STAR)](#Estrela%20(STAR))
 [Malha (MESH)](#Malha%20(MESH))
-	[[]
 	[Mesh Total](#Mesh%20Total)
+	[Mesh Parcial](#Mesh%20Parcial)
 [Hibrida / Combinada](#Hibrida%20/%20Combinada)
 ## Point-to-Point
 
@@ -53,6 +53,15 @@
 
 ### Mesh Parcial
 - The partial mesh is more practical as compared to the full mesh. In a partially connected mesh, all the nodes aren't necessary to be connected with one another during a network. Peripheral networks are connected using partial mesh topology.
+
+### Applications of Mesh Topology
+
+Below mentioned are some of the applications of Mesh Topology:
+
+- ***Wireless Networks:*** Many homes and small office spaces uses Mesh Wifi System for better internet coverage and connectivity.
+- ***Industrial and Manufacturing Networks:*** Many industries uses mesh topology to control machinery, ensuring better productivity.
+- ***Smart Homes:** Some advanced homes also use mesh topology for connecting home appliances like smart lights, security systems, etc.
+- ***Military Communication:*** Mesh Topology are used in Military Purposes as if one connection fails, then there is always a chance of another connection.
 
 ---
 ## Hibrida / Combinada
