@@ -1,3 +1,5 @@
+[Client-Server](#Client-Server)
+[Peer-to-Peer (P2P)](#Peer-to-Peer%20(P2P))
 ## Client-Server
 
 ![](Imagens/Client-Server.png)
